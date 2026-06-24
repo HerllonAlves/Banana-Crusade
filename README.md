@@ -1,4 +1,4 @@
-# Trench Crusade - Tradução PT-BR 🇧🇷 (Banana-Crusade)
+# Trench Crusade - Tradução PT-BR (Banana-Crusade)
 
 Bem-vindo(a) ao projeto colaborativo de tradução não oficial do **Trench Crusade** para Português do Brasil!
 
