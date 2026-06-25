@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="banana_crusade_thumb" src="https://github.com/user-attachments/assets/69896e83-29aa-42c4-bd96-137a55098879" />
 # Trench Crusade - Tradução PT-BR (Banana-Crusade)
 
 Bem-vindo(a) ao projeto colaborativo de tradução não oficial do **Trench Crusade** para Português do Brasil!
