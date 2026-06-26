@@ -169,7 +169,7 @@ Opondo-se aos Fiéis, das terras sob a sombra ardente do Inferno, vem os Senhore
 
 Entre os lados em guerra se abre a Terra de Ninguém: interminaveis trincheiras, casamatas e bunkers, aldeias, cidades e municípios em ruínas, cravejados por artilharia devastadora, criam uma paisagem de horror, assombrada pelos fantasmas dos mortos. Templos, sinagogas, mesquitas, igrejas, basílicas e catedrais destruídos testemunham em silencio solene uma batalha tão espiritual quanto física.
 
-Os perigos no mar não são menos graves, onde as marinhas Heréticas dominam suas contrapartes Fiéis. Manter rotas comerciais vitais exige cada grama de força dos almirantes e capitaes encarregados da tarefa quase impossível de disputar os poderosos colossos e submarinos dos Heréticos. Apenas no Mediterrâneo os Fiéis e os Heréticos se enfrentam como quase iguais, presos em um tênue equilíbrio de poder.
+Os perigos no mar não são menos graves, onde as marinhas Heréticas dominam suas contrapartes Fiéis. Manter rotas comerciais vitais exige cada grama de força dos almirantes e capitães encarregados da tarefa quase impossível de disputar os poderosos colossos e submarinos dos Heréticos. Apenas no Mediterrâneo os Fiéis e os Heréticos se enfrentam como quase iguais, presos em um tênue equilíbrio de poder.
 
 Nenhuma parte do mundo é verdadeiramente segura das garras do Inferno, que se estendem cada vez mais para agarrar seu cobiçado prêmio: o domínio absoluto sobre a Criação.
 
@@ -1694,7 +1694,7 @@ Granadas de fragmentação ou bombas de mão são um elemento básico da guerra 
 
 ### Granadas de Gás
 
-Granadas de gás são armas insidiosas, atacando os pulmões e outros órgãos internos com fumos nocivos. Alquimistas demoníaços do Quinto Círculo são especialmente hábeis em criar essas armas diabólicas e odiadas.
+Granadas de gás são armas insidiosas, atacando os pulmões e outros órgãos internos com fumos nocivos. Alquimistas demoníacos do Quinto Círculo são especialmente hábeis em criar essas armas diabólicas e odiadas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
