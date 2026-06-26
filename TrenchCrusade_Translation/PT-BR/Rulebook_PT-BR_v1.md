@@ -362,7 +362,7 @@ Na Fase de Moral, se metade dos modelos em seu Bando estiverem Derrubados ou For
 
 ### Bandos Abalados
 
-Todos os Testes de Sucesso feitas para um Bando Abalado são tratadas como Testes de Sucesso Arriscados. Na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Sucesso para seu Bando, mesmo que menos de metade de seus modelos estejam Derrubados ou Fora de Ação. Se você tiver sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um turno futuro). No entanto, se você falhar, seu Bando foge e você imediatamente perde o jogo!
+Todos os Testes de Sucesso feitos para um Bando Abalado são tratados como Testes de Sucesso Arriscados. Na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Sucesso para seu Bando, mesmo que menos de metade de seus modelos estejam Derrubados ou Fora de Ação. Se você tiver sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um turno futuro). No entanto, se você falhar, seu Bando foge e você imediatamente perde o jogo!
 
 ---
 
@@ -648,7 +648,7 @@ Você pode desejar indicar que um modelo foi Ativado colocando um pequeno marcad
 
 ### AÇÕES
 
-Quando você Ativa um modelo, pode realizar uma ou mais AÇÕES com o modelo. Você pode realizar as AÇÕES em qualquer ordem que escolher. No entanto, cada tipo de AÇÃO só pode ser realizado uma vez por Ativação, a menos que declarado de outra forma nas regras. Por exemplo, você poderia Atirar, depois Mover e então Correr com um modelo durante sua Ativação, ou Correr, depois Carregar e então Lutar, mas não poderia Atirar, depois Correr e então Atirar novamente.
+Quando você Ativa um modelo, pode realizar uma ou mais AÇÕES com o modelo. Você pode realizar as AÇÕES em qualquer ordem que escolher. No entanto, cada tipo de AÇÃO só pode ser realizado uma vez por Ativação, a menos que declarado de outra forma nas regras. Por exemplo, você poderia Atirar, depois Mover e então Correr com um modelo durante sua Ativação, ou Correr, depois Investir e então Lutar, mas não poderia Atirar, depois Correr e então Atirar novamente.
 
 **Ações Comuns**
 
@@ -672,7 +672,7 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 ## Movimento
 
-Uma AÇÃO de Mover, Carregar, Recuar ou Correr permite que você pegue um de seus modelos e o mova pelo campo de batalha. O movimento é realizado da mesma forma para uma AÇÃO de Mover ou Correr, exceto que você deve fazer um Teste de Sucesso Arriscado antes de mover o modelo quando realizar uma AÇÃO de Correr. Movimentos de Investida e Recuo são realizados de forma semelhante a um movimento normal, mas em ambos os casos regras adicionais se aplicam a forma como o movimento é realizado.
+Uma AÇÃO de Mover, Investir, Recuar ou Correr permite que você pegue um de seus modelos e o mova pelo campo de batalha. O movimento é realizado da mesma forma para uma AÇÃO de Mover ou Correr, exceto que você deve fazer um Teste de Sucesso Arriscado antes de mover o modelo quando realizar uma AÇÃO de Correr. Movimentos de Investida e Recuo são realizados de forma semelhante a um movimento normal, mas em ambos os casos regras adicionais se aplicam a forma como o movimento é realizado.
 
 **Mover e mover**
 
@@ -692,7 +692,7 @@ Para mover um modelo, pegue-o e mova-o ao longo de um caminho pelo campo de bata
 
 ### INVESTIDA
 
-Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado carga, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Derrubados ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
+Realizar uma AÇÃO de Investir com um modelo permite que você faça um tipo especial de movimento, chamado investida, que é usado para trazer um modelo para dentro de 1" de um modelo inimigo. Você só pode se mover para dentro de 1" de um modelo inimigo (medido a partir da base de cada modelo) realizando uma AÇÃO de Investir. Isso se aplica a todos os modelos inimigos, incluindo aqueles que estão Derrubados ou modelos inimigos que já estão dentro de 1" de um modelo amigo diferente.
 
 **Declarar Investida**
 
@@ -712,7 +712,7 @@ Após determinar o Bônus de Investida, mova o modelo investindo em direção ao
 
 - O modelo deve se mover pela rota mais curta disponível que o leve diretamente ao alvo.
 - Escalar, Saltar, Pular Para Baixo ou mover-se através de terreno Perigoso é opcional durante uma investida, desde que a rota usada para evitar os obstáculos seja a mais curta possível.
-- O modelo deve parar assim que se mover para contato com o alvo, a menos que continuar com seu movimento permita que ele permaneça em contato com o alvo é termine dentro de 1" de quaisquer outros modelos inimigos.
+- O modelo deve parar assim que se mover para contato com o alvo, a menos que continuar com seu movimento permita que ele permaneça em contato com o alvo e termine dentro de 1" de quaisquer outros modelos inimigos.
 
 Se após completar o movimento o modelo investindo estiver dentro de 1" do alvo, o modelo investindo é considerado como tendo completado a investida com sucesso. Se o modelo investindo não alcançar seu alvo, a investida é considerada como tendo falhado, mas o modelo investindo deve permanecer onde estava após o movimento de investida ser completado.
 
@@ -1049,7 +1049,7 @@ Adicione -1 DADO para Ataques Corpo a Corpo contra um modelo com esta Palavra-Ch
 MARCADORES DE SANGUE são colocados em modelos que sofrem um ferimento (ver MARCADORES DE SANGUE).
 
 ### GOLPE VARRENTE(X) (Efeito)
-Quando você realiza uma AÇÃO de Lutar e escolhe uma Arma com esta Palavra-Chave para fazer um Ataque Corpo a Corpo, você pode fazer um número de Ataques Corpo a Corpo com esta Arma igual a X, um após o outro. Os ataques podem ter como alvo modelos inimigos diferentes, se desejado. Resolva cada ataque um de cada vez usando os passos 2 a 4 da Sequência de Ataque Corpo a Corpo. Quaisquer MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO gastos modificam apenas à Rolagem de Ferimento para o Ataque Corpo a Corpo em que foram gastos.
+Quando você realiza uma AÇÃO de Lutar e escolhe uma Arma com esta Palavra-Chave para fazer um Ataque Corpo a Corpo, você pode fazer um número de Ataques Corpo a Corpo com esta Arma igual a X, um após o outro. Os ataques podem ter como alvo modelos inimigos diferentes, se desejado. Resolva cada ataque um de cada vez usando os passos 2 a 4 da Sequência de Ataque Corpo a Corpo. Quaisquer MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO gastos modificam apenas a Rolagem de Ferimento para o Ataque Corpo a Corpo em que foram gastos.
 
 ### CONSUMÍVEL (Efeito)
 Em uma campanha (ver Regras de Campanha), Equipamento de Batalha com esta Palavra-Chave é perdido ao final de uma partida em que for usado.
