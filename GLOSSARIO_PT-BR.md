@@ -58,7 +58,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | DESPATCH | EXECUÇÃO | Se o alvo estiver Derrubado, ignora a Armadura automaticamente. |
 | INFECTION MARKER | MARCADOR DE INFECÇÃO | Ao ferir, coloca marcador que reduz atributos até o fim da batalha. |
 | CLEAVE(X) | GOLPE VARRENTE(X) | Se o ataque remove um modelo, X de dano excedente atinge outro adjacente. |
-| OTHISMOS | ARREMESSO | Empurra o alvo D6" na direção do ataque após acerto bem-sucedido. |
+| OTHISMOS | EMPURRÃO | Empurra o alvo D6" na direção do ataque após acerto bem-sucedido. |
 | BATTER | PORRADA | A arma pode ser usada em corpo a corpo com bônus de CaC adicional. |
 | ASSAULT | ASSALTO | Pode mover e atacar à distância na mesma ativação sem penalidade. |
 
