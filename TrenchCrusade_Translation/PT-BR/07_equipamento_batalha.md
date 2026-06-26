@@ -1,6 +1,6 @@
 # Equipamento de Batalha
 
-Modelos geralmente carregam Equipamento de Batalha que os ajuda a lutar, os protege de danos e lhes concede benefícios ou habilidades especiais. Está seção das regras apresenta Descrições de Equipamento de Batalha para os tipos mais comuns de Equipamento de Batalha. Os documentos de Lista de Facção incluem Equipamento de Batalha adicional disponível exclusivamente para membros da Facção (ver Warbands of Trench Crusade).
+Modelos geralmente carregam Equipamento de Batalha que os ajuda a lutar, os protege de danos e lhes concede benefícios ou habilidades especiais. Esta seção das regras apresenta Descrições de Equipamento de Batalha para os tipos mais comuns de Equipamento de Batalha. Os documentos de Lista de Facção incluem Equipamento de Batalha adicional disponível exclusivamente para membros da Facção (ver Warbands of Trench Crusade).
 
 ---
 
@@ -22,7 +22,7 @@ Cada peça de Equipamento de Batalha tem uma Descrição de Equipamento de Batal
   - **Alcance:** Indica a distância na qual o Equipamento de Batalha pode ser usado para fazer um ataque.
     - *Armas a Distância:* Se o alcance e um valor em polegadas (ex: 12"), o Equipamento de Batalha e uma Arma a Distância e pode ser usado para fazer Ataques a Distância.
     - *Armas Corpo a Corpo:* Se o alcance está listado como "Corpo a Corpo", então a Arma e uma Arma Corpo a Corpo e pode ser usada para fazer Ataques Corpo a Corpo contra alvos dentro de 1" dela.
-    - *Duplo proposito:* Se o alcance e um valor em polegadas seguido de Corpo a Corpo (ex: 12"/Corpo a Corpo), então o Equipamento de Batalha pode ser usado como Arma a Distância e como Arma Corpo a Corpo.
+    - *Duplo propósito:* Se o alcance e um valor em polegadas seguido de Corpo a Corpo (ex: 12"/Corpo a Corpo), então o Equipamento de Batalha pode ser usado como Arma a Distância e como Arma Corpo a Corpo.
     - *Outro:* Se o alcance está listado como "-", o Equipamento de Batalha não pode ser usado para fazer um ataque.
   - **Palavras-Chave:** Quaisquer Palavras-Chave que se apliquem a peça de Equipamento de Batalha.
     - *Palavras-Chave de Arma:* Palavras-Chave para Armas de 1 Mão ou 2 Mãos e Granadas se aplicam a ataques feitos pelo modelo que possui a arma (ignore-as em todos os outros momentos).
@@ -54,7 +54,7 @@ A menos que declarado de outra forma, um modelo está limitado ao seguinte Equip
 Um Escudo requer uma mão para carregar e não pode ser desequipado. Como resultado, se um modelo tiver um Escudo, as seguintes restrições se aplicam ao outro Equipamento de Batalha que ele pode carregar:
 
 - Ele pode carregar no máximo uma Arma Corpo a Corpo de 1 Mão e uma Arma a Distância de 1 Mão cada.
-- Ele não pode carregar uma Arma de 2 Mãos, a menos que a Arma e o Escudo ambos tenham a estipulacao Combo de Escudo (ver Warbands of Trench Crusade).
+- Ele não pode carregar uma Arma de 2 Mãos, a menos que a Arma e o Escudo ambos tenham a estipulação Combo de Escudo (ver Warbands of Trench Crusade).
 
 ### Equipamento de Batalha de Duplo Propósito
 
@@ -78,15 +78,15 @@ Armas a Distância podem ser usadas para realizar um Ataque a Distância (ver At
 
 ### Rifle Antimaterial
 
-Enormes rifles longos projetados para eliminar alvos pesadamente blindados, veiculos e posições fortificadas. Com a poderosa armadura disponível para os exércitos da Grande Guerra, essas armas aterrorizantes são muito procuradas. Um ponto negativo e seu enorme peso e recuo terrificante, e portanto são mais frequentemente usados por Comunicantes ou Ungidos que possuem a força sobrenatural para empunhar tais armas.
+Enormes rifles longos projetados para eliminar alvos pesadamente blindados, veículos e posições fortificadas. Com a poderosa armadura disponível para os exércitos da Grande Guerra, essas armas aterrorizantes são muito procuradas. Um ponto negativo e seu enorme peso e recuo terrificante, e portanto são mais frequentemente usados por Comunicantes ou Ungidos que possuem a força sobrenatural para empunhar tais armas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
 | 2 Mãos | 36" | +1 DADO DE FERIMENTO, CRÍTICO, PESADO, IGNORA ARMADURA |
 
-### Pistola Automatica
+### Pistola Automática
 
-Pistolas automaticas são símbolos de prestígio devido a sua raridade e custo. São armas excelentes ao invadir trincheiras ou lutar em combate corpo a corpo. Possuem alta cadência de fogo, embora possam ser difíceis de controlar mesmo para os melhores atiradores, já que geralmente não possuem coronha.
+Pistolas automáticas são símbolos de prestígio devido a sua raridade e custo. São armas excelentes ao invadir trincheiras ou lutar em combate corpo a corpo. Possuem alta cadência de fogo, embora possam ser difíceis de controlar mesmo para os melhores atiradores, já que geralmente não possuem coronha.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -94,17 +94,17 @@ Pistolas automaticas são símbolos de prestígio devido a sua raridade e custo.
 
 ### Rifle Automático
 
-Uma maravilha da engenharia moderna, apenas alguns prototipos existem. Possui alta cadência de fogo e pode ser recarregado rapidamente.
+Uma maravilha da engenharia moderna, apenas alguns protótipos existem. Possui alta cadência de fogo e pode ser recarregado rapidamente.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
 | 2 Mãos | 24" | ASSALTO, AUTOMÁTICO 2 |
 
-*Fogo Concentrado:* Quando está Arma e usada para fazer 2 Ataques a Distância, o mesmo modelo inimigo deve ser o alvo de ambos os ataques.
+*Fogo Concentrado:* Quando esta Arma e usada para fazer 2 Ataques a Distância, o mesmo modelo inimigo deve ser o alvo de ambos os ataques.
 
-### Espingarda Automatica
+### Espingarda Automática
 
-Está espingarda e equipada com um carregador automatico, uma invencao recente do corpo de engenharia prussiano de Konigsberg. E ideal para combate em espaços fechados graças a sua alta cadência de fogo e precisão. A tecnologia não foi aperfeiçoada, no entanto, e às vezes causa falhas de alimentacao e travamentos.
+Esta espingarda e equipada com um carregador automático, uma invenção recente do corpo de engenharia prussiano de Konigsberg. E ideal para combate em espaços fechados graças a sua alta cadência de fogo e precisão. A tecnologia não foi aperfeiçoada, no entanto, e às vezes causa falhas de alimentacao e travamentos.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -144,7 +144,7 @@ Modificacoes de grandes rifles de cerco projetados para lancar granadas a longas
 
 ### Lança-Chamas Pesado
 
-Esses lança-chamas massivos são normalmente montados em veiculos blindados, mas aqueles que possuem força sobrenatural podem usa-los como armas de infantaria.
+Esses lança-chamas massivos são normalmente montados em veículos blindados, mas aqueles que possuem força sobrenatural podem usa-los como armas de infantaria.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -152,17 +152,17 @@ Esses lança-chamas massivos são normalmente montados em veiculos blindados, ma
 
 ### Espingarda Pesada
 
-Está massiva espingarda calibre 8 e usada para derrubar oponentes extremamente poderosos e grandes a curta distância. E conhecida como "Mata-Lobos" em Nova Antioquia, pois e a arma favorecida pela soldadesca do Duque para derrubar as Bestas de Assalto Lobo de Guerra Heréticas. Espingardas pesadas usam projeteis de liga tungstenio-orichalcum, o que explica seu enorme poder de parada a curtas distâncias.
+Esta massiva espingarda calibre 8 e usada para derrubar oponentes extremamente poderosos e grandes a curta distância. E conhecida como "Mata-Lobos" em Nova Antioquia, pois e a arma favorecida pela soldadesca do Duque para derrubar as Bestas de Assalto Lobo de Guerra Heréticas. Espingardas pesadas usam projeteis de liga tungstenio-orichalcum, o que explica seu enorme poder de parada a curtas distâncias.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
 | 2 Mãos | 12" | +1 DADO, +1 DADO DE FERIMENTO, PESADO, ESPINGARDA |
 
-*Projeteis de Liga Tungstenio-Orichalcum:* Adicione +1 DADO DE FERIMENTO a rolagens para Ataques a Distância feitos por está Arma em Curto Alcance.
+*Projeteis de Liga Tungstenio-Orichalcum:* Adicione +1 DADO DE FERIMENTO a rolagens para Ataques a Distância feitos por esta Arma em Curto Alcance.
 
 ### Metralhadora
 
-Metralhadoras são armas de fogo totalmente automaticas letais, capazes de ceifar fileiras inteiras de infantaria a distância. A cadência de fogo depende do mecanismo de travamento usado, mas tem media de 500 tiros por minuto.
+Metralhadoras são armas de fogo totalmente automáticas letais, capazes de ceifar fileiras inteiras de infantaria a distância. A cadência de fogo depende do mecanismo de travamento usado, mas tem média de 500 tiros por minuto.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -186,7 +186,7 @@ Pistolas vem em uma variedade impressionante, desde revolveres até pistolas sem
 
 ### Rifle Semiautomático
 
-Rifles semiautomáticos são ditos ser uma invencao de Marbas, o Demônio que possui grande sabedoria e conhecimento em artes mecânicas. São excelentes tanto a longa distância quanto em assalto, combinando precisão e alta cadência de fogo, embora sejam propensos a travamentos.
+Rifles semiautomáticos são ditos ser uma invenção de Marbas, o Demônio que possui grande sabedoria e conhecimento em artes mecânicas. São excelentes tanto a longa distância quanto em assalto, combinando precisão e alta cadência de fogo, embora sejam propensos a travamentos.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -222,7 +222,7 @@ Um rifle de precisão e um rifle de alta precisão e longo alcance, amplamente u
 
 ### Submetralhadora
 
-A submetralhadora (ou SMG) e uma arma de fogo totalmente automatica, trocando menor poder de penetracao e alcance por uma cadência de fogo muito maior. Ideal para confrontos de curto alcance, e muito procurada por warbands apesar de sua escassez e alto custo.
+A submetralhadora (ou SMG) e uma arma de fogo totalmente automática, trocando menor poder de penetração e alcance por uma cadência de fogo muito maior. Ideal para confrontos de curto alcance, e muito procurada por warbands apesar de sua escassez e alto custo.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -244,7 +244,7 @@ Uma arma de haste com um explosivo direcional montado em sua cabeça. É excepci
 |------|---------|----------------|
 | 2 Mãos | Corpo a Corpo | +1 DADO DE FERIMENTO, CRÍTICO, IGNORA ARMADURA, ARRISCADO |
 
-*Perigoso:* Coloque 1 MARCADOR DE SANGUE ao lado do modelo usando está Arma se ele fizer um Ataque Corpo a Corpo e a Rolagem de Sucesso for um Sucesso ou Sucesso Crítico.
+*Perigoso:* Coloque 1 MARCADOR DE SANGUE ao lado do modelo usando esta Arma se ele fizer um Ataque Corpo a Corpo e a Rolagem de Sucesso for um Sucesso ou Sucesso Crítico.
 
 ### Baioneta
 
@@ -262,11 +262,11 @@ Os chicotes de metal da Igreja são supremamente bons tanto em incutir disciplin
 |------|---------|----------------|
 | 1 Mão | Corpo a Corpo | +1 DADO |
 
-*Desajeitado:* A Palavra-Chave +1 DADO não se aplica quando está Arma e usada como Arma Secundária.
+*Desajeitado:* A Palavra-Chave +1 DADO não se aplica quando esta Arma e usada como Arma Secundária.
 
 ### Grande Martelo/Malho
 
-São armas grandes e volumosas, frequentemente feitas de madeira resistente com ponta de metal de aço, chumbo ou ferro do Tártaro. É preciso grande força para lutar com ela por qualquer periodo de tempo. São especialmente adequadas para atacar alvos blindados.
+São armas grandes e volumosas, frequentemente feitas de madeira resistente com ponta de metal de aço, chumbo ou ferro do Tártaro. É preciso grande força para lutar com ela por qualquer período de tempo. São especialmente adequadas para atacar alvos blindados.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -288,7 +288,7 @@ A adaga misericórdia e projetada para tirar inimigos de seu sofrimento encontra
 |------|---------|----------------|
 | 1 Mão | Corpo a Corpo | - |
 
-*Execução:* Está arma tem a Palavra-Chave IGNORA ARMADURA se o alvo estiver Abatido.
+*Execução:* Esta arma tem a Palavra-Chave IGNORA ARMADURA se o alvo estiver Abatido.
 
 ### Arma de Haste
 
@@ -316,7 +316,7 @@ Clavas de trincheira são uma das armas mais comuns da Grande Guerra, pois o com
 
 ### Faça de Trincheira
 
-Virtualmente todos os soldados carregam uma faça de trincheira, adaga ou outro tipo de lâmina para confrontos de curta distância. Pode faltar-lhe o poder devastador de um grande malho ou outras armas corpo a corpo mais pesadas, mas está arma humilde ceifou incontaveis vidas durante a Grande Guerra.
+Virtualmente todos os soldados carregam uma faça de trincheira, adaga ou outro tipo de lâmina para confrontos de curta distância. Pode faltar-lhe o poder devastador de um grande malho ou outras armas corpo a corpo mais pesadas, mas esta arma humilde ceifou incontaveis vidas durante a Grande Guerra.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -356,7 +356,7 @@ Granadas incendiárias podem incendiar seu alvo com enxofre, fósforo ou gás in
 
 ### Coquetel Molotov
 
-Desenvolvido na desesperada fronteira de batalha finlandesa contra demônios de gelo, está arma improvisada consiste em uma garrafa de vidro contendo uma substância inflamável como gasolina, álcool ou uma mistura semelhante a napalm, além de uma fonte de ignição.
+Desenvolvido na desesperada fronteira de batalha finlandesa contra demônios de gelo, esta arma improvisada consiste em uma garrafa de vidro contendo uma substância inflamável como gasolina, álcool ou uma mistura semelhante a napalm, além de uma fonte de ignição.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -432,7 +432,7 @@ A tecnologia avançada de armadura forçou as armarias da Grande Guerra a forjar
 |------|---------|----------------|
 | Equipamento | - | - |
 
-*Examinar o Terreno:* Modelos inimigos não podem usar a Palavra-Chave INFILTRADOR para se posicionar dentro de 16" de um modelo com está Palavra-Chave, a menos que estejam em sua própria zona de posicionamento.
+*Examinar o Terreno:* Modelos inimigos não podem usar a Palavra-Chave INFILTRADOR para se posicionar dentro de 16" de um modelo com esta Palavra-Chave, a menos que estejam em sua própria zona de posicionamento.
 
 ### Ícone Abençoado
 
@@ -442,7 +442,7 @@ Pequenos ícones de santos, grandes anjos e guerreiros sagrados são uma visão 
 |------|---------|----------------|
 | Equipamento | - | CONSUMIVEL |
 
-*Talismã:* Uma vez durante uma partida, quando uma Rolagem de Sucesso Arriscada para um modelo com um Ícone Abençoado for uma Falha, você pode dizer que o modelo usara seu Talismã. Se fizer isso, a Ativação do modelo não termina.
+*Talismã:* Uma vez durante uma partida, quando uma Rolagem de Sucesso Arriscada para um modelo com um Ícone Abençoado for uma Falha, você pode dizer que o modelo usará seu Talismã. Se fizer isso, a Ativação do modelo não termina.
 
 ### Capacete de Combate
 
@@ -484,13 +484,13 @@ Gás mostarda, fosgeno, cloro, bem como fumos nocivos dos bolgias do Inferno, as
 
 ### Contrato de Alma Condenada
 
-Um contrato infernal assinado por um Herético e o demônio que vira coletar a alma condenada quando a morte estiver proxima. O signatario mortal explode em chamas Infernais quando gravemente ferido.
+Um contrato infernal assinado por um Herético e o demônio que vira coletar a alma condenada quando a morte estiver próxima. O signatario mortal explode em chamas Infernais quando gravemente ferido.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
 | Equipamento | - | - |
 
-*Êxodo Flamejante:* Se um modelo com um Contrato de Alma Condenada for colocado Fora de Ação, antes de remove-lo do campo de batalha, adicione 1 MARCADOR DE SANGUE a cada modelo inimigo que esteja dentro de 1" dele. Modelos que tenham a Palavra-Chave NEGAR FOGO não são afetados por está regra especial.
+*Êxodo Flamejante:* Se um modelo com um Contrato de Alma Condenada for colocado Fora de Ação, antes de remove-lo do campo de batalha, adicione 1 MARCADOR DE SANGUE a cada modelo inimigo que esteja dentro de 1" dele. Modelos que tenham a Palavra-Chave NEGAR FOGO não são afetados por esta regra especial.
 
 ### Relíquia Sagrada
 
@@ -534,7 +534,7 @@ Primeiros socorros no campo de batalha trouxeram muitos soldados de volta da bei
 |------|---------|----------------|
 | Equipamento | - | - |
 
-*Tratar AÇÃO:* Um modelo com está Palavra-Chave pode realizar uma AÇÃO de Tratar. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, a Ativação do modelo termina imediatamente. Se for um Sucesso ou Sucesso Crítico, você pode fazer uma das seguintes coisas:
+*Tratar AÇÃO:* Um modelo com esta Palavra-Chave pode realizar uma AÇÃO de Tratar. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, a Ativação do modelo termina imediatamente. Se for um Sucesso ou Sucesso Crítico, você pode fazer uma das seguintes coisas:
 - Remover 1 MARCADOR DE SANGUE do modelo ou de um modelo amigo dentro de 1" do modelo.
 - Levantar um modelo amigo que esteja Abatido e dentro de 1" do modelo.
 
@@ -546,7 +546,7 @@ Este kit inclui cordas, mosquetoes, argolas, arnes de montanhismo e pitons para 
 |------|---------|----------------|
 | Equipamento | - | - |
 
-*Cordas e Pitons:* Adicione +1 DADO a Rolagens de Sucesso Arriscadas para modelos amigos com está regra especial que estejam tentando escalar uma superfície abrupta.
+*Cordas e Pitons:* Adicione +1 DADO a Rolagens de Sucesso Arriscadas para modelos amigos com esta regra especial que estejam tentando escalar uma superfície abrupta.
 
 ### Instrumento Musical
 
@@ -600,4 +600,4 @@ Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por
 |------|---------|----------------|
 | Equipamento | - | CONSUMIVEL |
 
-*Talismã:* Uma vez durante uma partida, quando uma Rolagem de Sucesso Arriscada para um modelo com um Amuleto Profano for uma Falha, você pode dizer que o modelo o usara. Se fizer isso, a Ativação do modelo não termina.
+*Talismã:* Uma vez durante uma partida, quando uma Rolagem de Sucesso Arriscada para um modelo com um Amuleto Profano for uma Falha, você pode dizer que o modelo o usará. Se fizer isso, a Ativação do modelo não termina.

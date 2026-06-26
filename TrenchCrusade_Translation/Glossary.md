@@ -1,13 +1,13 @@
 # Glossário de Termos: Tradução Trench Crusade PT-BR
 
-> Glossário completo e canonico em: `c:\Users\herll\Downloads\Trabalho\TrenchCrusade_Project\GLOSSARIO_PT-BR.md`
-> Este arquivo e apenas uma referencia rápida para o projeto de traducao.
+> Glossário completo e canônico em: `c:\Users\herll\Downloads\Trabalho\TrenchCrusade_Project\GLOSSARIO_PT-BR.md`
+> Este arquivo é apenas uma referência rápida para o projeto de tradução.
 
 ---
 
 ## Atributos
 
-| Ingles | PT-BR | Abrev. |
+| Inglês | PT-BR | Abrev. |
 |--------|-------|--------|
 | Movement | Movimento | M |
 | Melee | Corpo a Corpo | CaC |
@@ -17,7 +17,7 @@
 
 ## Palavras-Chave de Modelo
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
 | LEADER | LÍDER |
 | ELITE | ELITE |
@@ -36,7 +36,7 @@
 
 ## Palavras-Chave de Arma
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
 | AUTOMATIC(X) | AUTOMÁTICO(X) |
 | BLAST(X") | EXPLOSÃO(X") |
@@ -57,7 +57,7 @@
 
 ## Condições
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
 | Down | Abatido |
 | Out of Action | Fora de Ação |
@@ -68,7 +68,7 @@
 
 ## Mecânicas
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
 | Success Roll | Rolagem de Sucesso |
 | Risky Success Roll | Rolagem de Sucesso Arriscada |
@@ -85,7 +85,7 @@
 
 ## Ações
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
 | Move | Mover |
 | Charge | Carregar |
@@ -97,7 +97,7 @@
 
 ## Fases do Jogo
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
 | Initiative Phase | Fase de Iniciativa |
 | Activation Phase | Fase de Ativação |
@@ -107,10 +107,10 @@
 
 ## Cenários
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
-| Claim No Man's Land | Reclamar a Terra de Ninguem |
-| Hunt for Heroes | Caça aos Herois |
+| Claim No Man's Land | Reclamar a Terra de Ninguém |
+| Hunt for Heroes | Caça aos Heróis |
 | Relic Hunt | Caça a Relíquia |
 | Trench Warfare | Guerra de Trincheiras |
 | Armoured Train | Trem Blindado |
@@ -122,20 +122,20 @@
 | The High Ground | Terreno Elevado |
 | Great War | A Grande Guerra |
 
-## Facoes
+## Facções
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
 | Principality of New Antioch | Principado de Nova Antioquia |
 | Iron Sultanate | Sultanato de Ferro |
 | Trench Pilgrims | Peregrinos das Trincheiras |
-| Heretic Legion | Legiao Herética |
+| Heretic Legion | Legião Herética |
 | Cult of the Black Grail | Culto do Graal Negro |
 | Court of the Seven-Headed Serpent | Corte da Serpente de Sete Cabeças |
 
 ## Patronos
 
-| Ingles | PT-BR |
+| Inglês | PT-BR |
 |--------|-------|
 | Temporal Lord | Senhor Temporal |
 | Warrior Saint | Santo Guerreiro |

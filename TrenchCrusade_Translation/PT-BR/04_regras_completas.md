@@ -52,7 +52,7 @@ Por fim, você precisará escolher um cenário para a partida que está prestes 
 
 ## Conceitos Centrais
 
-Está seção das regras explica os principios essenciais que governam como uma partida de Trench Crusade e jogada.
+Esta seção das regras explica os principios essenciais que governam como uma partida de Trench Crusade e jogada.
 
 ### PALAVRAS-CHAVE
 
@@ -178,11 +178,11 @@ Azebs são soldados recrutados da multidão de províncias do sultanato, onde um
 
 ### FRAÇÕES
 
-Em todos os casos em que as regras se referem a frações, mantenha quaisquer frações se o valor sendo modificado for uma distância, como o alcance de uma Arma ou o movimento de um modelo. Em todos os outros casos, arredonde para cima até o número inteiro mais proximo.
+Em todos os casos em que as regras se referem a frações, mantenha quaisquer frações se o valor sendo modificado for uma distância, como o alcance de uma Arma ou o movimento de um modelo. Em todos os outros casos, arredonde para cima até o número inteiro mais próximo.
 
 ### MEDINDO DISTÂNCIAS
 
-Ao medir para ou de um modelo ou peça de terreno, sempre meça a partir de sua base. Se o modelo ou peça de terreno não tiver uma base, meça até a parte mais proxima do modelo. Algo está "dentro de" uma certa distância de outra coisa se a distância entre os pontos mais proximos das duas coisas for igual ou menor que a distância declarada.
+Ao medir para ou de um modelo ou peça de terreno, sempre meça a partir de sua base. Se o modelo ou peça de terreno não tiver uma base, meça até a parte mais próxima do modelo. Algo está "dentro de" uma certa distância de outra coisa se a distância entre os pontos mais próximos das duas coisas for igual ou menor que a distância declarada.
 
 **Em Contato**
 
@@ -190,7 +190,7 @@ Dois modelos estão em contato se qualquer parte dos modelos e/ou suas bases est
 
 **Dentro de**
 
-Algo está dentro de uma certa distância de outra coisa se a distância entre os pontos mais proximos das duas coisas for igual ou menor que a distância declarada. Por exemplo, se a distância entre um modelo e uma peça de terreno for 12", então o modelo e a peça de terreno estão dentro de 12" um do outro.
+Algo está dentro de uma certa distância de outra coisa se a distância entre os pontos mais próximos das duas coisas for igual ou menor que a distância declarada. Por exemplo, se a distância entre um modelo e uma peça de terreno for 12", então o modelo e a peça de terreno estão dentro de 12" um do outro.
 
 ### LINHA DE VISÃO
 
@@ -210,7 +210,7 @@ Quando se trata de garantir que os modelos em seu jogo correspondam ao tamanho d
 
 ### POSICIONAMENTO DE MODELOS
 
-Quando você monta ou move um modelo, ele não pode ser colocado com sua base sobrepondo Terreno Intransponível ou a base de outro modelo. Você pode montar um modelo de forma que parte de sua base esteja no campo de batalha ou em terreno e o restante de sua base esteja "no ar", desde que mais da metade da base do modelo esteja no campo de batalha ou em terreno. Com a permissao de seu oponente, você pode coloca-lo em um local seguro proximo para que não haja risco de cair e ser danificado (ele ainda contara como estando naquele local para todos os outros propositos).
+Quando você monta ou move um modelo, ele não pode ser colocado com sua base sobrepondo Terreno Intransponível ou a base de outro modelo. Você pode montar um modelo de forma que parte de sua base esteja no campo de batalha ou em terreno e o restante de sua base esteja "no ar", desde que mais da metade da base do modelo esteja no campo de batalha ou em terreno. Com a permissao de seu oponente, você pode coloca-lo em um local seguro próximo para que não haja risco de cair e ser danificado (ele ainda contara como estando naquele local para todos os outros propósitos).
 
 **Posicionamento e Reposicionamento**
 
@@ -238,7 +238,7 @@ Uma partida de Trench Crusade e dividida em Turnos. O cenário sendo usado para 
 
 Um Turno de Trench Crusade e dividido nas seguintes fases:
 
-1. **Fase de Iniciativa:** Determine qual jogador tem a Iniciativa e então realize quaisquer tarefas de "inicio de Turno".
+1. **Fase de Iniciativa:** Determine qual jogador tem a Iniciativa e então realize quaisquer tarefas de "início de Turno".
 2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas as Warbands tenham sido Ativados uma vez cada.
 3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Abatidos ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
 
@@ -246,7 +246,7 @@ Um Turno de Trench Crusade e dividido nas seguintes fases:
 
 ### 1. Fase de Iniciativa
 
-No inicio de cada Turno, você deve determinar qual jogador tem a Iniciativa para o Turno e então realizar quaisquer tarefas de inicio de Turno. O jogador com a Iniciativa escolhe qual jogador realizara a primeira Ativação na Fase de Ativação.
+No início de cada Turno, você deve determinar qual jogador tem a Iniciativa para o Turno e então realizar quaisquer tarefas de início de Turno. O jogador com a Iniciativa escolhe qual jogador realizara a primeira Ativação na Fase de Ativação.
 
 **Determinando a Iniciativa**
 
@@ -254,7 +254,7 @@ Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cad
 
 **Tarefas de Início de Turno**
 
-Algumas regras exigem que os jogadores façam coisas no "inicio do Turno". Estas são referidas como tarefas de inicio de Turno. Se mais de uma tarefa de inicio de Turno precisar ser realizada, o jogador que tem a Iniciativa determina a ordem em que são realizadas.
+Algumas regras exigem que os jogadores façam coisas no "início do Turno". Estas são referidas como tarefas de início de Turno. Se mais de uma tarefa de início de Turno precisar ser realizada, o jogador que tem a Iniciativa determina a ordem em que são realizadas.
 
 **Atividades Simultâneas**
 
@@ -322,7 +322,7 @@ Realizar uma AÇÃO de Carregar com um modelo permite que você faça um tipo es
 
 **Declarar Carga**
 
-Após realizar uma AÇÃO de Carregar com um modelo, você deve escolher um modelo inimigo que seja visivel ao seu modelo e esteja dentro de 12" dele como alvo da carga.
+Após realizar uma AÇÃO de Carregar com um modelo, você deve escolher um modelo inimigo que seja visível ao seu modelo e esteja dentro de 12" dele como alvo da carga.
 
 **Modelos Inimigos Interpostos**
 
@@ -358,7 +358,7 @@ O terreno em um campo de batalha de Trench Crusade e representado por modelos ce
 
 ### Tipos de Terreno
 
-No inicio de uma partida de Trench Crusade, os jogadores devem concordar sobre que tipo de terreno cada peça de terreno representa. Existem quatro tipos de terreno em Trench Crusade: Aberto, Difícil, Perigoso e Intransponível. O terreno pode ser tanto Difícil quanto Perigoso. Os jogadores também precisarão concordar sobre o limite de cada peça de terreno para que possam facilmente dizer se um modelo se moveu para dentro dela, e decidir quais superfícies em uma peça de terreno podem ser escaladas ou das quais se pode saltar.
+No início de uma partida de Trench Crusade, os jogadores devem concordar sobre que tipo de terreno cada peça de terreno representa. Existem quatro tipos de terreno em Trench Crusade: Aberto, Difícil, Perigoso e Intransponível. O terreno pode ser tanto Difícil quanto Perigoso. Os jogadores também precisarão concordar sobre o limite de cada peça de terreno para que possam facilmente dizer se um modelo se moveu para dentro dela, e decidir quais superfícies em uma peça de terreno podem ser escaladas ou das quais se pode saltar.
 
 - **Aberto:** Terreno Aberto inclui qualquer área onde não há nada para impedir um modelo, e e o terreno mais comum em Trench Crusade. Modelos podem se mover livremente pelo Terreno Aberto.
 
@@ -368,7 +368,7 @@ No inicio de uma partida de Trench Crusade, os jogadores devem concordar sobre q
 
 - **Intransponível:** Terreno Intransponível inclui penhascos, grandes monumentos onde não há espaço para um modelo ficar de pe, poças de magma, e assim por diante, e tem a Palavra-Chave TERRENO INTRANSPONÍVEL (ver TERRENO INTRANSPONÍVEL).
 
-- **Cobertura:** Um modelo tem a Palavra-Chave COBERTURA de outro modelo se estiver sobre ou em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja pelo menos tao larga quanto sua base, e a peça de terreno esteja entre ele e o outro modelo de forma que bloqueie parcialmente a Linha de Visão entre os dois modelos (ver Linha de Visão Parcial).
+- **Cobertura:** Um modelo tem a Palavra-Chave COBERTURA de outro modelo se estiver sobre ou em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja pelo menos tão larga quanto sua base, e a peça de terreno esteja entre ele e o outro modelo de forma que bloqueie parcialmente a Linha de Visão entre os dois modelos (ver Linha de Visão Parcial).
 
 *Neste exemplo, a Linha de Visão para o modelo A e bloqueada pelo terreno (a baioneta não conta) e portanto o modelo não pode ser visto ou atacado. O modelo B está em cobertura e há apenas uma Linha de Visão parcial para ele, então ataques contra o modelo sofrerão penalidade de -1 DADO. O modelo C está no aberto e não recebe proteção de nenhuma cobertura.*
 
@@ -441,7 +441,7 @@ Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer 
 
 **Medindo o Alcance**
 
-O alvo está no alcance se a distância do ponto mais proximo da base do modelo atacante até o ponto mais proximo da base do modelo alvo for menor ou igual ao alcance da Arma sendo usada. Você pode encontrar o alcance de cada Arma em seu Perfil de Arma (ver Equipamento de Batalha).
+O alvo está no alcance se a distância do ponto mais próximo da base do modelo atacante até o ponto mais próximo da base do modelo alvo for menor ou igual ao alcance da Arma sendo usada. Você pode encontrar o alcance de cada Arma em seu Perfil de Arma (ver Equipamento de Batalha).
 
 **Curto Alcance e Longo Alcance**
 
@@ -504,7 +504,7 @@ Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Luta
 
 ### CARGA MERGULHANTE
 
-Você pode converter uma carga de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Abatido, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO a Rolagem de Sucesso para o proximo Ataque Corpo a Corpo que o modelo fizer.
+Você pode converter uma carga de um modelo amigo em uma Carga Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Abatido, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO a Rolagem de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
 
 ---
 
@@ -572,9 +572,9 @@ As seguintes regras se aplicam a um modelo que está Abatido:
 - Se um modelo for colocado Abatido durante sua Ativação, sua Ativação termina imediatamente.
 - Adicione -1 DADO a quaisquer Rolagens de Sucesso que você fizer para um modelo que esteja Abatido.
 - Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
-- Até que o modelo se levante, ele não pode ser movido por nenhuma razao, a menos que caia.
+- Até que o modelo se levante, ele não pode ser movido por nenhuma razão, a menos que caia.
 - Um modelo que está Abatido se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento e reduzida a metade pelo resto da Ativação (incluindo qualquer Bônus de Carga que receba).
-- Um modelo que esteja dentro de 1" de uma borda quando for colocado Abatido pode Cair da borda. Faça uma Rolagem de Sucesso para o modelo antes que ele seja colocado Abatido. Se a rolagem for um Sucesso, o modelo fica Abatido mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais proxima e então fica Abatido (ver Queda).
+- Um modelo que esteja dentro de 1" de uma borda quando for colocado Abatido pode Cair da borda. Faça uma Rolagem de Sucesso para o modelo antes que ele seja colocado Abatido. Se a rolagem for um Sucesso, o modelo fica Abatido mas não Cai da borda. Se a rolagem for uma Falha, o modelo Cai da borda mais próxima e então fica Abatido (ver Queda).
 
 Você pode mostrar que um modelo está Abatido colocando um marcador ao lado do modelo (como um cubo de madeira) ou deitando o modelo de lado. Se você escolher deitar o modelo de lado, deite-o de forma que o centro do modelo fique sobre o ponto onde o centro de sua base estava localizado. Ao medir o alcance para ou de um modelo que está Abatido, você pode medir de qualquer parte do modelo, não apenas de sua base.
 
@@ -590,7 +590,7 @@ Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas 
 
 ### Warbands Abaladas
 
-Todas as Rolagens de Sucesso feitas para modelos de uma Warband Abalada são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do proximo Turno, você deve fazer outro Teste de Moral para sua Warband, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se o Teste de Moral for um Sucesso, sua Warband não está mais Abalada (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, sua Warband foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para modelos de uma Warband Abalada são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para sua Warband, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se o Teste de Moral for um Sucesso, sua Warband não está mais Abalada (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, sua Warband foge e você imediatamente perde o jogo!
 
 ### Encerrando o Turno
 

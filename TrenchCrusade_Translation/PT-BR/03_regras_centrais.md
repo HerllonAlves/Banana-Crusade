@@ -24,7 +24,7 @@ O modelo Ativado pode realizar as seguintes AÇÕES uma vez cada, em qualquer or
 
 - **Mover:** Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção (nenhuma rolagem e necessária). Obstáculos de até 1" de altura podem ser cruzados sem penalidade, e seu modelo pode escalar superfícies abruptas se primeiro passar em uma Rolagem de Sucesso Arriscada. Terreno Difícil e cruzado na metade da velocidade. Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Carregar em vez disso).
 
-- **Carregar:** Escolha um modelo inimigo que seja visivel ao seu modelo e esteja a 12" ou menos dele como alvo da carga. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova-o em direção ao alvo. Se seu modelo terminar seu movimento a 1" ou menos do alvo, ele pode Lutar (ver Lutar).
+- **Carregar:** Escolha um modelo inimigo que seja visível ao seu modelo e esteja a 12" ou menos dele como alvo da carga. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova-o em direção ao alvo. Se seu modelo terminar seu movimento a 1" ou menos do alvo, ele pode Lutar (ver Lutar).
 
 - **Recuar:** Você só pode mover um modelo que esteja a 1" de um inimigo realizando uma AÇÃO de Recuar. Um modelo que recua move um número de polegadas igual a sua Característica de Movimento em qualquer direção, mas deve terminar seu movimento a mais de 1" de todos os modelos inimigos. Seu oponente pode realizar uma AÇÃO de Lutar com 1 Arma Corpo a Corpo antes que o modelo que está recuando seja afastado. Se isso coloca seu modelo como Abatido ou Fora de Ação, ele não é movido.
 
@@ -70,7 +70,7 @@ O combate e dividido em Ataques a Distância e Ataques Corpo a Corpo. Ataques a 
 
 ### ATAQUES A DISTÂNCIA
 
-1. Escolha uma Arma a Distância e então selecione um alvo que seja visivel ao seu modelo e esteja dentro do alcance da arma.
+1. Escolha uma Arma a Distância e então selecione um alvo que seja visível ao seu modelo e esteja dentro do alcance da arma.
 2. Faça uma Rolagem de Sucesso para o modelo atacante.
 3. Se a rolagem for uma Falha, o ataque erra e não tem efeito. Se a rolagem for um Sucesso, acerta, então faça uma Rolagem de Ferimento para o alvo. Adicione +1 DADO DE FERIMENTO se o ataque foi um Sucesso Crítico.
 
@@ -83,7 +83,7 @@ Se um alvo estiver a 1" de qualquer modelo amigo, role um dado para determinar q
 Os seguintes modificadores são cumulativos:
 
 - **Atirar de uma posição elevada:** Adicione +1 DADO se o modelo atacante estiver pelo menos 3" mais alto que o alvo.
-- **Cobertura:** Adicione -1 DADO se o alvo estiver em cobertura. Um modelo está em cobertura se estiver em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja tao larga quanto sua base, e a peça de terreno esteja entre ele e o modelo atacante.
+- **Cobertura:** Adicione -1 DADO se o alvo estiver em cobertura. Um modelo está em cobertura se estiver em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja tão larga quanto sua base, e a peça de terreno esteja entre ele e o modelo atacante.
 - **Longo Alcance:** Adicione -1 DADO se a distância ao alvo for mais da metade do alcance máximo da arma.
 
 ---
@@ -100,8 +100,8 @@ Os seguintes modificadores são cumulativos:
 
 - **Múltiplas Armas Corpo a Corpo:** Se seu modelo estiver armado com duas Armas Corpo a Corpo, pode atacar com ambas, uma após a outra na ordem de sua escolha. Adicione -1 DADO para o segundo ataque.
 - **MEDO:** Adicione -1 DADO se seu oponente tiver a Palavra-Chave MEDO. Se ambos os modelos causarem MEDO, o efeito se cancela.
-- **Obstáculo Defendido:** Adicione -1 DADO se o alvo estiver em cobertura. Um modelo está em cobertura se estiver em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja tao larga quanto sua base, e a peça de terreno esteja entre ele e o modelo atacante.
-- **Carga Mergulhante:** Um modelo pode tentar uma Carga Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, o modelo fica Abatido e uma Rolagem de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao proximo Ataque Corpo a Corpo que o modelo realizar.
+- **Obstáculo Defendido:** Adicione -1 DADO se o alvo estiver em cobertura. Um modelo está em cobertura se estiver em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja tão larga quanto sua base, e a peça de terreno esteja entre ele e o modelo atacante.
+- **Carga Mergulhante:** Um modelo pode tentar uma Carga Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, o modelo fica Abatido e uma Rolagem de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
 
 **Queda**
 
@@ -161,7 +161,7 @@ Você pode indicar que um modelo está Abatido colocando o modelo de lado. As se
 - Se um modelo for colocado Abatido durante sua Ativação, sua Ativação termina imediatamente.
 - Adicione -1 DADO a quaisquer rolagens feitas para um modelo que esteja Abatido.
 - Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
-- Até que um modelo que esteja Abatido se levante, ele não pode ser movido por nenhuma razao, a menos que caia (ver Queda).
+- Até que um modelo que esteja Abatido se levante, ele não pode ser movido por nenhuma razão, a menos que caia (ver Queda).
 - Um modelo que esteja Abatido se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento e reduzida a metade pelo resto da Ativação (incluindo o bônus de carga).
 
 ---
@@ -178,7 +178,7 @@ Na Fase de Moral, se metade dos modelos em sua Warband estiverem Abatidos ou For
 
 ### Warbands Abaladas
 
-Todas as Rolagens de Sucesso feitas para uma Warband Abalada são tratadas como Rolagens de Sucesso Arriscadas. Na Fase de Moral ao final do proximo Turno, você deve fazer outra Rolagem de Sucesso para sua Warband, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se você tiver sucesso, sua Warband não está mais Abalada (embora possa ficar novamente se você falhar em uma verificacao de Moral em um turno futuro). No entanto, se você falhar, sua Warband foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para uma Warband Abalada são tratadas como Rolagens de Sucesso Arriscadas. Na Fase de Moral ao final do próximo Turno, você deve fazer outra Rolagem de Sucesso para sua Warband, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se você tiver sucesso, sua Warband não está mais Abalada (embora possa ficar novamente se você falhar em uma verificacao de Moral em um turno futuro). No entanto, se você falhar, sua Warband foge e você imediatamente perde o jogo!
 
 ---
 

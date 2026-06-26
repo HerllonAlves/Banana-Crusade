@@ -1,6 +1,6 @@
 # Cenários
 
-Está seção do livro de regras inclui uma seleção de cenários que você pode usar para partidas de Trench Crusade. Cada cenário fornece as informações necessárias para preparar e jogar uma partida, quaisquer regras especiais que você precisará para jogar o cenário e detalhes de como o vencedor da partida e decidido.
+Esta seção do livro de regras inclui uma seleção de cenários que você pode usar para partidas de Trench Crusade. Cada cenário fornece as informações necessárias para preparar e jogar uma partida, quaisquer regras especiais que você precisará para jogar o cenário e detalhes de como o vencedor da partida e decidido.
 
 ---
 
@@ -15,7 +15,7 @@ O livro de regras inclui os seguintes cenários:
 | Número | Cenário |
 |--------|---------|
 | I | Reclamar a Terra de Ninguem |
-| II | Caça aos Herois |
+| II | Caça aos Heróis |
 | III | Caça a Relíquia |
 | IV | Guerra de Trincheiras |
 | V | Trem Blindado |
@@ -45,11 +45,11 @@ Cenários são disputados com uma seleção de modelos de sua Warband chamada Fo
 
 ### O CAMPO DE BATALHA
 
-A proxima coisa que você precisa fazer e montar o campo de batalha. A maioria dos cenários pode ser jogada em uma mesa de jantar tipica, mas alguns requerem um campo de batalha de 36" ou 48" quadrados.
+A próxima coisa que você precisa fazer e montar o campo de batalha. A maioria dos cenários pode ser jogada em uma mesa de jantar tipica, mas alguns requerem um campo de batalha de 36" ou 48" quadrados.
 
 **Arquétipos de Campo de Batalha:** As instruções explicarão qual arquetipo de campo de batalha e usado para o cenário (ver Arquétipos de Campo de Batalha).
 
-**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador e montado em um local especifico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador e montado no "Ponto Medio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
+**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador e montado em um local especifico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador e montado no "Ponto Médio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
 
 **Terreno Bloqueador:** Você não tem permissao para montar terreno de forma que tornaria impossível para qualquer modelo usado na partida sair de sua Zona de Posicionamento ou alcançar um local onde um Marcador deve ser colocado.
 
@@ -118,9 +118,9 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 ---
 
-# II. Caça aos Herois
+# II. Caça aos Heróis
 
-*Cace os lideres inimigos enquanto protege os seus.*
+*Cace os líderes inimigos enquanto protege os seus.*
 
 **Forças:** Ambos os jogadores devem incluir o maior número possível de modelos ELITE de suas Warbands.
 
@@ -132,7 +132,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Posicionamento:** Alternam posicionando. Infiltradores podem usar regras especiais, mas não podem se posicionar dentro de 8" de um Objetivo. Após o posicionamento, cada jogador anota secretamente até três modelos ELITE inimigos como Alvos e um modelo ELITE amigo como Ativo.
 
-**Eventos Imprevistos:** No inicio de cada Turno após o primeiro, role um D6. Em 5-6, role D3:
+**Eventos Imprevistos:** No início de cada Turno após o primeiro, role um D6. Em 5-6, role D3:
 1. **Nevoa:** Alcance de todas as Armas a Distância reduzido pela metade por 2 Turnos.
 2. **Chuva, Lama e Visceras:** -2 DADOS para Ataques Corpo a Corpo por 2 Turnos.
 3. **Crateras Profundas:** Coloque 6 Marcadores de Cratera. Cada uma tem D3+3" de profundidade.
@@ -148,7 +148,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Queda Perigosa:** Modelo amigo faz inimigo Cair em cratera.
 - **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
 - **Alto Risco, Alta Recompensa:** Ativo coloca Alvo inimigo Fora de Ação.
-- **Mate Seus Lideres:** Colocar todos os Alvos inimigos Fora de Ação.
+- **Mate Seus Líderes:** Colocar todos os Alvos inimigos Fora de Ação.
 
 ---
 
@@ -164,7 +164,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Posicionamento:** Máximo de 6 modelos posicionados (modelos em bases de 40mm+ contam como 2). Restantes são reforços. Infiltradores devem ser posicionados normalmente.
 
-**Reforços:** No inicio de cada Turno, desempate; o vencedor rola D3 para número de reforços que cada jogador pode posicionar.
+**Reforços:** No início de cada Turno, desempate; o vencedor rola D3 para número de reforços que cada jogador pode posicionar.
 
 **Até a Morte!:** Nenhum lado faz Testes de Moral, e nenhum jogador pode fugir.
 
@@ -251,13 +251,13 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Forças:** Os jogadores precisarão de 1 modelo de Dragão e 6 modelos de Camponeses.
 
-**Campo de Batalha:** Arquetipo Terra de Ninguem ou Linhas de Trincheira. O Dragão e montado no ponto medio; os 6 Camponeses são posicionados a mais de 8" do Dragão e 6" um do outro.
+**Campo de Batalha:** Arquetipo Terra de Ninguem ou Linhas de Trincheira. O Dragão e montado no ponto médio; os 6 Camponeses são posicionados a mais de 8" do Dragão e 6" um do outro.
 
 **Modelos Neutros:** O Dragão e os Camponeses são modelos neutros (tratados como inimigos por ambos os lados). Após cada Ativação de um modelo do jogador, role D6: em 1-4 Ative um Campones; em 5-6 Ative o Dragão ou um Campones.
 
 **O Dragão:** Movimento 10", +3 DADO em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORA ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORA ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Abatido), e Desafiador.
 
-**Os Camponeses:** Movimento 5", só podem Mover ou Recuar em direção a borda mais proxima. Habilidade Debil: +2 DADOS e +2 DADOS DE FERIMENTO contra eles.
+**Os Camponeses:** Movimento 5", só podem Mover ou Recuar em direção a borda mais próxima. Habilidade Debil: +2 DADOS e +2 DADOS DE FERIMENTO contra eles.
 
 **Duração:** Ao final do 4o Turno, role D6: em 1-2 termina; em 3+, termina no 5o Turno. Empate se o Dragão sair do campo.
 
@@ -286,7 +286,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Posicionamento:** Defensor posiciona máximo 6 modelos; atacante posiciona 6+D3 modelos. Restantes são reforços. Infiltradores podem usar regras especiais.
 
-**Reforços:** No inicio de cada Turno, desempate e D3 reforços para cada jogador.
+**Reforços:** No início de cada Turno, desempate e D3 reforços para cada jogador.
 
 **Duração:** 4 Turnos.
 
@@ -311,7 +311,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Forças:** Nenhuma restrição especial.
 
-**Campo de Batalha:** Qualquer arquetipo. Coloque 3 Marcadores de Poço de Icor no ponto medio e 4 Marcadores de Projéteis de Artilharia. Terreno dentro de 2" dos Poços de Icor e Difícil e Perigoso. Cada Poço contém Icor para 6 Frascos.
+**Campo de Batalha:** Qualquer arquetipo. Coloque 3 Marcadores de Poço de Icor no ponto médio e 4 Marcadores de Projéteis de Artilharia. Terreno dentro de 2" dos Poços de Icor e Difícil e Perigoso. Cada Poço contém Icor para 6 Frascos.
 
 **Posicionamento:** Posicione apenas metade de sua Força (arredondando para cima). Infiltradores podem usar regras especiais mas não dentro de 6" de um Marcador.
 
@@ -363,7 +363,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 **Feitos Gloriosos:**
 - **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
 - **Caçador de Elites:** Modelo amigo coloca dois ELITES inimigos Fora de Ação.
-- **Sem Escapatoria:** Modelo amigo carrega com sucesso inimigo que não estava em sua Linha de Visão no inicio da Ativação.
+- **Sem Escapatoria:** Modelo amigo carrega com sucesso inimigo que não estava em sua Linha de Visão no início da Ativação.
 - **Vinganca Pessoal:** Modelo amigo usa Banho de Sangue para colocar Fora de Ação inimigo que havia colocado um modelo amigo Fora de Ação anteriormente.
 - **Ceifador:** Modelo amigo coloca três inimigos Fora de Ação.
 - **Arriscar Tudo:** Modelo amigo faz duas Rolagens de Sucesso Arriscadas na mesma Ativação, ambas Sucesso ou Sucesso Crítico.
@@ -404,7 +404,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 
 # XI. Terreno Elevado
 
-*Capture o terreno elevado a qualquer custo. Cada baixa vale a pena para reclamar está posição tática crucial.*
+*Capture o terreno elevado a qualquer custo. Cada baixa vale a pena para reclamar esta posição tática crucial.*
 
 **Forças:** Nenhuma restrição especial.
 

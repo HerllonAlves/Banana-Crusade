@@ -12,7 +12,7 @@
 
 **1106:** Cobar torna-se o Primeiro Tirano dos Sessenta e Seis.
 
-**1109:** O Grande Sultanato da Invencível Muralha de Ferro dos Dois Chifres que Perfuram o Céu e formado. Nas proximas decadas, ele unifica as frações islamicas. A Grande Muralha de Ferro de Iskandar ressurge e e fortificada contra os Heréticos.
+**1109:** O Grande Sultanato da Invencível Muralha de Ferro dos Dois Chifres que Perfuram o Céu e formado. Nas próximas decadas, ele unifica as frações islamicas. A Grande Muralha de Ferro de Iskandar ressurge e e fortificada contra os Heréticos.
 
 **1117:** Os lendarios Dezessete Mártires viajam aos Domínios do Inferno para converter os Heréticos. São capturados, torturados e preservados nas agonias da morte, aprisionados para a eternidade em altares incandescentes.
 
@@ -60,7 +60,7 @@
 
 **1892:** Os Heréticos são expulsos da Eire. Uma audaciosa incursao de colunas volantes combinadas da Fianna afunda o navio-insignia herético *Himno da Obscenidade* enquanto estava ancorado.
 
-**1894:** O Ano da Trindade Partida. Em um ataque sincronizado, três Comandos da Morte mestres, Caim, Barabbas e Aman, assassinam o Sumo Pontifice, a Alta Profetisa Aelia e o Sacro Imperador Romano, mergulhando os Fieis no caos. Simultaneamente, as Legioes Heréticas, comandadas pelos nobres do Setimo Círculo do Inferno, lançam uma ofensiva-relampago no Levante e na Europa, reforçadas por uma enorme vanguarda de tanques.
+**1894:** O Ano da Trindade Partida. Em um ataque sincronizado, três Comandos da Morte mestres, Caim, Barabbas e Aman, assassinam o Sumo Pontifice, a Alta Profetisa Aelia e o Sacro Imperador Romano, mergulhando os Fieis no caos. Simultaneamente, as Legiões Heréticas, comandadas pelos nobres do Setimo Círculo do Inferno, lançam uma ofensiva-relampago no Levante e na Europa, reforçadas por uma enorme vanguarda de tanques.
 
 **1899:** O Programa Espacial da Igreja e iniciado.
 
@@ -84,7 +84,7 @@ A Leste, sob a proteção da Grande Muralha de Ferro, o Sultao mobiliza suas for
 
 Opondo-se aos Fieis, das terras sob a sombra ardente do Inferno, vem os Senhores dos Sessenta e Seis, tramando rumo ao domínio e a ascensao de um novo soberano, refletindo a politica mercurial do Inferno na Terra. No meio dos campos de morte, cadaveres se levantam enquanto o Principe da Decadencia, Belzebu, trava sua própria guerra privada contra toda a vida com seu Graal Negro. Os adoradores mortais de demônios e os Heréticos são reforçados pelos exércitos da Corte da Serpente de Sete Cabeças, os soldados de pe do Inferno. Em sombria majestade, as terriveis partidas de caça do Inferno buscam sangrar a Terra até a morte.
 
-Entre os lados em guerra se abre a Terra de Ninguém: interminaveis trincheiras, casamatas e bunkers, aldeias, cidades e municipios em ruínas, cravejados por artilharia devastadora, criam uma paisagem de horror, assombrada pelos fantasmas dos mortos. Templos, sinagogas, mesquitas, igrejas, basílicas e catedrais destruídos testemunham em silencio solene uma batalha tao espiritual quanto física.
+Entre os lados em guerra se abre a Terra de Ninguém: interminaveis trincheiras, casamatas e bunkers, aldeias, cidades e municipios em ruínas, cravejados por artilharia devastadora, criam uma paisagem de horror, assombrada pelos fantasmas dos mortos. Templos, sinagogas, mesquitas, igrejas, basílicas e catedrais destruídos testemunham em silencio solene uma batalha tão espiritual quanto física.
 
 Os perigos no mar não são menos graves, onde as marinhas Heréticas dominam suas contrapartes Fieis. Manter rotas comerciais vitais exige cada grama de força dos almirantes e capitaes encarregados da tarefa quase impossível de disputar os poderosos colossos e submarinos dos Heréticos. Apenas no Mediterraneo os Fieis e os Heréticos se enfrentam como quase iguais, presos em um tenue equilibrio de poder.
 

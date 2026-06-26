@@ -4,7 +4,7 @@ Estas regras governam jogar uma série de partidas vinculadas com seus amigos. P
 
 ## Iniciando a Campanha
 
-No inicio de uma campanha, cada jogador deve primeiro recrutar uma Warband inicial (ver Criando uma Warband em Warbands of Trench Crusade). Uma vez que tenham recrutado sua Warband, devem escolher um Patrono para ela.
+No início de uma campanha, cada jogador deve primeiro recrutar uma Warband inicial (ver Criando uma Warband em Warbands of Trench Crusade). Uma vez que tenham recrutado sua Warband, devem escolher um Patrono para ela.
 
 ---
 
@@ -18,12 +18,12 @@ Selecione um Patrono para sua Warband desta lista. Sua escolha determina qual ha
 
 Ter um Senhor Temporal como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Obtenção de Armadura e Equipamento:** O custo de qualquer Armadura, Escudos ou Equipamento que valham 15 👑 ou mais e reduzido em 5 👑 se um modelo com está Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com está Habilidade.
-- **Obtenção de Arma Corpo a Corpo:** O custo de qualquer Arma Corpo a Corpo que valha 10 👑 ou mais e reduzido em 5 👑 se o modelo com está Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com está Habilidade.
+- **Obtenção de Armadura e Equipamento:** O custo de qualquer Armadura, Escudos ou Equipamento que valham 15 👑 ou mais e reduzido em 5 👑 se um modelo com esta Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com esta Habilidade.
+- **Obtenção de Arma Corpo a Corpo:** O custo de qualquer Arma Corpo a Corpo que valha 10 👑 ou mais e reduzido em 5 👑 se o modelo com esta Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com esta Habilidade.
 - **Químicos Mendelistas:** O jogador adversário não pode gastar MARCADORES DE SANGUE ao lado de um modelo com está habilidade para adicionar +1 DADO DE FERIMENTO (eles podem usar os MARCADORES DE SANGUE para converter a rolagem em uma Rolagem de Banho de Sangue normalmente).
-- **Obtenção de Arma a Distância:** O custo de qualquer Arma a Distância ou Granada que valha 20 👑 ou mais e reduzido em 5 👑 se um modelo com está Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com está Habilidade.
-- **Escola de Franco-Atiradores:** Ataques a Distância feitos por um modelo com está Habilidade precisam de 1 MARCADOR DE SANGUE a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
-- **Treinamento Especial de Assalto:** Ataques Corpo a Corpo feitos por um modelo com está Habilidade precisam de 1 MARCADOR DE SANGUE a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
+- **Obtenção de Arma a Distância:** O custo de qualquer Arma a Distância ou Granada que valha 20 👑 ou mais e reduzido em 5 👑 se um modelo com esta Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com esta Habilidade.
+- **Escola de Franco-Atiradores:** Ataques a Distância feitos por um modelo com esta Habilidade precisam de 1 MARCADOR DE SANGUE a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
+- **Treinamento Especial de Assalto:** Ataques Corpo a Corpo feitos por um modelo com esta Habilidade precisam de 1 MARCADOR DE SANGUE a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
 
 ---
 
@@ -33,12 +33,12 @@ Ter um Senhor Temporal como seu Patrono permite que você adquira as seguintes H
 
 Ter um Santo Guerreiro como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Bênçãos do Santo Guerreiro:** Um modelo com está Habilidade ganha a Palavra-Chave ABENÇOADO D3.
-- **Davi e Golias:** Adicione +1 DADO para um Ataque Corpo a Corpo feito por um modelo com está Habilidade se o alvo estiver montado em uma base de 40mm ou maior.
-- **Matador de Dragões:** Quando você fizer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com está Habilidade, você pode mudar o resultado de um dos D6s usados para a Rolagem de Ferimento para 6.
-- **Suportar o Sofrimento:** Um modelo com está Habilidade pode sofrer 1 Cicatriz de Batalha extra antes de ficar inapto para o serviço.
-- **De Joelhos!:** Modelos inimigos que estejam Abatidos não podem se levantar se um modelo com está Habilidade estiver dentro de 1" deles (mesmo se o modelo com está Habilidade também estiver Abatido).
-- **Oração do Guerreiro AÇÃO:** Um modelo com está Habilidade pode realizar uma AÇÃO de Oração do Guerreiro. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, o modelo tem a Palavra-Chave MEDO até o final do Turno, e você pode remover até 1 MARCADOR DE SANGUE do modelo.
+- **Bênçãos do Santo Guerreiro:** Um modelo com esta Habilidade ganha a Palavra-Chave ABENÇOADO D3.
+- **Davi e Golias:** Adicione +1 DADO para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade se o alvo estiver montado em uma base de 40mm ou maior.
+- **Matador de Dragões:** Quando você fizer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode mudar o resultado de um dos D6s usados para a Rolagem de Ferimento para 6.
+- **Suportar o Sofrimento:** Um modelo com esta Habilidade pode sofrer 1 Cicatriz de Batalha extra antes de ficar inapto para o serviço.
+- **De Joelhos!:** Modelos inimigos que estejam Abatidos não podem se levantar se um modelo com esta Habilidade estiver dentro de 1" deles (mesmo se o modelo com esta Habilidade também estiver Abatido).
+- **Oração do Guerreiro AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Oração do Guerreiro. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, o modelo tem a Palavra-Chave MEDO até o final do Turno, e você pode remover até 1 MARCADOR DE SANGUE do modelo.
 
 ---
 
@@ -48,27 +48,27 @@ Ter um Santo Guerreiro como seu Patrono permite que você adquira as seguintes H
 
 Ter um Santo Estudioso como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Favorecido por Deus:** Ao final de cada partida, sua Warband ganha 1 ☼ adicional para cada modelo com está Habilidade no campo de batalha.
-- **Artes de Cura:** Você pode rerolar o resultado na Tabela de Trauma (ver Etapa de Trauma) para um modelo com está Habilidade.
-- **Conhecimento de Ciências:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) e aumentado em 1 se um modelo com está Habilidade fizer parte da Warband. Escolha o Equipamento de Batalha ao qual o bônus se aplicara e anote sua escolha em sua ficha. Uma Warband só pode ter um modelo com está Habilidade.
-- **Habilidades Logísticas:** Uma Warband que inclua um modelo com está Habilidade pode aumentar quaisquer Limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Por exemplo, se a Entrada de Warband para um modelo na Warband tivesse um limite de 0-2, o limite seria aumentado para 0-3. Se o modelo com está Habilidade for morto ou removido da Warband, modelos em excesso dos limites normais podem ser mantidos, mas novos modelos não podem ser adicionados a Warband em excesso dos limites normais. Uma Warband só pode ter 1 modelo com está Habilidade.
-- **Moedas do Céu:** Ao final de cada partida, sua Warband ganha D6x5 👑 adicionais para cada modelo com está Habilidade que esteja no campo de batalha.
+- **Favorecido por Deus:** Ao final de cada partida, sua Warband ganha 1 ☼ adicional para cada modelo com esta Habilidade no campo de batalha.
+- **Artes de Cura:** Você pode rerolar o resultado na Tabela de Trauma (ver Etapa de Trauma) para um modelo com esta Habilidade.
+- **Conhecimento de Ciências:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) e aumentado em 1 se um modelo com esta Habilidade fizer parte da Warband. Escolha o Equipamento de Batalha ao qual o bônus se aplicara e anote sua escolha em sua ficha. Uma Warband só pode ter um modelo com esta Habilidade.
+- **Habilidades Logísticas:** Uma Warband que inclua um modelo com esta Habilidade pode aumentar quaisquer Limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Por exemplo, se a Entrada de Warband para um modelo na Warband tivesse um limite de 0-2, o limite seria aumentado para 0-3. Se o modelo com esta Habilidade for morto ou removido da Warband, modelos em excesso dos limites normais podem ser mantidos, mas novos modelos não podem ser adicionados a Warband em excesso dos limites normais. Uma Warband só pode ter 1 modelo com esta Habilidade.
+- **Moedas do Céu:** Ao final de cada partida, sua Warband ganha D6x5 👑 adicionais para cada modelo com esta Habilidade que esteja no campo de batalha.
 - **Caminhar com Deus:** Escolha uma Habilidade de qualquer Tabela de Habilidades disponível para o modelo, incluindo qualquer Habilidade de Exploração, e de-a a este modelo.
 
 ---
 
 ### NOBRE INFERNAL
 
-*Somente Legioes Heréticas e Corte da Serpente de Sete Cabeças.* Seu Patrono e um dos Caidos, um poderoso nobre demônio como Baal, Balam, Zepar, Astaroth ou Gusion. Tais Patronos concedem poderes mágicos, recompensam atos maléficos e ampliam o poder dos pecados.
+*Somente Legiões Heréticas e Corte da Serpente de Sete Cabeças.* Seu Patrono e um dos Caidos, um poderoso nobre demônio como Baal, Balam, Zepar, Astaroth ou Gusion. Tais Patronos concedem poderes mágicos, recompensam atos maléficos e ampliam o poder dos pecados.
 
 Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **30 Moedas de Prata:** Ao final de cada partida, sua Warband ganha D6x5 👑 para cada modelo com está Habilidade que esteja no campo de batalha.
-- **Assassinato Abençoado:** Se um Ataque Corpo a Corpo feito por um modelo com está Habilidade colocar um modelo inimigo Fora de Ação, coloque 1 MARCADOR DE BÊNÇÃO ao lado do modelo com está Habilidade.
-- **Sacrifício de Sangue AÇÃO:** Um modelo com está Habilidade pode realizar uma AÇÃO de Sacrifício de Sangue. Se fizer isso, faça uma Rolagem de Sucesso para o modelo. Em um Sucesso ou Sucesso Crítico, você pode remover 1 MARCADOR DE SANGUE do modelo e coloca-lo ao lado de qualquer outro modelo que esteja dentro de 6" do modelo realizando a AÇÃO de Sacrifício de Sangue, em sua Linha de Visão, e que não tenha as Palavras-Chave ARTIFICIAL, GRAAL NEGRO ou DEMONÍACO.
-- **Fogo Infernal AÇÃO:** Um modelo com está Habilidade pode realizar uma AÇÃO de Fogo Infernal. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, escolha um modelo amigo que esteja dentro de 18" do modelo realizando a AÇÃO de Fogo Infernal e em sua Linha de Visão. Em seguida, trace uma linha reta de 1mm de largura entre os pontos mais proximos das bases dos dois modelos, e faça uma Rolagem de Ferimento com a Palavra-Chave FOGO para cada modelo (amigo ou inimigo) que seja cruzado ou alcançado pela linha, incluindo o modelo amigo que você escolheu, mas não incluindo o modelo realizando a AÇÃO de Fogo Infernal.
-- **Chicote do Aqueronte AÇÃO:** Um modelo com está Habilidade pode realizar uma AÇÃO de Chicote do Aqueronte. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, você pode fazer uma Rolagem de Ferimento com a Palavra-Chave IGNORA ARMADURA para 1 modelo inimigo que esteja dentro de 6" do modelo realizando a AÇÃO de Chicote do Aqueronte e em sua Linha de Visão.
-- **Sádico:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com está Habilidade se o modelo alvo estiver Abatido.
+- **30 Moedas de Prata:** Ao final de cada partida, sua Warband ganha D6x5 👑 para cada modelo com esta Habilidade que esteja no campo de batalha.
+- **Assassinato Abençoado:** Se um Ataque Corpo a Corpo feito por um modelo com esta Habilidade colocar um modelo inimigo Fora de Ação, coloque 1 MARCADOR DE BÊNÇÃO ao lado do modelo com esta Habilidade.
+- **Sacrifício de Sangue AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Sacrifício de Sangue. Se fizer isso, faça uma Rolagem de Sucesso para o modelo. Em um Sucesso ou Sucesso Crítico, você pode remover 1 MARCADOR DE SANGUE do modelo e coloca-lo ao lado de qualquer outro modelo que esteja dentro de 6" do modelo realizando a AÇÃO de Sacrifício de Sangue, em sua Linha de Visão, e que não tenha as Palavras-Chave ARTIFICIAL, GRAAL NEGRO ou DEMONÍACO.
+- **Fogo Infernal AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Fogo Infernal. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, escolha um modelo amigo que esteja dentro de 18" do modelo realizando a AÇÃO de Fogo Infernal e em sua Linha de Visão. Em seguida, trace uma linha reta de 1mm de largura entre os pontos mais próximos das bases dos dois modelos, e faça uma Rolagem de Ferimento com a Palavra-Chave FOGO para cada modelo (amigo ou inimigo) que seja cruzado ou alcançado pela linha, incluindo o modelo amigo que você escolheu, mas não incluindo o modelo realizando a AÇÃO de Fogo Infernal.
+- **Chicote do Aqueronte AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Chicote do Aqueronte. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, você pode fazer uma Rolagem de Ferimento com a Palavra-Chave IGNORA ARMADURA para 1 modelo inimigo que esteja dentro de 6" do modelo realizando a AÇÃO de Chicote do Aqueronte e em sua Linha de Visão.
+- **Sádico:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido.
 
 ---
 
@@ -78,11 +78,11 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 
 Ter o Portal Sublime como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com está Habilidade se o modelo alvo estiver Abatido. Além disso, você pode ignorar o modificador de -1 DADO em Rolagens de Sucesso para um modelo que esteja Abatido se o modelo tiver está Habilidade.
-- **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com está Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Warband. Se este item for perdido por qualquer razao durante a campanha, você pode recompra-lo.
-- **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com está Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com está Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
-- **Corretamente Guiado:** No inicio da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Carregar, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com está Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
-- **Favor do Sultao:** Uma Warband que inclua um modelo com está Habilidade pode aumentar quaisquer limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Uma Warband só pode ter 1 modelo com está Habilidade.
+- **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido. Além disso, você pode ignorar o modificador de -1 DADO em Rolagens de Sucesso para um modelo que esteja Abatido se o modelo tiver esta Habilidade.
+- **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Warband. Se este item for perdido por qualquer razão durante a campanha, você pode recompra-lo.
+- **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
+- **Corretamente Guiado:** No início da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Carregar, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com esta Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
+- **Favor do Sultao:** Uma Warband que inclua um modelo com esta Habilidade pode aumentar quaisquer limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Uma Warband só pode ter 1 modelo com esta Habilidade.
 - **Espada de Allah:** Você pode escolher 1 Habilidade da Tabela de Habilidades de Corpo a Corpo e Força para um modelo que tenha a Habilidade Espada de Allah.
 
 ---
@@ -93,27 +93,27 @@ Ter o Portal Sublime como seu Patrono permite que você adquira as seguintes Hab
 
 Ter a Ordem da Mosca como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Vitalidade de Barata:** O jogador adversário não pode gastar MARCADORES DE SANGUE ao lado de um modelo com está Habilidade para adicionar +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo ou a Distância.
-- **Engano de Belzebu AÇÃO:** Um modelo com está Habilidade pode realizar uma AÇÃO de Engano de Belzebu. Se fizer isso, faça uma Rolagem de Sucesso Arriscada. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo dentro de 8" do modelo realizando a AÇÃO, e então troque as posições dos dois modelos. Se isso for impossível por qualquer razao, os dois modelos permanecem em suas posições originais.
-- **Olhos da Mosca:** Um modelo com está Habilidade tem as Palavras-Chave IGNORAR COBERTURA e IGNORAR LONGO ALCANCE.
-- **Praga do Graal:** No inicio de cada partida, após o posicionamento, para cada modelo com está Habilidade que esteja no campo de batalha, você pode colocar 1 MARCADOR DE INFECÇÃO ao lado de um modelo inimigo que não tenha a Palavra-Chave GRAAL NEGRO.
-- **Cavaleiro das Moscas:** Adicione -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com está Habilidade.
-- **Asas da Mosca:** Um modelo com está Habilidade ganha a Palavra-Chave VOADOR se ainda não a tiver.
+- **Vitalidade de Barata:** O jogador adversário não pode gastar MARCADORES DE SANGUE ao lado de um modelo com esta Habilidade para adicionar +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo ou a Distância.
+- **Engano de Belzebu AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Engano de Belzebu. Se fizer isso, faça uma Rolagem de Sucesso Arriscada. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo dentro de 8" do modelo realizando a AÇÃO, e então troque as posições dos dois modelos. Se isso for impossível por qualquer razão, os dois modelos permanecem em suas posições originais.
+- **Olhos da Mosca:** Um modelo com esta Habilidade tem as Palavras-Chave IGNORAR COBERTURA e IGNORAR LONGO ALCANCE.
+- **Praga do Graal:** No início de cada partida, após o posicionamento, para cada modelo com esta Habilidade que esteja no campo de batalha, você pode colocar 1 MARCADOR DE INFECÇÃO ao lado de um modelo inimigo que não tenha a Palavra-Chave GRAAL NEGRO.
+- **Cavaleiro das Moscas:** Adicione -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com esta Habilidade.
+- **Asas da Mosca:** Um modelo com esta Habilidade ganha a Palavra-Chave VOADOR se ainda não a tiver.
 
 ---
 
 ### MAMMON
 
-*Somente Legioes Heréticas ou Corte da Serpente de Sete Cabeças (Warband de Ganância).* Seu Patrono e Mammon, o Principe da Ganância, o Tesoureiro do Inferno e o Rei dos Tolos. Ele aparece como um rei de pele dourada em um trono opulento, com marcas de queimadura negras manchando seu esplendor. Ele e o Patrono mais popular entre os mortais.
+*Somente Legiões Heréticas ou Corte da Serpente de Sete Cabeças (Warband de Ganância).* Seu Patrono e Mammon, o Principe da Ganância, o Tesoureiro do Inferno e o Rei dos Tolos. Ele aparece como um rei de pele dourada em um trono opulento, com marcas de queimadura negras manchando seu esplendor. Ele e o Patrono mais popular entre os mortais.
 
 Ter Mammon como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Pele Áurea:** O modelo com está Habilidade recebe a esplêndida (porém manchada) pele dourada de seu Patrono, e seu sangue se transforma em ouro derretido. Cada vez que você colocar um MARCADOR DE SANGUE ao lado de um modelo com está Habilidade, adicione 5 👑 ao seu tesouro.
-- **Dados Viciados:** Uma vez por partida, você pode rerolar todos os dados usados para uma Rolagem de Sucesso para um modelo com está Habilidade, ou pode rerolar todos os dados usados para uma Rolagem de Ferimento para um ataque feito por um modelo com está Habilidade.
-- **Dívida Eterna:** Os Miseráveis desta Warband nunca são perdidos como baixas, pois suas cabeças (mantidas como garantia por Mammon) são usadas para regenerar os corpos perdidos. Todos os modelos Miseráveis em uma Warband que inclua um modelo com está Habilidade farao automaticamente uma recuperação total após a batalha se forem colocados Fora de Ação.
-- **Dinheiro Compra Tudo:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) e aumentado em 1 se um modelo com está Habilidade fizer parte da Warband. Uma Warband só pode ter um modelo com está Habilidade.
-- **Plutocracia:** Quando você adquirir está Habilidade para um modelo, ele pode imediatamente formar uma DUPLA DE FOGO com 1 outro modelo de sua Warband que não tenha a Palavra-Chave ELITE. Ambos os modelos ganham a Palavra-Chave DUPLA DE FOGO. Além disso, se os dois modelos realizarem uma Ativação simultanea, então você pode tratar todas as Rolagens de Sucesso Arriscadas que eles fizerem durante a Ativação como Rolagens de Sucesso normais.
-- **Empréstimo Sem Garantia:** Você pode adicionar 100 👑 ao seu Cofre quando adquirir está Habilidade para um modelo em sua Warband. Os 👑 só são ganhos uma vez, quando a Habilidade e escolhida.
+- **Pele Áurea:** O modelo com esta Habilidade recebe a esplêndida (porém manchada) pele dourada de seu Patrono, e seu sangue se transforma em ouro derretido. Cada vez que você colocar um MARCADOR DE SANGUE ao lado de um modelo com esta Habilidade, adicione 5 👑 ao seu tesouro.
+- **Dados Viciados:** Uma vez por partida, você pode rerolar todos os dados usados para uma Rolagem de Sucesso para um modelo com esta Habilidade, ou pode rerolar todos os dados usados para uma Rolagem de Ferimento para um ataque feito por um modelo com esta Habilidade.
+- **Dívida Eterna:** Os Miseráveis desta Warband nunca são perdidos como baixas, pois suas cabeças (mantidas como garantia por Mammon) são usadas para regenerar os corpos perdidos. Todos os modelos Miseráveis em uma Warband que inclua um modelo com esta Habilidade farao automaticamente uma recuperação total após a batalha se forem colocados Fora de Ação.
+- **Dinheiro Compra Tudo:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) e aumentado em 1 se um modelo com esta Habilidade fizer parte da Warband. Uma Warband só pode ter um modelo com esta Habilidade.
+- **Plutocracia:** Quando você adquirir esta Habilidade para um modelo, ele pode imediatamente formar uma DUPLA DE FOGO com 1 outro modelo de sua Warband que não tenha a Palavra-Chave ELITE. Ambos os modelos ganham a Palavra-Chave DUPLA DE FOGO. Além disso, se os dois modelos realizarem uma Ativação simultânea, então você pode tratar todas as Rolagens de Sucesso Arriscadas que eles fizerem durante a Ativação como Rolagens de Sucesso normais.
+- **Empréstimo Sem Garantia:** Você pode adicionar 100 👑 ao seu Cofre quando adquirir esta Habilidade para um modelo em sua Warband. Os 👑 só são ganhos uma vez, quando a Habilidade e escolhida.
 
 ---
 
@@ -123,12 +123,12 @@ Ter Mammon como seu Patrono permite que você adquira as seguintes Habilidades:
 
 Ter o Antipapa de Avignon como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Sabedoria de Belzebu:** Infestado pelo Graal Negro, a cabeça deste guerreiro está distendida e matéria líquida escorre de seus muitos orifícios trepanados; e uma visão tao repugnante que guerreiros inimigos frequentemente hesitam em se aproximar da criatura repulsiva. Se um modelo com está Habilidade for escolhido por um modelo inimigo como alvo de uma carga, o modelo inimigo não recebe Bônus de Carga e deve fazer a carga usando apenas sua Característica de Movimento.
-- **Olho de Belzebu AÇÃO:** Um modelo com está Habilidade pode realizar uma AÇÃO de Olho de Belzebu. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 24" do modelo, em Cobertura, e que não esteja dentro de 1" de quaisquer modelos de sua Warband. Seu oponente deve então mover aquele modelo 1", de forma que ainda esteja na Linha de Visão do modelo realizando a AÇÃO, mas não esteja mais em Cobertura, e que esteja a mais de 1" de quaisquer modelos de sua Warband. Se isso for impossível, o modelo inimigo não é movido.
-- **Banquetear na Doença:** Se o alvo de um Ataque Corpo a Corpo feito por um modelo com está Habilidade tiver 1 ou mais MARCADORES DE INFECÇÃO, então custa 1 MARCADOR DE SANGUE ou MARCADOR DE INFECÇÃO a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
-- **Infectar a Mente:** No inicio de cada partida, após o posicionamento, para cada modelo com está Habilidade que esteja no campo de batalha, você pode escolher um modelo inimigo e move-lo 6" da mesma forma como se estivesse realizando uma AÇÃO de Mover (ele não pode Carregar).
-- **Lingua de Prata AÇÃO:** Um modelo com está Habilidade pode realizar uma AÇÃO de Lingua de Prata. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 1" do modelo. O modelo escolhido deve fazer um Ataque Corpo a Corpo contra si mesmo. Se o modelo inimigo tiver mais de 1 Arma Corpo a Corpo, você pode escolher qual ele usa. O modelo inimigo só atacara a si mesmo uma vez, mesmo que seja capaz de atacar variàs vezes.
-- **Híbrido Suíno:** Adicione 2" a Característica de Movimento de um modelo com está Habilidade.
+- **Sabedoria de Belzebu:** Infestado pelo Graal Negro, a cabeça deste guerreiro está distendida e matéria líquida escorre de seus muitos orifícios trepanados; e uma visão tão repugnante que guerreiros inimigos frequentemente hesitam em se aproximar da criatura repulsiva. Se um modelo com esta Habilidade for escolhido por um modelo inimigo como alvo de uma carga, o modelo inimigo não recebe Bônus de Carga e deve fazer a carga usando apenas sua Característica de Movimento.
+- **Olho de Belzebu AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Olho de Belzebu. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 24" do modelo, em Cobertura, e que não esteja dentro de 1" de quaisquer modelos de sua Warband. Seu oponente deve então mover aquele modelo 1", de forma que ainda esteja na Linha de Visão do modelo realizando a AÇÃO, mas não esteja mais em Cobertura, e que esteja a mais de 1" de quaisquer modelos de sua Warband. Se isso for impossível, o modelo inimigo não é movido.
+- **Banquetear na Doença:** Se o alvo de um Ataque Corpo a Corpo feito por um modelo com esta Habilidade tiver 1 ou mais MARCADORES DE INFECÇÃO, então custa 1 MARCADOR DE SANGUE ou MARCADOR DE INFECÇÃO a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
+- **Infectar a Mente:** No início de cada partida, após o posicionamento, para cada modelo com esta Habilidade que esteja no campo de batalha, você pode escolher um modelo inimigo e move-lo 6" da mesma forma como se estivesse realizando uma AÇÃO de Mover (ele não pode Carregar).
+- **Lingua de Prata AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Lingua de Prata. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 1" do modelo. O modelo escolhido deve fazer um Ataque Corpo a Corpo contra si mesmo. Se o modelo inimigo tiver mais de 1 Arma Corpo a Corpo, você pode escolher qual ele usa. O modelo inimigo só atacara a si mesmo uma vez, mesmo que seja capaz de atacar variàs vezes.
+- **Híbrido Suíno:** Adicione 2" a Característica de Movimento de um modelo com esta Habilidade.
 
 ---
 
@@ -156,14 +156,14 @@ Jogadores podem querer entrar em uma campanha que já está em andamento. Isso e
 
 ### SELECIONANDO UM CENÁRIO DE CAMPANHA
 
-Para determinar qual cenário você usara para uma partida de campanha, conte quantas partidas você jogou na campanha até o momento e então role na tabela de Cenário de Campanha apropriada abaixo.
+Para determinar qual cenário você usará para uma partida de campanha, conte quantas partidas você jogou na campanha até o momento e então role na tabela de Cenário de Campanha apropriada abaixo.
 
 **Início de Campanha (Partidas 1-3)**
 
 Role um D6 para determinar qual cenário jogar:
 
 1. Reclamar a Terra de Ninguem
-2. Caça aos Herois
+2. Caça aos Heróis
 3. Terreno Elevado
 4. Caça a Relíquia
 5. Saque de Suprimentos
@@ -173,7 +173,7 @@ Role um D6 para determinar qual cenário jogar:
 
 Role um D6:
 
-1. Caça aos Herois
+1. Caça aos Heróis
 2. Trem Blindado
 3. Guerra de Trincheiras
 4. Reclamar a Terra de Ninguem
@@ -254,7 +254,7 @@ Quando você termina uma partida de campanha, você e seu oponente devem realiza
 3. **Etapa de Reforços (Opcional):** Se sua Warband sofreu perdas pesadas, você pode pedir reforços. No entanto, se fizer isso, não poderá Explorar ou visitar o Intendente.
 4. **Etapa de Exploração:** Role para ver o que sua Warband descobre na área que está ocupando.
 5. **Etapa do Intendente:** Você pode adicionar novos recrutas, contratar Mercenários e vender, comprar e realocar Equipamento de Batalha.
-6. **Etapa de Ficha:** Atualize sua Ficha de Warband. Você está pronto para a proxima partida!
+6. **Etapa de Ficha:** Atualize sua Ficha de Warband. Você está pronto para a próxima partida!
 
 **Dissolvendo uma Warband:** Você pode dissolver sua Warband ao final de qualquer partida e começar novamente com uma completamente nova. Inicie sua nova Warband como se fosse um retardatário na campanha.
 
@@ -298,7 +298,7 @@ A menos que declarado de outra forma, cada vez que um modelo ELITE for colocado 
 | 32 | **Tratamento Caro.** Os ferimentos do modelo requerem tratamento constante. Antes de posicionar este modelo, você deve deduzir 10 👑 do Cofre de sua Warband. |
 | 33 | **Possuído.** Quando este modelo for Ativado, se estiver a mais de 1" de quaisquer modelos inimigos, a primeira AÇÃO que ele deve realizar e uma AÇÃO de Correr. Os primeiros 3" deste movimento devem ser em linha reta diretamente para longe de sua posição inicial. |
 | 34 | **Dano Muscular.** Este modelo não pode ter Equipamento de Batalha que tenha a Palavra-Chave PESADO. Qualquer que ele tenha quando o Ferimento for sofrido e perdido. |
-| 35 | **Ferimento Leve.** Este modelo não pode ser usado na proxima partida. |
+| 35 | **Ferimento Leve.** Este modelo não pode ser usado na próxima partida. |
 | 36 | **Roubado.** Todo o Equipamento de Batalha do modelo e perdido, a menos que seja Equipamento de Batalha que não possa ser perdido ou removido durante uma campanha. Ele não recebe um Ferimento ou uma Cicatriz de Batalha. |
 | 41-63 | **Recuperação Total.** O modelo sobreviveu a batalha sem efeitos negativos. Ele não recebe um Ferimento ou uma Cicatriz de Batalha. |
 | 64 | **Endurecido.** Este modelo ganha a Palavra-Chave NEGAR MEDO. Ele não recebe um Ferimento ou uma Cicatriz de Batalha. |
@@ -319,7 +319,7 @@ Em uma campanha, você pode Promover as Tropas em sua Warband ao status ELITE us
 
 **Atribuir Dados de Promoção:** Atribua os dados do pool aos modelos de Tropa em sua Warband. Você não pode atribuir um 3o dado ao mesmo modelo até que todos os modelos de Tropa tenham pelo menos 2 dados cada.
 
-**Rolar Dados de Promoção:** Role os dados um de cada vez. Assim que um dos dados rolar "6", pare de rolar para aquele modelo e Promova-o. Se você rolar todos os dados sem um modelo ser Promovido, anote quantos dados você rolou seguidos sem conseguir uma Promoção. Quando o total atingir 5 dados, a proxima rolagem (a 6a) e automaticamente considerada como "6".
+**Rolar Dados de Promoção:** Role os dados um de cada vez. Assim que um dos dados rolar "6", pare de rolar para aquele modelo e Promova-o. Se você rolar todos os dados sem um modelo ser Promovido, anote quantos dados você rolou seguidos sem conseguir uma Promoção. Quando o total atingir 5 dados, a próxima rolagem (a 6a) e automaticamente considerada como "6".
 
 **Promovendo um Modelo:** Quando um modelo de Tropa recebe uma Promoção, ele imediatamente ganha a Palavra-Chave ELITE. Começa com 0 Pontos de Experiência.
 
@@ -337,7 +337,7 @@ Para fazer uma Rolagem de Avanço para um modelo:
 
 1. Escolha duas das Tabelas de Habilidades para rolar.
 2. Role 2D6 para cada tabela e consulte a rolagem para ver quais Habilidades estão disponíveis para o modelo aprender.
-   - Se você rolar uma Habilidade que o modelo já possui, use a proxima Habilidade mais baixa que o modelo não possui. Se o modelo tiver todas as Habilidades mais baixas, use a proxima mais alta.
+   - Se você rolar uma Habilidade que o modelo já possui, use a próxima Habilidade mais baixa que o modelo não possui. Se o modelo tiver todas as Habilidades mais baixas, use a próxima mais alta.
    - Se uma Habilidade de Patrono for rolada, use uma das Habilidades de Patrono do Patrono que você escolheu para sua Warband.
 3. Escolha uma das duas Habilidades para o modelo aprender e registre-a em sua Ficha de Warband.
 
@@ -348,7 +348,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 - **Principado de Nova Antioquia:** -
 - **Peregrinos das Trincheiras:** Prisioneiros Eclesiásticos, Santuário do Ancorita
 - **Sultanato da Muralha de Ferro:** -
-- **Legioes Heréticas:** Besta de Assalto Lobo de Guerra, Miseráveis
+- **Legiões Heréticas:** Besta de Assalto Lobo de Guerra, Miseráveis
 - **Culto do Graal Negro:** Escravos do Graal, Escravos da Mosca, Cães do Graal Negro, Amalgama
 - **Corte da Serpente de Sete Cabeças:** Miseráveis, Demônios de Jugo
 
@@ -361,15 +361,15 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
-| 3 | **Firme:** A primeira vez que um modelo com está Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele e tratado como um resultado de Golpe Menor em vez disso. |
-| 4 | **Aparar:** Adicione -1 DADO a Rolagens de Sucesso para Ataques Corpo a Corpo que tenham como alvo um modelo com está Habilidade. |
-| 5 | **Combate em Espaços Fechados:** Adicione +1 DADO e +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo feitos por um modelo com está Habilidade se ele estiver em contato com uma peça de terreno. |
-| 6 | **Carga Implacavel:** Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por um modelo com está Habilidade se ele tiver carregado com sucesso anteriormente na mesma Ativação. |
-| 7 | **Proficiência Corpo a Corpo:** Adicione +1 DADO a Característica de Corpo a Corpo de um modelo com está Habilidade. |
-| 8 | **Força de Sansão:** Adicione +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo usando uma Arma Corpo a Corpo feitos por um modelo com está Habilidade. Além disso, um modelo com está Habilidade tem a Palavra-Chave FORTE. |
-| 9 | **Duro de Matar:** A primeira vez que um modelo com está Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele e tratado como um resultado Sem Efeito em vez disso. |
-| 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com está Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORA ARMADURA. |
-| 11 | **Campeão:** Armas Corpo a Corpo que não possuam a Palavra-Chave GOLPE VARRENTE usadas por um modelo com está Habilidade ganham a Palavra-Chave GOLPE VARRENTE 2. Além disso, adicione -1 DADO a Rolagem de Sucesso para o segundo Ataque Corpo a Corpo feito com cada Arma Corpo a Corpo que ganhe a Palavra-Chave GOLPE VARRENTE. |
+| 3 | **Firme:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele e tratado como um resultado de Golpe Menor em vez disso. |
+| 4 | **Aparar:** Adicione -1 DADO a Rolagens de Sucesso para Ataques Corpo a Corpo que tenham como alvo um modelo com esta Habilidade. |
+| 5 | **Combate em Espaços Fechados:** Adicione +1 DADO e +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele estiver em contato com uma peça de terreno. |
+| 6 | **Carga Implacavel:** Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se ele tiver carregado com sucesso anteriormente na mesma Ativação. |
+| 7 | **Proficiência Corpo a Corpo:** Adicione +1 DADO a Característica de Corpo a Corpo de um modelo com esta Habilidade. |
+| 8 | **Força de Sansão:** Adicione +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo usando uma Arma Corpo a Corpo feitos por um modelo com esta Habilidade. Além disso, um modelo com esta Habilidade tem a Palavra-Chave FORTE. |
+| 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele e tratado como um resultado Sem Efeito em vez disso. |
+| 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORA ARMADURA. |
+| 11 | **Campeão:** Armas Corpo a Corpo que não possuam a Palavra-Chave GOLPE VARRENTE usadas por um modelo com esta Habilidade ganham a Palavra-Chave GOLPE VARRENTE 2. Além disso, adicione -1 DADO a Rolagem de Sucesso para o segundo Ataque Corpo a Corpo feito com cada Arma Corpo a Corpo que ganhe a Palavra-Chave GOLPE VARRENTE. |
 | 12 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
 
 ### TABELA DE HABILIDADES DE DISTÂNCIA
@@ -377,15 +377,15 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono.** |
-| 3 | **Caçador:** Ataques a Distância feitos por um modelo com está Habilidade tem a Palavra-Chave IGNORAR COBERTURA. |
+| 3 | **Caçador:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORAR COBERTURA. |
 | 4 | **Pistoleiro:** Se o modelo estiver armado com Armas a Distância com a Palavra-Chave PISTOLA: se equipado com 2 Armas com PISTOLA, pode Atirar com uma e imediatamente Atirar com a outra. Adicione as Palavras-Chave ASSALTO e IGNORAR ARMA SECUNDÁRIA a quaisquer armas com PISTOLA. |
 | 5 | **Tiro Longo:** Adicione 6" ao Alcance de Armas com PISTOLA, quaisquer Armas com "Rifle" no nome, e quaisquer Armas com "Jezzail" ou "Arcabuz" no nome. |
-| 6 | **Olhos Aguçados:** Ataques a Distância feitos por um modelo com está Habilidade tem a Palavra-Chave IGNORAR LONGO ALCANCE. |
-| 7 | **Proficiência a Distância:** Adicione +1 DADO a Característica de Distância de um modelo com está Habilidade. |
-| 8 | **Ninho de Franco-Atirador:** Adicione +2 DADOS em vez de +1 DADO a rolagens para Ataques a Distância feitos com o modificador de Posição Elevada por um modelo com está Habilidade. |
-| 9 | **Queima-Roupa:** Quando um modelo com está Habilidade fizer um Ataque Corpo a Corpo, pode usar uma Arma a Distância e sua Característica de Ataque a Distância em vez de uma Arma Corpo a Corpo. Deve ainda estar dentro de 1" do alvo. |
-| 10 | **Tiro do Quadril:** Armas a Distância usadas por um modelo com está Habilidade contam como tendo a Palavra-Chave ASSALTO. |
-| 11 | **Tiro na Cabeça:** Ataques a Distância feitos por um modelo com está Habilidade tem a Palavra-Chave IGNORA ARMADURA se o ataque for um Sucesso Crítico. |
+| 6 | **Olhos Aguçados:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORAR LONGO ALCANCE. |
+| 7 | **Proficiência a Distância:** Adicione +1 DADO a Característica de Distância de um modelo com esta Habilidade. |
+| 8 | **Ninho de Franco-Atirador:** Adicione +2 DADOS em vez de +1 DADO a rolagens para Ataques a Distância feitos com o modificador de Posição Elevada por um modelo com esta Habilidade. |
+| 9 | **Queima-Roupa:** Quando um modelo com esta Habilidade fizer um Ataque Corpo a Corpo, pode usar uma Arma a Distância e sua Característica de Ataque a Distância em vez de uma Arma Corpo a Corpo. Deve ainda estar dentro de 1" do alvo. |
+| 10 | **Tiro do Quadril:** Armas a Distância usadas por um modelo com esta Habilidade contam como tendo a Palavra-Chave ASSALTO. |
+| 11 | **Tiro na Cabeça:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORA ARMADURA se o ataque for um Sucesso Crítico. |
 | 12 | **Habilidade de Patrono.** |
 
 ### TABELA DE HABILIDADES DE FURTIVIDADE E VELOCIDADE
@@ -393,15 +393,15 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono.** |
-| 3 | **Sexto Sentido:** Se um modelo com está Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele e tratado como Golpe Menor se o modelo não tiver nenhum MARCADOR DE SANGUE. Se o modelo também tiver a Palavra-Chave RESISTENTE, uma vez por partida pode usar a Palavra-Chave para mudar um resultado Fora de Ação para Abatido, e então usar está Habilidade para mudar o resultado Abatido para Sem Efeito. |
-| 4 | **Assassinar:** Adicione +1 DADO a rolagens para ataques feitos por um modelo com está Habilidade se o alvo ainda não tiver sido Ativado neste Turno. |
-| 5 | **Caminhante das Sombras:** Adicione -2 DADOS em vez de -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com está Habilidade em Longo Alcance. |
-| 6 | **Atlético:** Adicione +1 DADO a Rolagens de Sucesso Arriscadas para um modelo com está Habilidade quando Escalar, Saltar ou fazer uma Carga Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |
-| 7 | **Velocista:** Adicione +1 DADO a Rolagem de Sucesso Arriscada para um modelo com está Habilidade que esteja realizando uma AÇÃO de Correr. |
-| 8 | **Desengajar:** Modelos inimigos não podem fazer um Ataque Corpo a Corpo em um modelo com está Habilidade quando ele Recuar. |
-| 9 | **Chegando!:** Quando você rolar o Bônus de Carga para um modelo com está Habilidade, role 1 D6 extra e use o dado individual mais alto para determinar o bônus. |
-| 10 | **Ágil:** Não reduza pela metade a Característica de Movimento de um modelo com está Habilidade quando ele se levantar. |
-| 11 | **Esquiva:** Adicione -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com está Habilidade. |
+| 3 | **Sexto Sentido:** Se um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele e tratado como Golpe Menor se o modelo não tiver nenhum MARCADOR DE SANGUE. Se o modelo também tiver a Palavra-Chave RESISTENTE, uma vez por partida pode usar a Palavra-Chave para mudar um resultado Fora de Ação para Abatido, e então usar esta Habilidade para mudar o resultado Abatido para Sem Efeito. |
+| 4 | **Assassinar:** Adicione +1 DADO a rolagens para ataques feitos por um modelo com esta Habilidade se o alvo ainda não tiver sido Ativado neste Turno. |
+| 5 | **Caminhante das Sombras:** Adicione -2 DADOS em vez de -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com esta Habilidade em Longo Alcance. |
+| 6 | **Atlético:** Adicione +1 DADO a Rolagens de Sucesso Arriscadas para um modelo com esta Habilidade quando Escalar, Saltar ou fazer uma Carga Mergulhante, e adicione -1 DADO DE FERIMENTO a Rolagens de Ferimento se Cair. |
+| 7 | **Velocista:** Adicione +1 DADO a Rolagem de Sucesso Arriscada para um modelo com esta Habilidade que esteja realizando uma AÇÃO de Correr. |
+| 8 | **Desengajar:** Modelos inimigos não podem fazer um Ataque Corpo a Corpo em um modelo com esta Habilidade quando ele Recuar. |
+| 9 | **Chegando!:** Quando você rolar o Bônus de Carga para um modelo com esta Habilidade, role 1 D6 extra e use o dado individual mais alto para determinar o bônus. |
+| 10 | **Ágil:** Não reduza pela metade a Característica de Movimento de um modelo com esta Habilidade quando ele se levantar. |
+| 11 | **Esquiva:** Adicione -1 DADO a rolagens para Ataques a Distância que tenham como alvo um modelo com esta Habilidade. |
 | 12 | **Habilidade de Patrono.** |
 
 ### TABELA DE HABILIDADES CORINGA
@@ -409,15 +409,15 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2D6 | Habilidade |
 |-----|------------|
 | 2 | **Habilidade de Patrono.** |
-| 3 | **Sorte de Guerra:** Um modelo com está Habilidade pode sofrer 1 Cicatriz de Batalha extra antes de ficar Inapto para o Serviço. |
-| 4 | **E Apenas um Arranhao:** Você pode rerolar o resultado na Tabela de Trauma para um modelo com está Habilidade. |
-| 5 | **Ma Companhia:** Um modelo com está Habilidade não conta para o número de modelos ELITE na sua Warband no inicio da etapa de Promoção. |
-| 6 | **Sucateiro:** Um modelo com está Habilidade tem a Habilidade de Exploração Dado Extra. |
-| 7 | **Perícia e Habilidade:** Quando você der está Habilidade a um modelo, escolha 1 AÇÃO na Entrada de Warband daquele modelo, ou 1 AÇÃO Comum além de Lutar ou Atirar, e anote-a. Adicione +1 DADO a rolagens feitas como parte da AÇÃO escolhida quando realizadas por este modelo. |
-| 8 | **Exibicionista:** Adicione 1 dado ao Pool de Promoção na etapa de Promoção para cada modelo em sua Warband com está Habilidade. |
-| 9 | **Amigos em Altos Postos:** Um modelo com está Habilidade tem a Habilidade de Exploração Rerolar Dado. |
-| 10 | **Caçador de Glória:** Ao final de cada partida, sua Warband recebe 1 ☼ extra para cada modelo com está Habilidade que esteja no campo de batalha. |
-| 11 | **Histórias de Guerra:** Ao registrar os Pontos de Experiência ganhados pelos modelos em sua Warband, você pode dar a cada modelo com a Palavra-Chave ELITE que não tenha também está Habilidade +1 Ponto de Experiência extra. Uma Warband só pode ter um modelo com está Habilidade. |
+| 3 | **Sorte de Guerra:** Um modelo com esta Habilidade pode sofrer 1 Cicatriz de Batalha extra antes de ficar Inapto para o Serviço. |
+| 4 | **E Apenas um Arranhão:** Você pode rerolar o resultado na Tabela de Trauma para um modelo com esta Habilidade. |
+| 5 | **Ma Companhia:** Um modelo com esta Habilidade não conta para o número de modelos ELITE na sua Warband no início da etapa de Promoção. |
+| 6 | **Sucateiro:** Um modelo com esta Habilidade tem a Habilidade de Exploração Dado Extra. |
+| 7 | **Perícia e Habilidade:** Quando você der esta Habilidade a um modelo, escolha 1 AÇÃO na Entrada de Warband daquele modelo, ou 1 AÇÃO Comum além de Lutar ou Atirar, e anote-a. Adicione +1 DADO a rolagens feitas como parte da AÇÃO escolhida quando realizadas por este modelo. |
+| 8 | **Exibicionista:** Adicione 1 dado ao Pool de Promoção na etapa de Promoção para cada modelo em sua Warband com esta Habilidade. |
+| 9 | **Amigos em Altos Postos:** Um modelo com esta Habilidade tem a Habilidade de Exploração Rerolar Dado. |
+| 10 | **Caçador de Glória:** Ao final de cada partida, sua Warband recebe 1 ☼ extra para cada modelo com esta Habilidade que esteja no campo de batalha. |
+| 11 | **Histórias de Guerra:** Ao registrar os Pontos de Experiência ganhados pelos modelos em sua Warband, você pode dar a cada modelo com a Palavra-Chave ELITE que não tenha também esta Habilidade +1 Ponto de Experiência extra. Uma Warband só pode ter um modelo com esta Habilidade. |
 | 12 | **Habilidade de Patrono.** |
 
 ### Potencial Limitado
@@ -427,7 +427,7 @@ Alguns modelos tem capacidade limitada de ganhar Experiência e aprender novas H
 - **Nova Antioquia:** -
 - **Peregrinos das Trincheiras:** Comunicante
 - **Sultanato da Muralha de Ferro:** Leão de Jabir, Touro de Bronze, Homunculi (Casa da Sabedoria)
-- **Legioes Heréticas:** Bruxa de Artilharia
+- **Legiões Heréticas:** Bruxa de Artilharia
 - **Culto do Graal Negro:** -
 - **Corte da Serpente de Sete Cabeças:** Gafanhoto do Abismo, Santo Profanado
 
@@ -435,14 +435,14 @@ Alguns modelos tem capacidade limitada de ganhar Experiência e aprender novas H
 
 ## Etapa de Reforços
 
-Na Etapa de Reforços, você tem a opção de Pedir Reforços se sentir que as perdas sofridas deixaram você com poucos modelos para formar uma Força viável. Pedir Reforços não é uma decisao a ser tomada levianamente.
+Na Etapa de Reforços, você tem a opção de Pedir Reforços se sentir que as perdas sofridas deixaram você com poucos modelos para formar uma Força viável. Pedir Reforços não é uma decisão a ser tomada levianamente.
 
 **Sequência de Reforços:**
 
 1. Descarte qualquer Equipamento de Batalha que tenha em seu Arsenal.
 2. Reduza o número de 👑 em seu Cofre a zero.
 3. Calcule o Custo total de todos os modelos em sua Warband.
-4. Subtraia o Custo Total de sua Warband do Valor de Limiar da proxima partida. A diferença e o número de 👑 que você pode gastar para recrutar novos modelos.
+4. Subtraia o Custo Total de sua Warband do Valor de Limiar da próxima partida. A diferença e o número de 👑 que você pode gastar para recrutar novos modelos.
 5. Quaisquer 👑 não gastos são perdidos.
 6. Se você Pedir Reforços, deve renunciar a Etapa de Exploração e Etapa do Intendente completamente.
 
@@ -485,7 +485,7 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 
 | Rolagem | Local |
 |---------|-------|
-| 4 | **Reserva de Aguardente:** Você encontra um estoque escondido de álcool destilado forte. Escolha: Distribuir (somente Nova Antioquia e Peregrinos, +2 DADOS em Testes de Moral na proxima partida); Destruir (somente Nova Antioquia, Peregrinos e Sultanato, até dois modelos ELITE ganham +1 XP cada); Vender (qualquer Warband, adicione 30 👑 ao seu Cofre). |
+| 4 | **Reserva de Aguardente:** Você encontra um estoque escondido de álcool destilado forte. Escolha: Distribuir (somente Nova Antioquia e Peregrinos, +2 DADOS em Testes de Moral na próxima partida); Destruir (somente Nova Antioquia, Peregrinos e Sultanato, até dois modelos ELITE ganham +1 XP cada); Vender (qualquer Warband, adicione 30 👑 ao seu Cofre). |
 | 5 | **Depósito de Armas Pesadas:** Escolha: Excedente (escolha 1 peça de Equipamento de Batalha com a Palavra-Chave PESADO das Tabelas de Armaria e adicione ao Arsenal); Especializar (escolha 1 Item de Glória que custe até 5 ☼ e adicione ao Arsenal). |
 | 6 | **Santuário de Trincheira:** Escolha: Padrão (adicione uma Bandeira de Tropa ao Arsenal); Santuário (adicione um Santuário de Campo ao Arsenal); Retorno (sua Warband ganha +2 ☼). |
 | 8 | **Casa em Ruínas:** Escolha: Vasculhar (escolha peças de Equipamento que valham até 30 👑 no total e adicione ao Arsenal); Relíquia (escolha 1 Item de Glória que valha até 7 ☼ e adicione ao Arsenal). |
@@ -518,7 +518,7 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 | Rolagem | Local |
 |---------|-------|
 | 6 | **Campo de Batalha de Cadáveres:** Escolha até 2 peças de Equipamento de Batalha que valham até 100 👑 no total. |
-| 8 | **Biblioteca Esotérica:** Escolha: Queimar (somente Fieis, ganhe 3+D3 ☼); Liberar Praga (somente Graal Negro); Vender (ganhe 6D6x10 👑); Estudar (somente Corte ou Legioes Heréticas). |
+| 8 | **Biblioteca Esotérica:** Escolha: Queimar (somente Fieis, ganhe 3+D3 ☼); Liberar Praga (somente Graal Negro); Vender (ganhe 6D6x10 👑); Estudar (somente Corte ou Legiões Heréticas). |
 | 10 | **Passagens Escondidas:** Sua Warband ganha a Habilidade de Exploração Duplicar. |
 | 12 | **Livro Alquímico Jabireano:** Escolha: Guardar (pode comprar Escudos de Fogo); Vender (ganhe 150 👑 ou 5 ☼); Estudar (somente Casa da Sabedoria, Formulas custam 5 👑 a menos). |
 | 14 | **Contato na Rede Negra:** De agora em diante, pode comprar Itens de Glória que custem 12 ☼ ou menos. |
@@ -592,7 +592,7 @@ Itens de Glória são peças de Equipamento de Batalha que só podem ser comprad
 | Grande Canhão Móvel do Sultanato | Somente Touro de Bronze, Limite: 1 | 10 ☼ |
 | Cão de Trincheira | Limite: 1 | 1-3 ☼ |
 
-### Legioes Heréticas
+### Legiões Heréticas
 
 | Item de Glória | Restrição | Custo |
 |----------------|-----------|-------|

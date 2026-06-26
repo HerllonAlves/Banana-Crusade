@@ -12,11 +12,11 @@ A área em que você joga sua partida e referida como o campo de batalha. Antes 
 
 ## Peças de Terreno
 
-Além do campo de batalha, você precisará do maior número de peças de terreno que conseguir. Você pode comprar modelos de terreno plasticos adequados para uso como peças de terreno da mesma forma que pode comprar os modelos que compõem os guerreiros em sua Warband. Recomendamos que você use os modelos da crescente linha de terreno de Trench Crusade para seus jogos, mas não nós importamos se você decidir usar kits de outra empresa em vez dos nossos. Muitos jogadores gostam de construir artesanalmente as peças de terreno para seus jogos a partir de materiais de modelismo como plasticard, placa de espuma e cartao-espuma, cola PVA e areia de modelismo. Basta dizer que uma busca rápida na internet trará muitos exemplos de modelos de terreno que você pode usar, e artigos introdutorios sobre como construir terreno artesanalmente.
+Além do campo de batalha, você precisará do maior número de peças de terreno que conseguir. Você pode comprar modelos de terreno plásticos adequados para uso como peças de terreno da mesma forma que pode comprar os modelos que compõem os guerreiros em sua Warband. Recomendamos que você use os modelos da crescente linha de terreno de Trench Crusade para seus jogos, mas não nós importamos se você decidir usar kits de outra empresa em vez dos nossos. Muitos jogadores gostam de construir artesanalmente as peças de terreno para seus jogos a partir de materiais de modelismo como plasticard, placa de espuma e cartão-espuma, cola PVA e areia de modelismo. Basta dizer que uma busca rápida na internet trará muitos exemplos de modelos de terreno que você pode usar, e artigos introdutórios sobre como construir terreno artesanalmente.
 
 ### Um campo de batalha improvisado
 
-Não se preocupe se você e novo em wargames de mesa e ainda não teve a chance de construir uma grande coleção de terreno. Basta usar quaisquer peças de terreno que tenha disponíveis e/ou complementa-las com itens domésticos que possam substituir peças de terreno reais. Por exemplo, você poderia usar livros para representar colinas baixas, canetas para representar muros, pedras coletadas do seu jardim ou de um parque como rochas, galhos para representar árvores caidas, e assim por diante. Colocar um cobertor grosso sobre alguns livros criara uma paisagem ondulada com colinas e ravinas para lutar. O importante e entender que é absolutamente aceitável usar o que você tiver a mão para jogar uma partida de Trench Crusade; afinal, o Senhor levou seis dias para criar tudo, então não se preocupe se levar um pouco de tempo para criar seu campo de batalha ideal!
+Não se preocupe se você e novo em wargames de mesa e ainda não teve a chance de construir uma grande coleção de terreno. Basta usar quaisquer peças de terreno que tenha disponíveis e/ou complementa-las com itens domésticos que possam substituir peças de terreno reais. Por exemplo, você poderia usar livros para representar colinas baixas, canetas para representar muros, pedras coletadas do seu jardim ou de um parque como rochas, galhos para representar árvores caidas, e assim por diante. Colocar um cobertor grosso sobre alguns livros criará uma paisagem ondulada com colinas e ravinas para lutar. O importante e entender que é absolutamente aceitável usar o que você tiver a mão para jogar uma partida de Trench Crusade; afinal, o Senhor levou seis dias para criar tudo, então não se preocupe se levar um pouco de tempo para criar seu campo de batalha ideal!
 
 Não se preocupe, muito em breve sua coleção de peças de terreno crescerá e você poderá devolver seus livros as prateleiras e suas pedras e galhos ao jardim (embora você provavelmente descubra que olha para tras com muito carinho para aquelas primeiras partidas e o terreno improvisado que usou para joga-las).
 
@@ -52,7 +52,7 @@ Terreno de área e um termo genérico para áreas de Terreno Perigoso, Difícil 
 
 ### COLINAS
 
-Uma colina pode ser de qualquer tamanho ou altura, embora recomendemos que não tenha mais de 12" de largura em seu ponto mais largo. Se a colina for alta o suficiente, ela bloqueara a Linha de Visão para modelos no lado oposto da colina, e pode dar a um modelo uma vantagem de altura quando fizer um ataque. Colinas são geralmente tratadas como Terreno Aberto para propositos de movimento, mas outras peças de terreno podem ser colocadas sobre elas, como pedaços de terreno rochoso, arame farpado, trincheiras ou ruínas. Os jogadores devem concordar em que tipo de terreno quaisquer dessas áreas serão consideradas.
+Uma colina pode ser de qualquer tamanho ou altura, embora recomendemos que não tenha mais de 12" de largura em seu ponto mais largo. Se a colina for alta o suficiente, ela bloqueará a Linha de Visão para modelos no lado oposto da colina, e pode dar a um modelo uma vantagem de altura quando fizer um ataque. Colinas são geralmente tratadas como Terreno Aberto para propósitos de movimento, mas outras peças de terreno podem ser colocadas sobre elas, como pedaços de terreno rochoso, arame farpado, trincheiras ou ruínas. Os jogadores devem concordar em que tipo de terreno quaisquer dessas áreas serão consideradas.
 
 ### TERRENO LINEAR
 
@@ -80,7 +80,7 @@ Um rio deve entrar por uma borda do campo de batalha e sair por outra. Riachos d
 
 ## Peças de Terreno Únicas
 
-Se você planeja usar quaisquer peças de terreno únicas que não estejam incluídas na lista de terreno padrão, então precisará conversar com seu oponente antes da partida para decidir como você as usara no jogo (não se preocupe, isso geralmente e algo bem simples de estabelecer!).
+Se você planeja usar quaisquer peças de terreno únicas que não estejam incluídas na lista de terreno padrão, então precisará conversar com seu oponente antes da partida para decidir como você as usará no jogo (não se preocupe, isso geralmente e algo bem simples de estabelecer!).
 
 ### Terreno Disperso
 
@@ -92,19 +92,19 @@ Recomendamos que você inclua apenas edifícios em ruínas em seus jogos, pois s
 
 ### Mesas de Jogo de Trench Crusade
 
-Para fazer uma mesa de jogo, basta comprar uma peça de MDF, aglomerado ou compensado naval que tenha 48" quadrados. MDF, aglomerado e compensado frequentemente vem em chapas de 8' por 4', caso em que você simplesmente precisa pedir ao fornecedor para cortar a chapa ao meio, dando-lhe duas mesas para jogar. Sua nova mesa de jogo pode então ser colocada diretamente em sua mesa de jantar, embora você possa querer colocar uma toalha de mesa na mesa para evitar arranhoes. Você pode jogar na mesa de madeira simples coberta com um cobertor, ou pinta-la com uma combinação de tintas marrom e verde para representar os campos lamacentos onde as batalhas de Trench Crusade são travadas. Alguns jogadores levam isso adiante colando placa de espuma de 2" na mesa de jogo e depois esculpindo trincheiras e crateras na espuma. Alguns exemplos do que pode ser alcançado são mostrados ao longo deste livro.
+Para fazer uma mesa de jogo, basta comprar uma peça de MDF, aglomerado ou compensado naval que tenha 48" quadrados. MDF, aglomerado e compensado frequentemente vem em chapas de 8' por 4', caso em que você simplesmente precisa pedir ao fornecedor para cortar a chapa ao meio, dando-lhe duas mesas para jogar. Sua nova mesa de jogo pode então ser colocada diretamente em sua mesa de jantar, embora você possa querer colocar uma toalha de mesa na mesa para evitar arranhões. Você pode jogar na mesa de madeira simples coberta com um cobertor, ou pinta-la com uma combinação de tintas marrom e verde para representar os campos lamacentos onde as batalhas de Trench Crusade são travadas. Alguns jogadores levam isso adiante colando placa de espuma de 2" na mesa de jogo e depois esculpindo trincheiras e crateras na espuma. Alguns exemplos do que pode ser alcançado são mostrados ao longo deste livro.
 
 ---
 
 ## Arquétipos de Campo de Batalha
 
-Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propositos dos cenários neste livro de regras, nós focamos em três arquetipos de campo de batalha: Terra de Ninguem, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquetipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
+Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propósitos dos cenários neste livro de regras, nós focamos em três arquetipos de campo de batalha: Terra de Ninguem, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquetipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
 
 ---
 
 ### TERRA DE NINGUEM
 
-Terra de Ninguem e a área que se encontra entre os sistemas de trincheiras da Grande Guerra. É um lugar desolado e mortal, cruzado por fogo de metralhadoras e artilharia, e com apenas ocasionais edifícios em ruínas, crateras, árvores caidas, tanques ou canhões destruídos e santuários castigados para fornecer cobertura. Isso o torna um lugar perigoso para entrar durante o dia, então muitas batalhas que ocorrem na Terra de Ninguem serão ataques noturnos onde a cobertura da escuridao pode ser usada para fornecer alguma medida de proteção contra fogo inimigo de longo alcance.
+Terra de Ninguem e a área que se encontra entre os sistemas de trincheiras da Grande Guerra. É um lugar desolado e mortal, cruzado por fogo de metralhadoras e artilharia, e com apenas ocasionais edifícios em ruínas, crateras, árvores caidas, tanques ou canhões destruídos e santuários castigados para fornecer cobertura. Isso o torna um lugar perigoso para entrar durante o dia, então muitas batalhas que ocorrem na Terra de Ninguem serão ataques noturnos onde a cobertura da escuridão pode ser usada para fornecer alguma medida de proteção contra fogo inimigo de longo alcance.
 
 **Peças de Terreno da Terra de Ninguem**
 
@@ -130,7 +130,7 @@ As peças de terreno devem ser montadas de forma que cada peça de terreno estej
 
 ### RUÍNAS DECIMADAS
 
-Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias localizadas entre, ou logo atrás das, linhas de trincheira das Warbands adversárias. A guerra constante rapidamente reduz edifícios outrora orgulhosos a ruínas, entre as quais Warbands lutam entre si em brutais confrontos de curto alcance. O sucesso tático e estratégico pode ser medido por quem toma controle dos edifícios em ruínas, pilhas de entulho e veiculos destruídos que espalham a paisagem estilhacada.
+Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias localizadas entre, ou logo atrás das, linhas de trincheira das Warbands adversárias. A guerra constante rapidamente reduz edifícios outrora orgulhosos a ruínas, entre as quais Warbands lutam entre si em brutais confrontos de curto alcance. O sucesso tático e estratégico pode ser medido por quem toma controle dos edifícios em ruínas, pilhas de entulho e veículos destruídos que espalham a paisagem estilhacada.
 
 **Peças de Terreno de Ruínas Decimadas**
 
@@ -140,7 +140,7 @@ Os jogadores fazem um desempate, e o vencedor monta o terreno para a partida. As
 - Ruínas de Canto
 - Áreas de Terreno Perigoso (arame farpado, campos minados, etc.)
 - Áreas de Terreno Difícil (crateras, entulho, etc.)
-- Marcos (estátuas, veiculos destruídos, etc.)
+- Marcos (estátuas, veículos destruídos, etc.)
 
 **Número de Peças de Terreno**
 
@@ -164,7 +164,7 @@ Os jogadores fazem um desempate, e o vencedor monta o terreno para a partida. As
 - Ruínas de Canto
 - Áreas de Terreno Perigoso (arame farpado, campos minados, etc.)
 - Áreas de Terreno Difícil (crateras, entulho, etc.)
-- Marcos (estátuas, santuários, veiculos destruídos, etc.)
+- Marcos (estátuas, santuários, veículos destruídos, etc.)
 
 **Número de Peças de Terreno**
 
