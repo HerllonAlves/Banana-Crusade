@@ -592,7 +592,7 @@ Algumas regras podem pedir que você posicione ou reposicione um modelo. Quando 
 
 ### PRÉ-MEDIÇÃO
 
-A menos que as regras especificamente digam o contrário, você tem permissão para medir distâncias a qualquer momento. Por exemplo, você pode medir para ver se está no alcance para atirar, carregar, e assim por diante.
+A menos que as regras especificamente digam o contrário, você tem permissão para medir distâncias a qualquer momento. Por exemplo, você pode medir para ver se está no alcance para atirar, investir, e assim por diante.
 
 ### RERROLAGENS
 
@@ -644,7 +644,7 @@ Durante a Fase de Ativação, os jogadores alternam Ativando seus modelos um de 
 
 Quando for sua vez de Ativar um modelo, você pode escolher Ativar qualquer modelo em seu Bando que ainda não tenha sido Ativado. Você pode então realizar AÇÕES com o modelo Ativado conforme explicado abaixo. Quando a Ativação do seu modelo terminar, seu oponente pode Ativar um de seus modelos. Se um jogador ficar sem modelos para Ativar, seu oponente Ativa seus modelos restantes um após o outro até que todos os seus modelos tenham sido Ativados. O jogo então prossegue para a Fase de Moral.
 
-Você pode desejar indicar que um modelo foi Ativado colocando um pequeno marcador ao lado dele. No calor da batalha, e muito fácil esquecer se um modelo já teve uma Ativação ou não!
+Você pode desejar indicar que um modelo foi Ativado colocando um pequeno marcador ao lado dele. No calor da batalha, é muito fácil esquecer se um modelo já teve uma Ativação ou não!
 
 ### AÇÕES
 
@@ -658,7 +658,7 @@ AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além
 
 - **Mover:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos). Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Investir em vez disso).
 
-- **Investir:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo é dentro de 12" dele como alvo da investida. Em seguida, role um dado, adicione o resultado à Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Investida). Você não pode realizar uma AÇÃO de Investir com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
+- **Investir:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo e dentro de 12" dele como alvo da investida. Em seguida, role um dado, adicione o resultado à Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Investida). Você não pode realizar uma AÇÃO de Investir com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Investir ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
 
 - **Recuar:** Um Recuo é um tipo especial de movimento que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar (ver Recuo).
 
@@ -676,7 +676,7 @@ Uma AÇÃO de Mover, Investir, Recuar ou Correr permite que você pegue um de se
 
 **Mover e mover**
 
-Note que quando dizemos Mover com "M" maiúsculo, estamos nós referindo a uma AÇÃO de Mover. Quando dizemos mover com "m" minúsculo, estamos nós referindo ao processo de mover seu modelo.
+Note que quando dizemos Mover com "M" maiúsculo, estamos nos referindo a uma AÇÃO de Mover. Quando dizemos mover com "m" minúsculo, estamos nos referindo ao processo de mover seu modelo.
 
 ### MOVIMENTOS
 
@@ -2723,7 +2723,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Senhor da Guerra:** Um modelo amigo coloca dois modelos inimigos Fora de Ação com Ataques Corpo a Corpo em um único Turno.
 - **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Derrubado coloca um modelo inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Um modelo amigo coloca um modelo ELITE inimigo Fora de Ação com um Ataque a Distância que tenha os modificadores de Longo Alcance e Cobertura.
-- **Bravura Suicida:** Um modelo amigo carrega com sucesso dois modelos com o mesmo movimento de investida.
+- **Bravura Suicida:** Um modelo amigo investe com sucesso contra dois modelos com o mesmo movimento de investida.
 
 ---
 
@@ -2817,15 +2817,15 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Boa Caça:** Modelo amigo coloca inimigo Fora de Ação com Ataque a Distância em Longo Alcance.
 - **Tiro na Cabeça:** Modelo que recuou coloca inimigo do qual recuou Fora de Ação.
 - **Mantenha a Posição:** Primeiro Bando a passar Teste de Moral.
-- **Para as Trincheiras!:** Modelo amigo carrega inimigo em seção de trincheira e coloca Fora de Ação com Ataque Corpo a Corpo.
-- **Sobreviver para Contar:** Modelo amigo sobrevive a 2 Rolagens de Ferimento por explosoes de minas.
+- **Para as Trincheiras!:** Modelo amigo investe contra inimigo em seção de trincheira e coloca Fora de Ação com Ataque Corpo a Corpo.
+- **Sobreviver para Contar:** Modelo amigo sobrevive a 2 Rolagens de Ferimento por explosões de minas.
 - **Vitória ou Morte:** Bando vence a partida (somente campanha).
 
 ---
 
 # V. Trem Blindado
 
-*Um trem blindado descarrilado, carregado de saque e munição, está sendo disputado pelas duas bandos.*
+*Um trem blindado descarrilado, carregado de saque e munição, está sendo disputado pelos dois bandos.*
 
 **Forças:** Em campanha, ambos os jogadores tem Força de Campo de 15 modelos.
 
@@ -2972,7 +2972,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 **Feitos Gloriosos:**
 - **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Investida Mergulhante.
 - **Caçador de Elites:** Modelo amigo coloca dois ELITES inimigos Fora de Ação.
-- **Sem Escapatoria:** Modelo amigo carrega com sucesso inimigo que não estava em sua Linha de Visão no início da Ativação.
+- **Sem Escapatória:** Modelo amigo investe com sucesso contra inimigo que não estava em sua Linha de Visão no início da Ativação.
 - **Vingança Pessoal:** Modelo amigo usa Banho de Sangue para colocar Fora de Ação inimigo que havia colocado um modelo amigo Fora de Ação anteriormente.
 - **Ceifador:** Modelo amigo coloca três inimigos Fora de Ação.
 - **Arriscar Tudo:** Modelo amigo faz duos Testes de Sucesso Arriscados na mesma Ativação, ambas Sucesso ou Sucesso Crítico.
