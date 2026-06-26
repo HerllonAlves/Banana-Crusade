@@ -127,7 +127,7 @@ Boas partidas!
 
 **1703:** Contra todas as probabilidades, um pequeno grupo de Cavaleiros Hebreus, partindo de sua fortaleza secreta, destrói o bastião Templário em Acre.
 
-**1721:** O Terceiro Cerco de Nova Antioquia e levantado pelas forças combinadas do Sultão Ibrahim, reforçadas por um contingente de guerreiros Tughlaq do Oriente e uma frota de alivio dos Estados Papais do Ocidente.
+**1721:** O Terceiro Cerco de Nova Antioquia e levantado pelas forças combinadas do Sultão Ibrahim, reforçadas por um contingente de guerreiros Tughlaq do Oriente e uma frota de alívio dos Estados Papais do Ocidente.
 
 **1789:** A Grande Frota do Almirante Herético Amminadab lança uma invasão total das Highlands. Uma amarga guerra de guerrilha rage por décadas enquanto os escoceses lutam para expulsar os invasores. A população e devastada.
 
@@ -147,7 +147,7 @@ Boas partidas!
 
 **1899:** O Programa Espacial da Igreja é iniciado.
 
-**1905:** A Frota de Suprimentos de Nova Antioquia e emboscada e destruída pela frota Herética. Os destrocos vao parar na costa do Levante, criando a Frente das Carcaças. Achish, o Senhor dos Sessenta e Seis, lança o Oitavo Cerco de Nova Antioquia ao mesmo tempo que ataca o Sultanato de Ferro, visando dividir e destruir os exércitos dos Fiéis. O Duque de Nova Antioquia cai em batalha, mas uma força de alivio improvisada acaba por derrotar os exércitos Heréticos.
+**1905:** A Frota de Suprimentos de Nova Antioquia e emboscada e destruída pela frota Herética. Os destrocos vao parar na costa do Levante, criando a Frente das Carcaças. Achish, o Senhor dos Sessenta e Seis, lança o Oitavo Cerco de Nova Antioquia ao mesmo tempo que ataca o Sultanato de Ferro, visando dividir e destruir os exércitos dos Fiéis. O Duque de Nova Antioquia cai em batalha, mas uma força de alívio improvisada acaba por derrotar os exércitos Heréticos.
 
 **1907:** A construção da Fortaleza Móvel da Britânia é concluída.
 
@@ -1558,7 +1558,7 @@ Espingarda de ação por bomba de cano curto, carregada com seis cartuchos conte
 
 ### Pistola Silenciada
 
-Uma arma lateral sofisticada feita de orichalcum ou outros metais sagrados, ou de ferro Infernal retirado das próprias prisões do Inferno para abafar os lamentos dos condenados. É virtualmente silenciosa e e excelente para emboscadas ou para atirar por trás de cobertura.
+Uma arma lateral sofisticada feita de orichalcum ou outros metais sagrados, ou de ferro Infernal retirado das próprias prisões do Inferno para abafar os lamentos dos condenados. É virtualmente silenciosa e é excelente para emboscadas ou para atirar por trás de cobertura.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
