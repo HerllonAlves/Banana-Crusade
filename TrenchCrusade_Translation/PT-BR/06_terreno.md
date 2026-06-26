@@ -1,12 +1,12 @@
 # Terreno de Trench Crusade
 
-Assim como um campo de batalha real teria características de terreno como edifícios, colinas e florestas, o campo de batalha para uma partida de Trench Crusade precisará de suas próprias características de terreno para fornecer cobertura para os guerreiros em seu Bando. O terreno que você coloca no campo de batalha e composto por modelos individuais chamados peças de terreno.
+Assim como um campo de batalha real teria características de terreno como edifícios, colinas e florestas, o campo de batalha para uma partida de Trench Crusade precisará de suas próprias características de terreno para fornecer cobertura para os guerreiros em seu Bando. O terreno que você coloca no campo de batalha é composto por modelos individuais chamados peças de terreno.
 
 ---
 
 ## O Campo de Batalha
 
-A área em que você joga sua partida e referida como o campo de batalha. Antes de montar o terreno para seu jogo, você precisará de um campo de batalha para colocá-lo. A maioria das partidas de Trench Crusade pode ser jogada em uma mesa de jantar, mas algumas requerem uma área de 36" ou 48" quadrados. Se você for jogar um desses cenários maiores, pode precisar construir uma mesa de jogo especial. Para todos os outros cenários, uma mesa de jantar padrão fornecerá mais que espaço suficiente para sua partida.
+A área em que você joga sua partida é referida como o campo de batalha. Antes de montar o terreno para seu jogo, você precisará de um campo de batalha para colocá-lo. A maioria das partidas de Trench Crusade pode ser jogada em uma mesa de jantar, mas algumas requerem uma área de 36" ou 48" quadrados. Se você for jogar um desses cenários maiores, pode precisar construir uma mesa de jogo especial. Para todos os outros cenários, uma mesa de jantar padrão fornecerá mais que espaço suficiente para sua partida.
 
 ---
 
@@ -40,7 +40,7 @@ Uma vez que você tenha montado seu campo de batalha, e uma boa ideia discutir c
 
 ### TERRENO ABERTO
 
-Terreno Aberto e qualquer área de um campo de batalha onde não há nada para impedir um modelo, e e o tipo de terreno mais comum em Trench Crusade. Modelos podem se mover livremente pelo Terreno Aberto.
+Terreno Aberto é qualquer área de um campo de batalha onde não há nada para impedir um modelo, e e o tipo de terreno mais comum em Trench Crusade. Modelos podem se mover livremente pelo Terreno Aberto.
 
 ### MARCOS
 
@@ -48,7 +48,7 @@ Um marco e uma única peça de Terreno Intransponível, como uma estátua, santu
 
 ### TERRENO DE ÁREA
 
-Terreno de área e um termo genérico para áreas de Terreno Perigoso, Difícil e Intransponível. É importante concordar onde está o limite de uma peça de terreno de área para que você possa dizer se um modelo entrou nela. Isso pode ser determinado montando o terreno em uma base adequada, marcando seu limite com um pequeno pedaço de algodão, ou simplesmente garantindo que você e seu oponente concordem onde o limite está.
+Terreno de área é um termo genérico para áreas de Terreno Perigoso, Difícil e Intransponível. É importante concordar onde está o limite de uma peça de terreno de área para que você possa dizer se um modelo entrou nela. Isso pode ser determinado montando o terreno em uma base adequada, marcando seu limite com um pequeno pedaço de algodão, ou simplesmente garantindo que você e seu oponente concordem onde o limite está.
 
 ### COLINAS
 
@@ -80,11 +80,11 @@ Um rio deve entrar por uma borda do campo de batalha e sair por outra. Riachos d
 
 ## Peças de Terreno Únicas
 
-Se você planeja usar quaisquer peças de terreno únicas que não estejam incluídas na lista de terreno padrão, então precisará conversar com seu oponente antes da partida para decidir como você as usará no jogo (não se preocupe, isso geralmente e algo bem simples de estabelecer!).
+Se você planeja usar quaisquer peças de terreno únicas que não estejam incluídas na lista de terreno padrão, então precisará conversar com seu oponente antes da partida para decidir como você as usará no jogo (não se preocupe, isso geralmente é algo bem simples de estabelecer!).
 
 ### Terreno Disperso
 
-Terreno que é pequeno demais para ter efeito na batalha, ou que é de outra forma irrelevante, e chamado de terreno disperso. Exemplos de terreno disperso incluem árvores individuais, caixas ou caixotes, placas de sinalização, e assim por diante. Terreno disperso e puramente decorativo; qualquer quantidade pode ser adicionada ao campo de batalha, e você pode ignora-lo ou move-lo para fora do caminho ao montar outras peças de terreno, mover modelos, fazer ataques ou verificar visibilidade.
+Terreno que é pequeno demais para ter efeito na batalha, ou que é de outra forma irrelevante, é chamado de terreno disperso. Exemplos de terreno disperso incluem árvores individuais, caixas ou caixotes, placas de sinalização, e assim por diante. Terreno disperso é puramente decorativo; qualquer quantidade pode ser adicionada ao campo de batalha, e você pode ignora-lo ou move-lo para fora do caminho ao montar outras peças de terreno, mover modelos, fazer ataques ou verificar visibilidade.
 
 ### Edifícios Intactos
 
@@ -120,7 +120,7 @@ Os jogadores fazem um desempate (ver Desempate), e o vencedor monta o terreno pa
 
 **Número de Peças de Terreno**
 
-Recomendamos que você use pelo menos 2 peças de cada tipo de terreno, se possível. Conte peças que tenham mais de 8" de largura ou mais de 8" de comprimento como sendo 2 peças de terreno para esse número, em vez de apenas 1. No entanto, isso e apenas uma diretriz, e você pode usar qualquer número de peças de terreno em um cenário de Terra de Ninguem, desde quase nenhum terreno até tanto terreno quanto puder ser colocado no campo de batalha (sem violar nenhuma das restrições a seguir sobre como as peças de terreno podem ser posicionadas, claro!)
+Recomendamos que você use pelo menos 2 peças de cada tipo de terreno, se possível. Conte peças que tenham mais de 8" de largura ou mais de 8" de comprimento como sendo 2 peças de terreno para esse número, em vez de apenas 1. No entanto, isso é apenas uma diretriz, e você pode usar qualquer número de peças de terreno em um cenário de Terra de Ninguem, desde quase nenhum terreno até tanto terreno quanto puder ser colocado no campo de batalha (sem violar nenhuma das restrições a seguir sobre como as peças de terreno podem ser posicionadas, claro!)
 
 **Montagem do Terreno**
 

@@ -330,7 +330,7 @@ Você não pode escolher um modelo inimigo como alvo de uma investida se a rota 
 
 **Bônus de Investida**
 
-Após selecionar o alvo, role um D6 e adicione o resultado a Característica de Movimento do modelo carregando, até um máximo de Característica de Movimento de 12". A rolagem do D6 e referida como o Bônus de Investida do modelo.
+Após selecionar o alvo, role um D6 e adicione o resultado a Característica de Movimento do modelo carregando, até um máximo de Característica de Movimento de 12". A rolagem do D6 é referida como o Bônus de Investida do modelo.
 
 **Movimentos de Carga**
 
@@ -354,7 +354,7 @@ Realizar uma AÇÃO de Recuar com um modelo permite que você faça um tipo espe
 
 ## Terreno
 
-O terreno em um campo de batalha de Trench Crusade e representado por modelos cenicos chamados peças de terreno (ver Terreno de Trench Crusade).
+O terreno em um campo de batalha de Trench Crusade é representado por modelos cenicos chamados peças de terreno (ver Terreno de Trench Crusade).
 
 ### Tipos de Terreno
 
@@ -498,7 +498,7 @@ Finalmente, faça uma Rolagem de Sucesso para o modelo atacante. Se a rolagem fo
 
 **Múltiplas Armas Corpo a Corpo**
 
-Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Lutar para fazer dois Ataques Corpo a Corpo separados, um com cada Arma, na ordem de sua escolha. A Arma usada para o segundo ataque e referida como a Arma Secundária (ver Modificadores de Ataque Corpo a Corpo). Você pode escolher o mesmo ou um modelo diferente como alvo para cada ataque. Se um modelo tiver duas Armas Corpo a Corpo, e uma ou ambas tiverem a Palavra-Chave GOLPE VARRENTE, escolha uma delas e faça um Ataque Corpo a Corpo com ela; se tiver a Palavra-Chave GOLPE VARRENTE, realize todos os seus ataques um após o outro. Em seguida, escolha a outra Arma Corpo a Corpo e faça um Ataque Corpo a Corpo com ela usando o Modificador de Arma Secundária; se tiver a Palavra-Chave GOLPE VARRENTE, realize todos os seus ataques um após o outro com o modificador de Arma Secundária.
+Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Lutar para fazer dois Ataques Corpo a Corpo separados, um com cada Arma, na ordem de sua escolha. A Arma usada para o segundo ataque é referida como a Arma Secundária (ver Modificadores de Ataque Corpo a Corpo). Você pode escolher o mesmo ou um modelo diferente como alvo para cada ataque. Se um modelo tiver duas Armas Corpo a Corpo, e uma ou ambas tiverem a Palavra-Chave GOLPE VARRENTE, escolha uma delas e faça um Ataque Corpo a Corpo com ela; se tiver a Palavra-Chave GOLPE VARRENTE, realize todos os seus ataques um após o outro. Em seguida, escolha a outra Arma Corpo a Corpo e faça um Ataque Corpo a Corpo com ela usando o Modificador de Arma Secundária; se tiver a Palavra-Chave GOLPE VARRENTE, realize todos os seus ataques um após o outro com o modificador de Arma Secundária.
 
 ---
 

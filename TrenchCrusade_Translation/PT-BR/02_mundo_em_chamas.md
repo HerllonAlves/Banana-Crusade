@@ -44,11 +44,11 @@
 
 **1703:** Contra todas as probabilidades, um pequeno grupo de Cavaleiros Hebreus, partindo de sua fortaleza secreta, destrói o bastiao Templário em Acre.
 
-**1721:** O Terceiro Cerco de Nova Antioquia e levantado pelas forças combinadas do Sultao Ibrahim, reforçadas por um contingente de guerreiros Tughlaq do Oriente e uma frota de alivio dos Estados Papais do Ocidente.
+**1721:** O Terceiro Cerco de Nova Antioquia e levantado pelas forças combinadas do Sultão Ibrahim, reforçadas por um contingente de guerreiros Tughlaq do Oriente e uma frota de alivio dos Estados Papais do Ocidente.
 
 **1789:** A Grande Frota do Almirante Herético Amminadab lança uma invasao total das Highlands. Uma amarga guerra de guerrilha rage por decadas enquanto os escoceses lutam para expulsar os invasores. A populacao e devastada.
 
-**1805:** A Frota Herética comandada pelo Alto Capitao Ranga triunfa sobre a marinha da Inglaterra na Batalha dos Penhascos Ensanguentados. O Almirante Nelson e morto em combate.
+**1805:** A Frota Herética comandada pelo Alto Capitão Ranga triunfa sobre a marinha da Inglaterra na Batalha dos Penhascos Ensanguentados. O Almirante Nelson e morto em combate.
 
 **1807:** A Frota Basilisco Herética invade a Eire. O Alto Rei Muiredach lidera os clas contra os invasores, mas e morto na Batalha de Waterford. Os irlandeses travam uma campanha de guerrilha centenaria para reconquistar sua terra.
 
@@ -80,9 +80,9 @@ A Terra foi cindida em dois, como por uma espada ensanguentada, dividida entre o
 
 O Principado de Nova Antioquia permanece desafiador diante do poder do Diabo. Aqui, o Duque Constantino XI comanda os exércitos dos Fieis. Sobre seus ombros repousa o destino do continente europeu. De toda a Cristandade, os piedosos e os loucos formam Procissoes de Peregrinos das Trincheiras em números impressionantes. Esses homens e mulheres buscam se lancar contra as forças demoniacas e heréticas, desesperados para conquistar a salvação através da batalha.
 
-A Leste, sob a proteção da Grande Muralha de Ferro, o Sultao mobiliza suas forças enquanto lutam para conter a mare de Shaytao.
+A Leste, sob a proteção da Grande Muralha de Ferro, o Sultão mobiliza suas forças enquanto lutam para conter a mare de Shaytao.
 
-Opondo-se aos Fieis, das terras sob a sombra ardente do Inferno, vem os Senhores dos Sessenta e Seis, tramando rumo ao domínio e a ascensao de um novo soberano, refletindo a politica mercurial do Inferno na Terra. No meio dos campos de morte, cadaveres se levantam enquanto o Principe da Decadencia, Belzebu, trava sua própria guerra privada contra toda a vida com seu Graal Negro. Os adoradores mortais de demônios e os Heréticos são reforçados pelos exércitos da Corte da Serpente de Sete Cabeças, os soldados de pe do Inferno. Em sombria majestade, as terriveis partidas de caça do Inferno buscam sangrar a Terra até a morte.
+Opondo-se aos Fieis, das terras sob a sombra ardente do Inferno, vem os Senhores dos Sessenta e Seis, tramando rumo ao domínio e a ascensao de um novo soberano, refletindo a politica mercurial do Inferno na Terra. No meio dos campos de morte, cadaveres se levantam enquanto o Principe da Decadência, Belzebu, trava sua própria guerra privada contra toda a vida com seu Graal Negro. Os adoradores mortais de demônios e os Heréticos são reforçados pelos exércitos da Corte da Serpente de Sete Cabeças, os soldados de pe do Inferno. Em sombria majestade, as terriveis partidas de caça do Inferno buscam sangrar a Terra até a morte.
 
 Entre os lados em guerra se abre a Terra de Ninguém: interminaveis trincheiras, casamatas e bunkers, aldeias, cidades e municipios em ruínas, cravejados por artilharia devastadora, criam uma paisagem de horror, assombrada pelos fantasmas dos mortos. Templos, sinagogas, mesquitas, igrejas, basílicas e catedrais destruídos testemunham em silencio solene uma batalha tão espiritual quanto física.
 

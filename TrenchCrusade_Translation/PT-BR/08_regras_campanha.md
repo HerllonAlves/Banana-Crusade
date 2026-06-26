@@ -67,7 +67,7 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 - **Assassinato Abençoado:** Se um Ataque Corpo a Corpo feito por um modelo com esta Habilidade colocar um modelo inimigo Fora de Ação, coloque 1 MARCADOR DE BÊNÇÃO ao lado do modelo com esta Habilidade.
 - **Sacrifício de Sangue AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Sacrifício de Sangue. Se fizer isso, faça uma Rolagem de Sucesso para o modelo. Em um Sucesso ou Sucesso Crítico, você pode remover 1 MARCADOR DE SANGUE do modelo e colocá-lo ao lado de qualquer outro modelo que esteja dentro de 6" do modelo realizando a AÇÃO de Sacrifício de Sangue, em sua Linha de Visão, e que não tenha as Palavras-Chave ARTIFICIAL, GRAAL NEGRO ou DEMONÍACO.
 - **Fogo Infernal AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Fogo Infernal. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, escolha um modelo amigo que esteja dentro de 18" do modelo realizando a AÇÃO de Fogo Infernal e em sua Linha de Visão. Em seguida, trace uma linha reta de 1mm de largura entre os pontos mais próximos das bases dos dois modelos, e faça uma Rolagem de Ferimento com a Palavra-Chave FOGO para cada modelo (amigo ou inimigo) que seja cruzado ou alcançado pela linha, incluindo o modelo amigo que você escolheu, mas não incluindo o modelo realizando a AÇÃO de Fogo Infernal.
-- **Chicote do Aqueronte AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Chicote do Aqueronte. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, você pode fazer uma Rolagem de Ferimento com a Palavra-Chave IGNORA ARMADURA para 1 modelo inimigo que esteja dentro de 6" do modelo realizando a AÇÃO de Chicote do Aqueronte e em sua Linha de Visão.
+- **Chicote do Aqueronte AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Chicote do Aqueronte. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, você pode fazer uma Rolagem de Ferimento com a Palavra-Chave IGNORAR ARMADURA para 1 modelo inimigo que esteja dentro de 6" do modelo realizando a AÇÃO de Chicote do Aqueronte e em sua Linha de Visão.
 - **Sádico:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido.
 
 ---
@@ -315,7 +315,7 @@ Nesta etapa, primeiro você pode tentar Promover uma ou mais das Tropas em seu B
 
 Em uma campanha, você pode Promover as Tropas em seu Bando ao status ELITE usando as seguintes regras.
 
-**Pool de Promoção:** Seu Pool de Dados de Promoção e composto por 1D6, mais 1D6 para cada Feito Glorioso realizado durante a partida por qualquer modelo de seu Bando.
+**Pool de Promoção:** Seu Pool de Dados de Promoção é composto por 1D6, mais 1D6 para cada Feito Glorioso realizado durante a partida por qualquer modelo de seu Bando.
 
 **Atribuir Dados de Promoção:** Atribua os dados do pool aos modelos de Tropa em seu Bando. Você não pode atribuir um 3o dado ao mesmo modelo até que todos os modelos de Tropa tenham pelo menos 2 dados cada.
 
@@ -368,7 +368,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 7 | **Proficiência Corpo a Corpo:** Adicione +1 DADO a Característica de Corpo a Corpo de um modelo com esta Habilidade. |
 | 8 | **Força de Sansão:** Adicione +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo usando uma Arma Corpo a Corpo feitos por um modelo com esta Habilidade. Além disso, um modelo com esta Habilidade tem a Palavra-Chave FORTE. |
 | 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele é tratado como um resultado Sem Efeito em vez disso. |
-| 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORA ARMADURA. |
+| 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORAR ARMADURA. |
 | 11 | **Campeão:** Armas Corpo a Corpo que não possuam a Palavra-Chave GOLPE VARRENTE usadas por um modelo com esta Habilidade ganham a Palavra-Chave GOLPE VARRENTE 2. Além disso, adicione -1 DADO a Rolagem de Sucesso para o segundo Ataque Corpo a Corpo feito com cada Arma Corpo a Corpo que ganhe a Palavra-Chave GOLPE VARRENTE. |
 | 12 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
 
@@ -385,7 +385,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 8 | **Ninho de Franco-Atirador:** Adicione +2 DADOS em vez de +1 DADO a rolagens para Ataques a Distância feitos com o modificador de Posição Elevada por um modelo com esta Habilidade. |
 | 9 | **Queima-Roupa:** Quando um modelo com esta Habilidade fizer um Ataque Corpo a Corpo, pode usar uma Arma a Distância e sua Característica de Ataque a Distância em vez de uma Arma Corpo a Corpo. Deve ainda estar dentro de 1" do alvo. |
 | 10 | **Tiro do Quadril:** Armas a Distância usadas por um modelo com esta Habilidade contam como tendo a Palavra-Chave ASSALTO. |
-| 11 | **Tiro na Cabeça:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORA ARMADURA se o ataque for um Sucesso Crítico. |
+| 11 | **Tiro na Cabeça:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMADURA se o ataque for um Sucesso Crítico. |
 | 12 | **Habilidade de Patrono.** |
 
 ### TABELA DE HABILIDADES DE FURTIVIDADE E VELOCIDADE
@@ -639,4 +639,4 @@ Itens de Glória são peças de Equipamento de Batalha que só podem ser comprad
 
 ## Cartulário de Itens de Glória
 
-Os itens de Glória mais notaveis estão descritos abaixo com suas regras completas. Consulte o livro de regras original para descrições detalhadas de cada item individual, incluindo perfis de combate e regras especiais.
+Os itens de Glória mais notáveis estão descritos abaixo com suas regras completas. Consulte o livro de regras original para descrições detalhadas de cada item individual, incluindo perfis de combate e regras especiais.

@@ -68,7 +68,7 @@ A menos que declarado de outra forma, assume-se que um modelo tem:
 - Uma cabeça para usar um capacete.
 - Um corpo que pode ser coberto por armadura.
 
-Além disso, assume-se que um modelo tem cintos, mochilas e bolsas suficientes para carregar Granadas e qualquer outro Equipamento que possua. Todas as entradas de Arma especificam se requerem uma ou duas mãos para usar. Um modelo pode alternar livremente entre Armas a Distância e Corpo a Corpo entre AÇÕES, pendurando armas não usadas no ombro ou guardando-as em um coldre ou bainha conforme necessário.
+Além disso, assume-se que um modelo tem cintos, mochilas e bolsas suficientes para carregar Granadas é qualquer outro Equipamento que possua. Todas as entradas de Arma especificam se requerem uma ou duas mãos para usar. Um modelo pode alternar livremente entre Armas a Distância e Corpo a Corpo entre AÇÕES, pendurando armas não usadas no ombro ou guardando-as em um coldre ou bainha conforme necessário.
 
 ---
 
@@ -82,7 +82,7 @@ Enormes rifles longos projetados para eliminar alvos pesadamente blindados, veí
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| 2 Mãos | 36" | +1 DADO DE FERIMENTO, CRÍTICO, PESADO, IGNORA ARMADURA |
+| 2 Mãos | 36" | +1 DADO DE FERIMENTO, CRÍTICO, PESADO, IGNORAR ARMADURA |
 
 ### Pistola Automática
 
@@ -132,7 +132,7 @@ Um lança-chamas é uma Arma aterrorizante capaz de projetar grandes jatos de fo
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| 2 Mãos | 8" | -1 DADO DE FERIMENTO, FOGO, LANÇA-CHAMAS, IGNORA ARMADURA |
+| 2 Mãos | 8" | -1 DADO DE FERIMENTO, FOGO, LANÇA-CHAMAS, IGNORAR ARMADURA |
 
 ### Lançador de Granadas
 
@@ -148,7 +148,7 @@ Esses lança-chamas massivos são normalmente montados em veículos blindados, m
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| 2 Mãos | 10" | -1 DADO DE FERIMENTO, AUTOMÁTICO 2, FOGO, LANÇA-CHAMAS, PESADO, IGNORA ARMADURA |
+| 2 Mãos | 10" | -1 DADO DE FERIMENTO, AUTOMÁTICO 2, FOGO, LANÇA-CHAMAS, PESADO, IGNORAR ARMADURA |
 
 ### Espingarda Pesada
 
@@ -218,7 +218,7 @@ Um rifle de precisão e um rifle de alta precisão e longo alcance, amplamente u
 |------|---------|----------------|
 | 2 Mãos | 48" | +1 DADO, CRÍTICO, ARRISCADO |
 
-*Tiro Certeiro:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Rifle de Precisão for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORA ARMADURA.
+*Tiro Certeiro:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Rifle de Precisão for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Submetralhadora
 
@@ -242,7 +242,7 @@ Uma arma de haste com um explosivo direcional montado em sua cabeça. É excepci
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| 2 Mãos | Corpo a Corpo | +1 DADO DE FERIMENTO, CRÍTICO, IGNORA ARMADURA, ARRISCADO |
+| 2 Mãos | Corpo a Corpo | +1 DADO DE FERIMENTO, CRÍTICO, IGNORAR ARMADURA, ARRISCADO |
 
 *Perigoso:* Coloque 1 MARCADOR DE SANGUE ao lado do modelo usando esta Arma se ele fizer um Ataque Corpo a Corpo e a Rolagem de Sucesso for um Sucesso ou Sucesso Crítico.
 
@@ -288,7 +288,7 @@ A adaga misericórdia e projetada para tirar inimigos de seu sofrimento encontra
 |------|---------|----------------|
 | 1 Mão | Corpo a Corpo | - |
 
-*Execução:* Esta arma tem a Palavra-Chave IGNORA ARMADURA se o alvo estiver Abatido.
+*Execução:* Esta arma tem a Palavra-Chave IGNORAR ARMADURA se o alvo estiver Abatido.
 
 ### Arma de Haste
 
@@ -342,7 +342,7 @@ Granadas de gás são armas insidiosas, atacando os pulmões e outros órgãos i
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Granada | 8" | -1 DADO DE FERIMENTO, ASSALTO, EXPLOSÃO 3", GÁS, IGNORA ARMADURA, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
+| Granada | 8" | -1 DADO DE FERIMENTO, ASSALTO, EXPLOSÃO 3", GÁS, IGNORAR ARMADURA, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
 ### Granadas Incendiárias
 
@@ -352,7 +352,7 @@ Granadas incendiárias podem incendiar seu alvo com enxofre, fósforo ou gás in
 |------|---------|----------------|
 | Granada | 8" | ASSALTO, FOGO, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
-*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com uma Granada Incendiária for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORA ARMADURA.
+*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com uma Granada Incendiária for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Coquetel Molotov
 
@@ -362,7 +362,7 @@ Desenvolvido na desesperada fronteira de batalha finlandesa contra demônios de 
 |------|---------|----------------|
 | Granada | 6" | -1 DADO DE FERIMENTO, ASSALTO, FOGO, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
-*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORA ARMADURA.
+*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Carga Explosiva
 
@@ -370,7 +370,7 @@ Explosivos de campo projetados para destruir fortificações inimigas e romper a
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Granada | 6" | +1 DADO DE FERIMENTO, EXPLOSÃO 3", CONSUMIVEL, PESADO, IGNORA ARMADURA, IGNORAR COBERTURA, DISPERSÃO |
+| Granada | 6" | +1 DADO DE FERIMENTO, EXPLOSÃO 3", CONSUMIVEL, PESADO, IGNORAR ARMADURA, IGNORAR COBERTURA, DISPERSÃO |
 
 *Explosivo Pesado:* Uma vez durante uma partida, um modelo com uma Carga Explosiva pode usa-la para fazer um Ataque a Distância.
 

@@ -255,7 +255,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Modelos Neutros:** O Dragão e os Camponeses são modelos neutros (tratados como inimigos por ambos os lados). Após cada Ativação de um modelo do jogador, role D6: em 1-4 Ative um Campones; em 5-6 Ative o Dragão ou um Campones.
 
-**O Dragão:** Movimento 10", +3 DADO em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORA ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORA ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Abatido), e Desafiador.
+**O Dragão:** Movimento 10", +3 DADO em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORAR ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORAR ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Abatido), e Desafiador.
 
 **Os Camponeses:** Movimento 5", só podem Mover ou Recuar em direção a borda mais próxima. Habilidade Debil: +2 DADOS e +2 DADOS DE FERIMENTO contra eles.
 
@@ -384,7 +384,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 
 **Posicionamento:** Defensor posiciona máximo 6, atacante posiciona 6+D3. Reforços cada Turno (D3).
 
-**Destruindo Bunkers:** Modelos ELITE atacantes tem Cargas de Demolição. AÇÕES: Colocar Carga (em contato com Bunker) e Detonar Carga (Rolagem de Ferimento IGNORA ARMADURA para modelos dentro de 3").
+**Destruindo Bunkers:** Modelos ELITE atacantes tem Cargas de Demolição. AÇÕES: Colocar Carga (em contato com Bunker) e Detonar Carga (Rolagem de Ferimento IGNORAR ARMADURA para modelos dentro de 3").
 
 **Duração:** Ao final do 5o Turno, role D6: em 1-2 termina; em 3+, termina no 6o Turno.
 

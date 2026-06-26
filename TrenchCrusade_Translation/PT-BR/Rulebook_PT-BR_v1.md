@@ -131,7 +131,7 @@ Boas partidas!
 
 **1789:** A Grande Frota do Almirante Herético Amminadab lança uma invasão total das Highlands. Uma amarga guerra de guerrilha rage por décadas enquanto os escoceses lutam para expulsar os invasores. A população e devastada.
 
-**1805:** A Frota Herética comandada pelo Alto Capitao Ranga triunfa sobre a marinha da Inglaterra na Batalha dos Penhascos Ensanguentados. O Almirante Nelson é morto em combate.
+**1805:** A Frota Herética comandada pelo Alto Capitão Ranga triunfa sobre a marinha da Inglaterra na Batalha dos Penhascos Ensanguentados. O Almirante Nelson é morto em combate.
 
 **1807:** A Frota Basilisco Herética invade a Eire. O Alto Rei Muiredach lidera os clas contra os invasores, mas é morto na Batalha de Waterford. Os irlandeses travam uma campanha de guerrilha centenaria para reconquistar sua terra.
 
@@ -278,7 +278,7 @@ Os seguintes modificadores são cumulativos:
 - **Múltiplas Armas Corpo a Corpo:** Se seu modelo estiver armado com duas Armas Corpo a Corpo, pode atacar com ambas, uma após a outra na ordem de sua escolha. Adicione -1 DADO para o segundo ataque.
 - **MEDO:** Adicione -1 DADO se seu oponente tiver a Palavra-Chave MEDO. Se ambos os modelos causarem MEDO, o efeito se cancela.
 - **Obstáculo Defendido:** Adicione -1 DADO se o alvo estiver em cobertura. Um modelo está em cobertura se estiver em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja tão larga quanto sua base, e a peça de terreno esteja entre ele e o modelo atacante.
-- **Carga Mergulhante:** Um modelo pode tentar uma Carga Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, o modelo fica Abatido e uma Rolagem de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
+- **Carga Mergulhante:** Um modelo pode tentar uma Carga Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, o modelo fica Abatido e uma Rolagem de Ferimento por Queda devê ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
 
 **Queda**
 
@@ -530,7 +530,7 @@ Todo modelo tem um Perfil que define sua eficácia no jogo. Além disso, Perfis 
 
 **Exemplo de Perfil: Azebs, Custo: 25 👑**
 
-Azebs são soldados recrutados da multidão de províncias do sultanato, onde uma casa em cada vinte e obrigada a equipar e fornecer um guerreiro para servir o príncipe Daqueles Que Creem. Eles são frequentemente usados por seus superiores como escaramucadores leves para assediar e prender o inimigo enquanto tropas mais pesadas se aproximam para o golpe final.
+Azebs são soldados recrutados da multidão de províncias do sultanato, onde uma casa em cada vinte e obrigado a equipar e fornecer um guerreiro para servir o príncipe Daqueles Que Creem. Eles são frequentemente usados por seus superiores como escaramuçadores leves para assediar e prender o inimigo enquanto tropas mais pesadas se aproximam para o golpe final.
 
 | Movimento | Distância | Corpo a Corpo | Armadura | Base |
 |-----------|-----------|---------------|----------|------|
@@ -564,7 +564,7 @@ Algo está dentro de uma certa distância de outra coisa se a distância entre o
 
 ### LINHA DE VISÃO
 
-Você frequentemente precisará verificar se um modelo tem "Linha de Visão" para outro modelo ou peça de terreno. Se você não tiver certeza se um modelo tem Linha de Visão para um alvo, abaixe-se e olhe por tras do modelo atacante e verifique se ele pode ver qualquer parte do modelo alvo (não conte a base do alvo, suas mãos ou pés, ou qualquer coisa que seja carregada ou anexada ao alvo, como uma arma ou estandarte), ou qualquer parte de uma peça de terreno alvo. Modelos podem ver em todas as direções (ou seja, 360 graus) e podem ser girados para encarar qualquer direção antes que a Linha de Visão seja verificada.
+Você frequentemente precisará verificar se um modelo tem "Linha de Visão" para outro modelo ou peça de terreno. Se você não tiver certeza se um modelo tem Linha de Visão para um alvo, abaixe-se e olhe por trás do modelo atacante e verifique se ele pode ver qualquer parte do modelo alvo (não conte a base do alvo, suas mãos ou pés, ou qualquer coisa que seja carregada ou anexada ao alvo, como uma arma ou estandarte), ou qualquer parte de uma peça de terreno alvo. Modelos podem ver em todas as direções (ou seja, 360 graus) e podem ser girados para encarar qualquer direção antes que a Linha de Visão seja verificada.
 
 **Linha de Visão Parcial**
 
@@ -620,7 +620,7 @@ No início de cada Turno, você deve determinar qual jogador tem a Iniciativa pa
 
 **Determinando a Iniciativa**
 
-Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Abatidos ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate e o vencedor tem a Iniciativa pelo resto do Turno.
+Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Abatidos ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate é o vencedor tem a Iniciativa pelo resto do Turno.
 
 **Tarefas de Início de Turno**
 
@@ -706,7 +706,7 @@ Após selecionar o alvo, role um D6 e adicione o resultado à Característica de
 
 Após determinar o Bônus de Investida, mova o modelo carregando em direção ao alvo. Quando você fizer um movimento de carga com um modelo, as seguintes regras adicionais se aplicam ao movimento:
 
-- O modelo deve se mover pela rota mais curta disponível que o leve diretamente ao alvo.
+- O modelo devê se mover pela rota mais curta disponível que o leve diretamente ao alvo.
 - Escalar, Saltar, Pular Para Baixo ou mover-se através de terreno Perigoso é opcional durante uma investida, desde que a rota usada para evitar os obstáculos seja a mais curta possível.
 - O modelo deve parar assim que se mover para contato com o alvo, a menos que continuar com seu movimento permita que ele permaneça em contato com o alvo é termine dentro de 1" de quaisquer outros modelos inimigos.
 
@@ -1000,13 +1000,13 @@ Palavras-Chave tem dois benefícios: elas atuam como Etiquetas e podem conferir 
 ## Glossário de Palavras-Chave
 
 ### +/-DADO (Efeito)
-Dados que são adicionados a Rolagens de Sucesso (ver Rolagens de Sucesso). Se a Palavra-Chave se aplica a uma Arma, os dados são adicionados apenas a Rolagens de Sucesso para Ataques feitos com ela.
+Dados que são adicionados a Rolagens de Sucesso (ver Rolagens de Sucesso). Se a Palavra-Chavê se aplica a uma Arma, os dados são adicionados apenas a Rolagens de Sucesso para Ataques feitos com ela.
 
 ### +/-DADO DE FERIMENTO (Efeito)
-Dados que são adicionados a Rolagens de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, os dados são adicionados apenas a Rolagens de Ferimento para Ataques feitos com ela.
+Dados que são adicionados a Rolagens de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chavê se aplica a uma Arma, os dados são adicionados apenas a Rolagens de Ferimento para Ataques feitos com ela.
 
 ### +/-MODIFICADOR DE FERIMENTO (Efeito)
-Modificadores que são aplicados ao resultado de uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, o modificador é adicionado apenas às Rolagens de Ferimento para Ataques feitos com ela.
+Modificadores que são aplicados ao resultado de uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chavê se aplica a uma Arma, o modificador é adicionado apenas às Rolagens de Ferimento para Ataques feitos com ela.
 
 ### AÇÃO (Etiqueta)
 Uma atividade que um modelo pode realizar quando é Ativado. AÇÕES comuns incluem Mover, Correr, Atirar e Lutar.
@@ -1084,7 +1084,7 @@ Adicione -1 DADO a um Ataque Corpo a Corpo que tenha como alvo um modelo com est
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### DUPLA DE FOGO (Efeito)
-Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os quais devem ter a Palavra-Chave DUPLA DE FOGO. Você pode criar Duplas de Fogo ao recrutar um Bando e na Etapa do Intendente. Registre quais modelos estão em Duplas de Fogo em seu Bando na sua Ficha de Bando. Você pode Ativar modelos amigos que fazem parte da mesma Dupla de Fogo simultaneamente. Se fizer isso, você pode realizar suas AÇÕES em qualquer ordem que desejar, e pode alternar entre os dois modelos livremente. No entanto, se a Ativação de qualquer membro da Dupla de Fogo terminar durante uma Ativação simultânea, ela termina imediatamente para o outro modelo também. Um modelo não pode estar em mais de 1 Dupla de Fogo.
+Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os quais devem ter a Palavra-Chave DUPLA DE FOGO. Você pode criar Duplas de Fogo ao recrutar um Bando e na Etapa do Intendente. Registre quais modelos estão em Duplas de Fogo em seu Bando na sua Ficha de Bando. Você pode Ativar modelos amigos que fazem parte da mesma Dupla de Fogo simultâneamente. Se fizer isso, você pode realizar suas AÇÕES em qualquer ordem que desejar, e pode alternar entre os dois modelos livremente. No entanto, se a Ativação de qualquer membro da Dupla de Fogo terminar durante uma Ativação simultânea, ela termina imediatamente para o outro modelo também. Um modelo não pode estar em mais de 1 Dupla de Fogo.
 
 ### LANÇA-CHAMAS (Efeito)
 Quando uma Arma com esta Palavra-Chave é usada para fazer um Ataque a Distância, ele é automaticamente um Sucesso. Não faça uma Rolagem de Sucesso para o ataque. Note que isso significa que o ataque não pode alcançar um Sucesso Crítico.
@@ -1107,7 +1107,7 @@ Uma peça de Equipamento de Batalha com esta Palavra-Chave requer uma mão para 
 ### HERÉTICO (Etiqueta)
 O modelo é membro da Facção das Legiões Heréticas.
 
-### IGNORA ARMADURA (Efeito)
+### IGNORAR ARMADURA (Efeito)
 Ignore -DADOS DE FERIMENTO e -MODIFICADORES DE FERIMENTO da Característica de Armadura do alvo, e de quaisquer peças de Equipamento de Batalha de Armadura ou Escudo que ele possua, para ataques que possuam esta Palavra-Chave.
 
 ### IGNORAR [MODIFICADOR] (Efeito)
@@ -1117,13 +1117,13 @@ Ignore o modificador de Rolagem de Sucesso ou Rolagem de Ferimento que é especi
 Modelos não podem ser movidos para cima de ou através de terreno com esta Palavra-Chave.
 
 ### IMPERVIO (Efeito)
-Os Efeitos de PERFURA ARMADURA e IGNORA ARMADURA não afetam quaisquer -DADOS DE FERIMENTO e -MODIFICADORES DE FERIMENTO que se apliquem a Equipamento de Batalha que possua esta Palavra-Chave. Qualquer outro Equipamento de Batalha que o modelo alvo tenha é afetado normalmente.
+Os Efeitos de PERFURA ARMADURA e IGNORAR ARMADURA não afetam quaisquer -DADOS DE FERIMENTO e -MODIFICADORES DE FERIMENTO que se apliquem a Equipamento de Batalha que possua esta Palavra-Chave. Qualquer outro Equipamento de Batalha que o modelo alvo tenha é afetado normalmente.
 
 ### MARCADORES DE INFECÇÃO (Etiqueta)
 O modelo está sob a influência de uma enfermidade sobrenatural ou química que fornece efeitos temporários (ver Marcadores de Infecção em Warbands of Trench Crusade).
 
 ### INFILTRADOR (Efeito)
-Quando um modelo com esta Palavra-Chave e posicionado pela primeira vez em uma partida, ele pode ser montado em qualquer lugar do campo de batalha desde que esteja fora da Linha de Visão de todos os inimigos e esteja a pelo menos 8" de distância do inimigo mais próximo. INFILTRADORES são posicionados após modelos que não possuem esta Palavra-Chave. Quaisquer INFILTRADORES que não possam ser posicionados desta forma são posicionados normalmente em sua zona de posicionamento.
+Quando um modelo com esta Palavra-Chave é posicionado pela primeira vez em uma partida, ele pode ser montado em qualquer lugar do campo de batalha desde que esteja fora da Linha de Visão de todos os inimigos e esteja a pelo menos 8" de distância do inimigo mais próximo. INFILTRADORES são posicionados após modelos que não possuem esta Palavra-Chave. Quaisquer INFILTRADORES que não possam ser posicionados desta forma são posicionados normalmente em sua zona de posicionamento.
 
 ### MINADO (Efeito)
 Quando um modelo se move para contato com um Marcador ou peça de terreno com a Palavra-Chave MINADO, a mina detonará a menos que o modelo tenha a Palavra-Chave NEGAR MINADO. Faça uma Rolagem de Ferimento com a Palavra-Chave ESTILHAÇO para o modelo que detonou a mina, e então o Marcador ou peça de terreno perde a Palavra-Chave MINADO. Se o modelo que detonou a mina não foi colocado Abatido ou Fora de Ação, ele pode então continuar seu movimento. Modelos com a Palavra-Chave VOADOR só detonam uma mina se terminarem um movimento em contato com um Marcador ou peça de terreno MINADO (eles podem sobrevoar sem ativá-la).
@@ -1219,7 +1219,7 @@ Uma vez que você tenha montado seu campo de batalha, e uma boa ideia discutir c
 
 ### TERRENO ABERTO
 
-Terreno Aberto e qualquer área de um campo de batalha onde não há nada para impedir um modelo, e é o tipo de terreno mais comum em Trench Crusade. Modelos podem se mover livremente pelo Terreno Aberto.
+Terreno Aberto é qualquer área de um campo de batalha onde não há nada para impedir um modelo, e é o tipo de terreno mais comum em Trench Crusade. Modelos podem se mover livremente pelo Terreno Aberto.
 
 ### MARCOS
 
@@ -1235,11 +1235,11 @@ Uma colina pode ser de qualquer tamanho ou altura, embora recomendemos que não 
 
 ### TERRENO LINEAR
 
-Terreno linear inclui obstáculos como muros e sebes. Ele pode ter curvas e ângulos, e várias seções podem ser unidas para criar um longo conjunto de muros ou sebes. Terreno linear pode ser cruzado como se fosse Terreno Aberto se tiver até 1" de altura, mas deve ser escalado usando as regras para escalar superfícies abruptas se tiver mais de 1" de altura.
+Terreno linear inclui obstáculos como muros e sebes. Ele pode ter curvas e ângulos, e várias seções podem ser unidas para criar um longo conjunto de muros ou sebes. Terreno linear pode ser cruzado como se fosse Terreno Aberto se tiver até 1" de altura, mas devê ser escalado usando as regras para escalar superfícies abruptas se tiver mais de 1" de altura.
 
 ### SEÇÕES DE TRINCHEIRA
 
-Trincheiras são uma peça de terreno comum em campos de batalha de Trench Crusade, por razões óbvias! Trincheiras são divididas em seções de trincheira que podem ter de 4" a 12" de comprimento e de 2" a 4" de largura. Uma seção de trincheira pode ter curvas e ângulos, e várias seções podem ser unidas para criar uma linha de trincheira. Seções de trincheira também podem incluir cruzamentos e/ou interseções em T onde duas linhas de trincheiras se encontram. A lateral de uma trincheira pode ser cruzada como se fosse Terreno Aberto se tiver menos de 3" de altura, mas deve ser Escalada ou Pulada Para Baixo se tiver pelo menos 3" de altura (ver "Escalada e Salto"). Um modelo pode tentar Saltar de um lado da trincheira para o outro usando as regras para saltar sobre uma lacuna (ver Saltando Sobre Lacunas).
+Trincheiras são uma peça de terreno comum em campos de batalha de Trench Crusade, por razões óbvias! Trincheiras são divididas em seções de trincheira que podem ter de 4" a 12" de comprimento e de 2" a 4" de largura. Uma seção de trincheira pode ter curvas e ângulos, e várias seções podem ser unidas para criar uma linha de trincheira. Seções de trincheira também podem incluir cruzamentos e/ou interseções em T onde duas linhas de trincheiras se encontram. A lateral de uma trincheira pode ser cruzada como se fosse Terreno Aberto se tiver menos de 3" de altura, mas devê ser Escalada ou Pulada Para Baixo se tiver pelo menos 3" de altura (ver "Escalada e Salto"). Um modelo pode tentar Saltar de um lado da trincheira para o outro usando as regras para saltar sobre uma lacuna (ver Saltando Sobre Lacunas).
 
 ### EDIFÍCIOS EM RUÍNAS
 
@@ -1259,11 +1259,11 @@ Um rio deve entrar por uma borda do campo de batalha e sair por outra. Riachos d
 
 ## Peças de Terreno Únicas
 
-Se você planeja usar quaisquer peças de terreno únicas que não estejam incluídas na lista de terreno padrão, então precisará conversar com seu oponente antes da partida para decidir como você as usará no jogo (não se preocupe, isso geralmente e algo bem simples de estabelecer!).
+Se você planeja usar quaisquer peças de terreno únicas que não estejam incluídas na lista de terreno padrão, então precisará conversar com seu oponente antes da partida para decidir como você as usará no jogo (não se preocupe, isso geralmente é algo bem simples de estabelecer!).
 
 ### Terreno Disperso
 
-Terreno que é pequeno demais para ter efeito na batalha, ou que é de outra forma irrelevante, é chamado de terreno disperso. Exemplos de terreno disperso incluem árvores individuais, caixas ou caixotes, placas de sinalização, e assim por diante. Terreno disperso e puramente decorativo; qualquer quantidade pode ser adicionada ao campo de batalha, e você pode ignora-lo ou movê-lo para fora do caminho ao montar outras peças de terreno, mover modelos, fazer ataques ou verificar visibilidade.
+Terreno que é pequeno demais para ter efeito na batalha, ou que é de outra forma irrelevante, é chamado de terreno disperso. Exemplos de terreno disperso incluem árvores individuais, caixas ou caixotes, placas de sinalização, e assim por diante. Terreno disperso é puramente decorativo; qualquer quantidade pode ser adicionada ao campo de batalha, e você pode ignora-lo ou movê-lo para fora do caminho ao montar outras peças de terreno, mover modelos, fazer ataques ou verificar visibilidade.
 
 ### Edifícios Intactos
 
@@ -1277,7 +1277,7 @@ Para fazer uma mesa de jogo, basta comprar uma peça de MDF, aglomerado ou compe
 
 ## Arquétipos de Campo de Batalha
 
-Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propósitos dos cenários neste livro de regras, nós focamos em três arquetipos de campo de batalha: Terra de Ninguém, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquetipo de campo de batalha deve ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
+Partidas de Trench Crusade são travadas em todos os tipos de terreno, das passagens de montanha mais altas as profundezas subterraneas sombrias, mas para os propósitos dos cenários neste livro de regras, nós focamos em três arquetipos de campo de batalha: Terra de Ninguém, Ruínas Decimadas e (claro) Linhas de Trincheira. O cenário que você está usando para a partida explicará claramente que tipo de arquetipo de campo de batalha devê ser usado. O terreno para o cenário pode então ser montado usando as instruções abaixo.
 
 ---
 
@@ -1287,7 +1287,7 @@ Terra de Ninguém é a área que se encontra entre os sistemas de trincheiras da
 
 **Peças de Terreno da Terra de Ninguém**
 
-Os jogadores fazem um desempate (ver Desempate), e o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo na Terra de Ninguém devem ser escolhidas da seguinte lista:
+Os jogadores fazem um desempate (ver Desempate), é o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo na Terra de Ninguém devem ser escolhidas da seguinte lista:
 
 - Trincheiras
 - Edifícios em Ruínas
@@ -1313,7 +1313,7 @@ Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias loc
 
 **Peças de Terreno de Ruínas Decimadas**
 
-Os jogadores fazem um desempate, e o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo em Ruínas Decimadas devem ser escolhidas da seguinte lista:
+Os jogadores fazem um desempate, é o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo em Ruínas Decimadas devem ser escolhidas da seguinte lista:
 
 - Edifícios em Ruínas
 - Ruínas de Canto
@@ -1327,7 +1327,7 @@ Você precisará de pelo menos 6 edifícios em ruínas e pelo menos 2 peças de 
 
 **Montagem do Terreno**
 
-Quaisquer ruínas que serão usadas para a partida devem ser montadas primeiro. O primeiro edifício em ruínas ou canto pode ser montado em qualquer lugar do campo de batalha. Cada edifício em ruínas ou canto subsequente deve ser colocado entre 3" e 9" de distância de qualquer outro edifício em ruínas ou canto. Após todas as ruínas terem sido montadas, qualquer outro terreno pode ser adicionado ao campo de batalha. Terreno que não seja ruínas pode ser montado em qualquer lugar do campo de batalha que esteja a pelo menos 3" de quaisquer outras peças de terreno.
+Quaisquer ruínas que serão usadas para a partida devem ser montadas primeiro. O primeiro edifício em ruínas ou canto pode ser montado em qualquer lugar do campo de batalha. Cada edifício em ruínas ou canto subsequente devê ser colocado entre 3" e 9" de distância de qualquer outro edifício em ruínas ou canto. Após todas as ruínas terem sido montadas, qualquer outro terreno pode ser adicionado ao campo de batalha. Terreno que não seja ruínas pode ser montado em qualquer lugar do campo de batalha que esteja a pelo menos 3" de quaisquer outras peças de terreno.
 
 ---
 
@@ -1337,7 +1337,7 @@ Atrás da Terra de Ninguém se encontra um sistema de Linhas de Trincheira inter
 
 **Peças de Terreno de Linhas de Trincheira**
 
-Os jogadores fazem um desempate, e o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo em Linhas de Trincheira devem ser escolhidas da seguinte lista:
+Os jogadores fazem um desempate, é o vencedor monta o terreno para a partida. As peças de terreno para uma partida ocorrendo em Linhas de Trincheira devem ser escolhidas da seguinte lista:
 
 - Trincheiras
 - Ruínas de Canto
@@ -1351,7 +1351,7 @@ Você precisará de Trincheiras suficientes para alcançar de uma borda do campo
 
 **Montagem do Terreno**
 
-Quaisquer trincheiras que serão usadas para a partida devem ser montadas primeiro. A primeira trincheira deve ser montada de forma que entre por uma borda do campo de batalha, e trincheiras subsequentes devem se conectar com uma trincheira existente. Uma vez que todas as trincheiras tenham sido montadas, elas devem se estender da borda do campo de batalha, de ondé a primeira trincheira foi colocada, até a borda oposta do campo de batalha, de forma que um modelo pudesse entrar por uma borda e sair pela outra sem nunca ter que sair de uma trincheira. Após todas as trincheiras terem sido montadas, qualquer outro terreno pode ser montado em qualquer lugar do campo de batalha que esteja a pelo menos 1" de quaisquer trincheiras e 3" de quaisquer outras peças de terreno.
+Quaisquer trincheiras que serão usadas para a partida devem ser montadas primeiro. A primeira trincheira devê ser montada de forma que entre por uma borda do campo de batalha, e trincheiras subsequentes devem se conectar com uma trincheira existente. Uma vez que todas as trincheiras tenham sido montadas, elas devem se estender da borda do campo de batalha, de ondé a primeira trincheira foi colocada, até a borda oposta do campo de batalha, de forma que um modelo pudesse entrar por uma borda e sair pela outra sem nunca ter que sair de uma trincheira. Após todas as trincheiras terem sido montadas, qualquer outro terreno pode ser montado em qualquer lugar do campo de batalha que esteja a pelo menos 1" de quaisquer trincheiras e 3" de quaisquer outras peças de terreno.
 
 
 # Equipamento de Batalha
@@ -1424,7 +1424,7 @@ A menos que declarado de outra forma, assume-se que um modelo tem:
 - Uma cabeça para usar um capacete.
 - Um corpo que pode ser coberto por armadura.
 
-Além disso, assume-se que um modelo tem cintos, mochilas e bolsas suficientes para carregar Granadas e qualquer outro Equipamento que possua. Todas as entradas de Arma especificam se requerem uma ou duas mãos para usar. Um modelo pode alternar livremente entre Armas a Distância e Corpo a Corpo entre AÇÕES, pendurando armas não usadas no ombro ou guardando-as em um coldre ou bainha conforme necessário.
+Além disso, assume-se que um modelo tem cintos, mochilas e bolsas suficientes para carregar Granadas é qualquer outro Equipamento que possua. Todas as entradas de Arma especificam se requerem uma ou duas mãos para usar. Um modelo pode alternar livremente entre Armas a Distância e Corpo a Corpo entre AÇÕES, pendurando armas não usadas no ombro ou guardando-as em um coldre ou bainha conforme necessário.
 
 ---
 
@@ -1434,11 +1434,11 @@ Armas a Distância podem ser usadas para realizar um Ataque a Distância (ver At
 
 ### Rifle Antimaterial
 
-Enormes rifles longos projetados para eliminar alvos pesadamente blindados, veículos e posições fortificadas. Com a poderosa armadura disponível para os exércitos da Grande Guerra, essas armas aterrorizantes são muito procuradas. Um ponto negativo é seu enorme peso e recuo terrificante, e portanto são mais frequentemente usados por Comunicantes ou Ungidos que possuem a força sobrenatural para empunhar tais armas.
+Enormes rifles longos projetados para eliminar alvos pesadamente blindados, veículos e posições fortificadas. Com a poderosa armadura disponível para os exércitos da Grande Guerra, essas armas aterrorizantes são muito procuradas. Um ponto negativo é seu enorme peso e recuo aterrorizante, e portanto são mais frequentemente usados por Comunicantes ou Ungidos que possuem a força sobrenatural para empunhar tais armas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| 2 Mãos | 36" | +1 DADO DE FERIMENTO, CRÍTICO, PESADO, IGNORA ARMADURA |
+| 2 Mãos | 36" | +1 DADO DE FERIMENTO, CRÍTICO, PESADO, IGNORAR ARMADURA |
 
 ### Pistola Automática
 
@@ -1456,11 +1456,11 @@ Uma maravilha da engenharia moderna, apenas alguns protótipos existem. Possui a
 |------|---------|----------------|
 | 2 Mãos | 24" | ASSALTO, AUTOMÁTICO 2 |
 
-*Fogo Concentrado:* Quando esta Arma é usada para fazer 2 Ataques a Distância, o mesmo modelo inimigo deve ser o alvo de ambos os ataques.
+*Fogo Concentrado:* Quando esta Arma é usada para fazer 2 Ataques a Distância, o mesmo modelo inimigo devê ser o alvo de ambos os ataques.
 
 ### Espingarda Automática
 
-Esta espingarda é equipada com um carregador automático, uma invenção recente do corpo de engenharia prussiano de Konigsberg. E ideal para combate em espaços fechados graças a sua alta cadência de fogo e precisão. A tecnologia não foi aperfeiçoada, no entanto, e às vezes causa falhas de alimentação e travamentos.
+Esta espingarda é equipada com um carregador automático, uma invenção recente do corpo de engenharia prussiano de Königsberg. É ideal para combate em espaços fechados graças a sua alta cadência de fogo e precisão. A tecnologia não foi aperfeiçoada, no entanto, e às vezes causa falhas de alimentação e travamentos.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1484,11 +1484,11 @@ O cavalo de batalha da Grande Guerra. Robusto, altamente confiável e razoavelme
 
 ### Lança-Chamas
 
-Um lança-chamas é uma Arma aterrorizante capaz de projetar grandes jatos de fogo e líquidos inflamáveis a distância. E ideal para limpar bunkers, trincheiras e outras fortificações, matando da forma mais horrífica. Consequentemente, e muito favorecido pelas forças Heréticas.
+Um lança-chamas é uma Arma aterrorizante capaz de projetar grandes jatos de fogo e líquidos inflamáveis a distância. É ideal para limpar bunkers, trincheiras e outras fortificações, matando da forma mais horrífica. Consequentemente, e muito favorecido pelas forças Heréticas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| 2 Mãos | 8" | -1 DADO DE FERIMENTO, FOGO, LANÇA-CHAMAS, IGNORA ARMADURA |
+| 2 Mãos | 8" | -1 DADO DE FERIMENTO, FOGO, LANÇA-CHAMAS, IGNORAR ARMADURA |
 
 ### Lançador de Granadas
 
@@ -1504,7 +1504,7 @@ Esses lança-chamas massivos são normalmente montados em veículos blindados, m
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| 2 Mãos | 10" | -1 DADO DE FERIMENTO, AUTOMÁTICO 2, FOGO, LANÇA-CHAMAS, PESADO, IGNORA ARMADURA |
+| 2 Mãos | 10" | -1 DADO DE FERIMENTO, AUTOMÁTICO 2, FOGO, LANÇA-CHAMAS, PESADO, IGNORAR ARMADURA |
 
 ### Espingarda Pesada
 
@@ -1558,7 +1558,7 @@ Espingarda de ação por bomba de cano curto, carregada com seis cartuchos conte
 
 ### Pistola Silenciada
 
-Uma arma lateral sofisticada feita de orichalcum ou outros metais sagrados, ou de ferro Infernal retirado das próprias prisões do Inferno para abafar os lamentos dos condenados. É virtualmente silenciosa e e excelente para emboscadas ou para atirar por tras de cobertura.
+Uma arma lateral sofisticada feita de orichalcum ou outros metais sagrados, ou de ferro Infernal retirado das próprias prisões do Inferno para abafar os lamentos dos condenados. É virtualmente silenciosa e e excelente para emboscadas ou para atirar por trás de cobertura.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1574,7 +1574,7 @@ Um rifle de precisão é um rifle de alta precisão e longo alcance, amplamente 
 |------|---------|----------------|
 | 2 Mãos | 48" | +1 DADO, CRÍTICO, ARRISCADO |
 
-*Tiro Certeiro:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Rifle de Precisão for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORA ARMADURA.
+*Tiro Certeiro:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Rifle de Precisão for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Submetralhadora
 
@@ -1598,7 +1598,7 @@ Uma arma de haste com um explosivo direcional montado em sua cabeça. É excepci
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| 2 Mãos | Corpo a Corpo | +1 DADO DE FERIMENTO, CRÍTICO, IGNORA ARMADURA, ARRISCADO |
+| 2 Mãos | Corpo a Corpo | +1 DADO DE FERIMENTO, CRÍTICO, IGNORAR ARMADURA, ARRISCADO |
 
 *Perigoso:* Coloque 1 MARCADOR DE SANGUE ao lado do modelo usando esta Arma se ele fizer um Ataque Corpo a Corpo e a Rolagem de Sucesso for um Sucesso ou Sucesso Crítico.
 
@@ -1644,7 +1644,7 @@ A adaga misericórdia e projetada para tirar inimigos de seu sofrimento encontra
 |------|---------|----------------|
 | 1 Mão | Corpo a Corpo | - |
 
-*Execução:* Esta arma tem a Palavra-Chave IGNORA ARMADURA se o alvo estiver Abatido.
+*Execução:* Esta arma tem a Palavra-Chave IGNORAR ARMADURA se o alvo estiver Abatido.
 
 ### Arma de Haste
 
@@ -1698,7 +1698,7 @@ Granadas de gás são armas insidiosas, atacando os pulmões e outros órgãos i
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Granada | 8" | -1 DADO DE FERIMENTO, ASSALTO, EXPLOSÃO 3", GÁS, IGNORA ARMADURA, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
+| Granada | 8" | -1 DADO DE FERIMENTO, ASSALTO, EXPLOSÃO 3", GÁS, IGNORAR ARMADURA, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
 ### Granadas Incendiárias
 
@@ -1708,7 +1708,7 @@ Granadas incendiárias podem incendiar seu alvo com enxofre, fósforo ou gás in
 |------|---------|----------------|
 | Granada | 8" | ASSALTO, FOGO, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
-*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com uma Granada Incendiária for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORA ARMADURA.
+*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com uma Granada Incendiária for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Coquetel Molotov
 
@@ -1718,7 +1718,7 @@ Desenvolvido na desesperada fronteira de batalha finlandesa contra demônios de 
 |------|---------|----------------|
 | Granada | 6" | -1 DADO DE FERIMENTO, ASSALTO, FOGO, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
-*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORA ARMADURA.
+*Fogo Líquido:* Se a Rolagem de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Carga Explosiva
 
@@ -1726,7 +1726,7 @@ Explosivos de campo projetados para destruir fortificações inimigas e romper a
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
-| Granada | 6" | +1 DADO DE FERIMENTO, EXPLOSÃO 3", CONSUMIVEL, PESADO, IGNORA ARMADURA, IGNORAR COBERTURA, DISPERSÃO |
+| Granada | 6" | +1 DADO DE FERIMENTO, EXPLOSÃO 3", CONSUMIVEL, PESADO, IGNORAR ARMADURA, IGNORAR COBERTURA, DISPERSÃO |
 
 *Explosivo Pesado:* Uma vez durante uma partida, um modelo com uma Carga Explosiva pode usá-la para fazer um Ataque a Distância.
 
@@ -2028,7 +2028,7 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 - **Assassinato Abençoado:** Se um Ataque Corpo a Corpo feito por um modelo com esta Habilidade colocar um modelo inimigo Fora de Ação, coloque 1 MARCADOR DE BÊNÇÃO ao lado do modelo com esta Habilidade.
 - **Sacrifício de Sangue AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Sacrifício de Sangue. Se fizer isso, faça uma Rolagem de Sucesso para o modelo. Em um Sucesso ou Sucesso Crítico, você pode remover 1 MARCADOR DE SANGUE do modelo é colocá-lo ao lado de qualquer outro modelo que esteja dentro de 6" do modelo realizando a AÇÃO de Sacrifício de Sangue, em sua Linha de Visão, e que não tenha as Palavras-Chave ARTIFICIAL, GRAAL NEGRO ou DEMONÍACO.
 - **Fogo Infernal AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Fogo Infernal. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, escolha um modelo amigo que esteja dentro de 18" do modelo realizando a AÇÃO de Fogo Infernal e em sua Linha de Visão. Em seguida, trace uma linha reta de 1mm de largura entre os pontos mais próximos das bases dos dois modelos, e faça uma Rolagem de Ferimento com a Palavra-Chave FOGO para cada modelo (amigo ou inimigo) que seja cruzado ou alcançado pela linha, incluindo o modelo amigo que você escolheu, mas não incluindo o modelo realizando a AÇÃO de Fogo Infernal.
-- **Chicote do Aqueronte AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Chicote do Aqueronte. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, você pode fazer uma Rolagem de Ferimento com a Palavra-Chave IGNORA ARMADURA para 1 modelo inimigo que esteja dentro de 6" do modelo realizando a AÇÃO de Chicote do Aqueronte e em sua Linha de Visão.
+- **Chicote do Aqueronte AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Chicote do Aqueronte. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, você pode fazer uma Rolagem de Ferimento com a Palavra-Chave IGNORAR ARMADURA para 1 modelo inimigo que esteja dentro de 6" do modelo realizando a AÇÃO de Chicote do Aqueronte e em sua Linha de Visão.
 - **Sádico:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido.
 
 ---
@@ -2088,14 +2088,14 @@ Ter o Antipapa de Avignon como seu Patrono permite que você adquira as seguinte
 - **Olho de Belzebu AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Olho de Belzebu. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 24" do modelo, em Cobertura, e que não esteja dentro de 1" de quaisquer modelos de seu Bando. Seu oponente deve então mover aquele modelo 1", de forma que ainda esteja na Linha de Visão do modelo realizando a AÇÃO, mas não esteja mais em Cobertura, e que esteja a mais de 1" de quaisquer modelos de seu Bando. Se isso for impossível, o modelo inimigo não é movido.
 - **Banquetear na Doença:** Se o alvo de um Ataque Corpo a Corpo feito por um modelo com esta Habilidade tiver 1 ou mais MARCADORES DE INFECÇÃO, então custa 1 MARCADOR DE SANGUE ou MARCADOR DE INFECÇÃO a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
 - **Infectar a Mente:** No início de cada partida, após o posicionamento, para cada modelo com esta Habilidade que esteja no campo de batalha, você pode escolher um modelo inimigo e movê-lo 6" da mesma forma como se estivesse realizando uma AÇÃO de Mover (ele não pode Investir).
-- **Lingua de Prata AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Lingua de Prata. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 1" do modelo. O modelo escolhido deve fazer um Ataque Corpo a Corpo contra si mesmo. Se o modelo inimigo tiver mais de 1 Arma Corpo a Corpo, você pode escolher qual ele usa. O modelo inimigo só atacara a si mesmo uma vez, mesmo que seja capaz de atacar váriàs vezes.
+- **Lingua de Prata AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Lingua de Prata. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 1" do modelo. O modelo escolhido deve fazer um Ataque Corpo a Corpo contra si mesmo. Se o modelo inimigo tiver mais de 1 Arma Corpo a Corpo, você pode escolher qual ele usa. O modelo inimigo só atacará a si mesmo uma vez, mesmo que seja capaz de atacar váriàs vezes.
 - **Híbrido Suíno:** Adicione 2" a Característica de Movimento de um modelo com esta Habilidade.
 
 ---
 
 ## Partidas de Campanha
 
-Uma vez que você tenha escolhido o Patrono de seu Bando, você está pronto para iniciar a campanha! Uma campanha é jogada vinculando as partidas individuais que você joga. Você pode jogar uma partida de campanha contra qualquer um dos outros jogadores que estejam participando; tudo o que você precisa fazer e combinar um horário e local para a partida, reunir-se e então selecionar o cenário que você vai jogar (ver Selecionando um Cenário de Campanha), e então jogar a partida usando as regras normais. Após a partida, você realiza uma Fase de Campanha onde descobre o destino dos modelos que foram colocados Fora de Ação, ve se algum modelo ganhou novas Habilidades, explora a região onde a campanha está acontecendo e usa qualquer saque que capturou para recrutar mais modelos para seu Bando.
+Uma vez que você tenha escolhido o Patrono de seu Bando, você está pronto para iniciar a campanha! Uma campanha é jogada vinculando as partidas individuais que você joga. Você pode jogar uma partida de campanha contra qualquer um dos outros jogadores que estejam participando; tudo o que você precisa fazer é combinar um horário e local para a partida, reunir-se e então selecionar o cenário que você vai jogar (ver Selecionando um Cenário de Campanha), e então jogar a partida usando as regras normais. Após a partida, você realiza uma Fase de Campanha onde descobre o destino dos modelos que foram colocados Fora de Ação, vê se algum modelo ganhou novas Habilidades, explora a região onde a campanha está acontecendo e usa qualquer saque que capturou para recrutar mais modelos para seu Bando.
 
 Uma vez que você tenha jogado 11 partidas de campanha no total, não pode jogar mais até que todos os outros jogadores tenham jogado 11 partidas também. Uma vez que todos os jogadores tenham jogado 11 partidas, cada um deve jogar uma 12a partida final contra um dos outros jogadores, usando o cenário A Grande Guerra. Após todos os jogadores terem jogado 12 partidas no total, o vencedor da campanha pode ser determinado conforme descrito abaixo.
 
@@ -2128,7 +2128,7 @@ Role um D6 para determinar qual cenário jogar:
 3. Terreno Elevado
 4. Caça a Relíquia
 5. Saque de Suprimentos
-6. O jogador que jogou menos partidas escolhe um dos cenários listados acima. Se empatados, desempate e o vencedor escolhe.
+6. O jogador que jogou menos partidas escolhe um dos cenários listados acima. Se empatados, desempate é o vencedor escolhe.
 
 **Meio de Campanha (Partidas 4-8)**
 
@@ -2166,9 +2166,9 @@ Os modelos que você usa em uma partida de campanha são chamados de Força.
 
 Conforme você joga a campanha, a notícia dos feitos de seu Bando no campo de batalha se espalha e atrai a atenção de seus superiores que alocam mais tropas e recursos a sua disposição.
 
-**Valores de Limiar:** O Valor de Limiar de seu Bando e mostrado na Tabela de Limiar de Bando abaixo, e aumenta após cada partida que você joga. O Custo total de todos os modelos que você usa para uma Força deve ser menor ou igual ao Valor de Limiar de seu Bando.
+**Valores de Limiar:** O Valor de Limiar de seu Bando é mostrado na Tabela de Limiar de Bando abaixo, e aumenta após cada partida que você joga. O Custo total de todos os modelos que você usa para uma Força devê ser menor ou igual ao Valor de Limiar de seu Bando.
 
-**Força de Campo:** A Força de Campo de seu Bando e mostrada na Tabela de Limiar de Bando abaixo. Quando você joga uma partida de campanha, o número de modelos que você inclui em sua Força não pode ser maior que sua Força de Campo.
+**Força de Campo:** A Força de Campo de seu Bando é mostrada na Tabela de Limiar de Bando abaixo. Quando você joga uma partida de campanha, o número de modelos que você inclui em sua Força não pode ser maior que sua Força de Campo.
 
 **Tabela de Limiar de Bando**
 
@@ -2249,7 +2249,7 @@ A menos que declarado de outra forma, cada vez que um modelo ELITE for colocado 
 | 14 | **Ferimento na Mão.** Determine aleatoriamente qual mão foi ferida. Adicione -1 DADO a rolagens para ataques feitos por este modelo com uma Arma Corpo a Corpo segurada (ou parcialmente segurada) pela mão ferida. |
 | 15 | **Perdeu um Olho.** Adicione -1 DADO a rolagens para Ataques a Distância feitos por este modelo. Se este modelo receber este ferimento uma segunda vez, ele fica cego e você deve removê-lo de sua Ficha de Bando. |
 | 16 | **Ferimento no Peito.** Adicione +1 DADO DE FERIMENTO a Rolagens de Ferimento para ataques que tenham como alvo este modelo. |
-| 21 | **Insône.** Este modelo deve sempre ser o primeiro modelo que você posiciona em qualquer partida em que participe, e perde a Palavra-Chave INFILTRADOR se a tiver. |
+| 21 | **Insône.** Este modelo devê sempre ser o primeiro modelo que você posiciona em qualquer partida em que participe, e perde a Palavra-Chave INFILTRADOR se a tiver. |
 | 22 | **Ferimento na Cabeça.** Este modelo não pode mais ganhar Pontos de Experiência. Você pode atribuir Dados de Promoção a este modelo como se fosse uma Tropa. Se um de seus Dados de Promoção atribuídos rolar "6", ele recupera a capacidade de ganhar Pontos de Experiência, embora a Cicatriz de Batalha permaneça. |
 | 23 | **Choque de Combate.** Role um D6 na primeira vez que este modelo for posicionado durante uma partida. Em 1-2, adicione -1 DADO a rolagens para este modelo pelo resto da partida. |
 | 24 | **Memória Sombria.** Anote o nome do Bando da partida onde este ferimento foi recebido. Adicione -1 DADO a rolagens para Ataques Corpo a Corpo feitos por este modelo se o alvo for um modelo do Bando que você anotou. |
@@ -2329,7 +2329,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 7 | **Proficiência Corpo a Corpo:** Adicione +1 DADO a Característica de Corpo a Corpo de um modelo com esta Habilidade. |
 | 8 | **Força de Sansão:** Adicione +1 DADO DE FERIMENTO a rolagens para Ataques Corpo a Corpo usando uma Arma Corpo a Corpo feitos por um modelo com esta Habilidade. Além disso, um modelo com esta Habilidade tem a Palavra-Chave FORTE. |
 | 9 | **Duro de Matar:** A primeira vez que um modelo com esta Habilidade sofrer um resultado Abatido na Tabela de Ferimento, ele é tratado como um resultado Sem Efeito em vez disso. |
-| 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORA ARMADURA. |
+| 10 | **Golpe Cirúrgico:** Uma vez por Ativação, antes de fazer uma Rolagem de Ferimento para um Ataque Corpo a Corpo feito por um modelo com esta Habilidade, você pode dizer que a rolagem tem a Palavra-Chave IGNORAR ARMADURA. |
 | 11 | **Campeão:** Armas Corpo a Corpo que não possuam a Palavra-Chave GOLPE VARRENTE usadas por um modelo com esta Habilidade ganham a Palavra-Chave GOLPE VARRENTE 2. Além disso, adicione -1 DADO a Rolagem de Sucesso para o segundo Ataque Corpo a Corpo feito com cada Arma Corpo a Corpo que ganhe a Palavra-Chave GOLPE VARRENTE. |
 | 12 | **Habilidade de Patrono:** Escolha uma das Habilidades oferecidas por seu Patrono. |
 
@@ -2346,7 +2346,7 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 8 | **Ninho de Franco-Atirador:** Adicione +2 DADOS em vez de +1 DADO a rolagens para Ataques a Distância feitos com o modificador de Posição Elevada por um modelo com esta Habilidade. |
 | 9 | **Queima-Roupa:** Quando um modelo com esta Habilidade fizer um Ataque Corpo a Corpo, pode usar uma Arma a Distância é sua Característica de Ataque a Distância em vez de uma Arma Corpo a Corpo. Deve ainda estar dentro de 1" do alvo. |
 | 10 | **Tiro do Quadril:** Armas a Distância usadas por um modelo com esta Habilidade contam como tendo a Palavra-Chave ASSALTO. |
-| 11 | **Tiro na Cabeça:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORA ARMADURA se o ataque for um Sucesso Crítico. |
+| 11 | **Tiro na Cabeça:** Ataques a Distância feitos por um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMADURA se o ataque for um Sucesso Crítico. |
 | 12 | **Habilidade de Patrono.** |
 
 ### TABELA DE HABILIDADES DE FURTIVIDADE E VELOCIDADE
@@ -2600,7 +2600,7 @@ Itens de Glória são peças de Equipamento de Batalha que só podem ser comprad
 
 ## Cartulário de Itens de Glória
 
-Os itens de Glória mais notaveis estão descritos abaixo com suas regras completas. Consulte o livro de regras original para descrições detalhadas de cada item individual, incluindo perfis de combate é regras especiais.
+Os itens de Glória mais notáveis estão descritos abaixo com suas regras completas. Consulte o livro de regras original para descrições detalhadas de cada item individual, incluindo perfis de combate é regras especiais.
 
 
 # Cenários
@@ -2611,7 +2611,7 @@ Esta seção do livro de regras inclui uma seleção de cenários que você pode
 
 ## Preparando-se Para Jogar
 
-Para jogar uma partida de Trench Crusade, você precisará recrutar um Bando (ver Criando um Bando em Warbands of Trench Crusade), encontrar um oponente e então decidir qual cenário você e seu oponente querem jogar. Se estiver jogando uma partida de campanha, o cenário será determinado usando as regras (ver Selecionando um Cenário de Campanha). Se estiver jogando uma partida avulsa, você pode escolher qual cenário quer jogar; se não conseguirem concordar, façam um desempate e o vencedor pode escolher o cenário a ser usado.
+Para jogar uma partida de Trench Crusade, você precisará recrutar um Bando (ver Criando um Bando em Warbands of Trench Crusade), encontrar um oponente e então decidir qual cenário você e seu oponente querem jogar. Se estiver jogando uma partida de campanha, o cenário será determinado usando as regras (ver Selecionando um Cenário de Campanha). Se estiver jogando uma partida avulsa, você pode escolher qual cenário quer jogar; se não conseguirem concordar, façam um desempate é o vencedor pode escolher o cenário a ser usado.
 
 ### Lista de Cenários
 
@@ -2654,9 +2654,9 @@ A próxima coisa que você precisa fazer e montar o campo de batalha. A maioria 
 
 **Arquétipos de Campo de Batalha:** As instruções explicarão qual arquetipo de campo de batalha é usado para o cenário (ver Arquétipos de Campo de Batalha).
 
-**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador é montado em um local específico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador é montado no "Ponto Médio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
+**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador é montado em um local específico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador é montado no "Ponto Médio", ele devê ser montado com o centro do Marcador no centro do campo de batalha.
 
-**Terreno Bloqueador:** Você não tem permissão para montar terreno de forma que tornaria impossível para qualquer modelo usado na partida sair de sua Zona de Posicionamento ou alcançar um local onde um Marcador deve ser colocado.
+**Terreno Bloqueador:** Você não tem permissão para montar terreno de forma que tornaria impossível para qualquer modelo usado na partida sair de sua Zona de Posicionamento ou alcançar um local onde um Marcador devê ser colocado.
 
 ### POSICIONAMENTO
 
@@ -2698,7 +2698,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Forças:** Nenhuma restrição especial se aplica.
 
-**Campo de Batalha:** Os jogadores fazem um desempate e o vencedor monta o terreno. Este cenário usa o arquetipo Terra de Ninguém. Campo de 24" entre as Zonas de Posicionamento de 6" cada.
+**Campo de Batalha:** Os jogadores fazem um desempate é o vencedor monta o terreno. Este cenário usa o arquetipo Terra de Ninguém. Campo de 24" entre as Zonas de Posicionamento de 6" cada.
 
 **Marcadores de Objetivo:** Os Marcadores no mapa representam objetivos importantes. Coloque as primeiras cinco peças de terreno nós locais dos Marcadores de Objetivo. Use peças de Edifícios em Ruínas, se disponíveis. Um jogador controla um Objetivo se tiver mais modelos amigos sobre, dentro ou a 1" da peça de terreno do que modelos inimigos.
 
@@ -2856,11 +2856,11 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Forças:** Os jogadores precisarão de 1 modelo de Dragão e 6 modelos de Camponeses.
 
-**Campo de Batalha:** Arquetipo Terra de Ninguém ou Linhas de Trincheira. O Dragão e montado no ponto médio; os 6 Camponeses são posicionados a mais de 8" do Dragão e 6" um do outro.
+**Campo de Batalha:** Arquetipo Terra de Ninguém ou Linhas de Trincheira. O Dragão é montado no ponto médio; os 6 Camponeses são posicionados a mais de 8" do Dragão e 6" um do outro.
 
 **Modelos Neutros:** O Dragão e os Camponeses são modelos neutros (tratados como inimigos por ambos os lados). Após cada Ativação de um modelo do jogador, role D6: em 1-4 Ative um Campones; em 5-6 Ative o Dragão ou um Campones.
 
-**O Dragão:** Movimento 10", +3 DADO em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORA ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORA ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Abatido), e Desafiador.
+**O Dragão:** Movimento 10", +3 DADOS em Distância e Corpo a Corpo, -3 Armadura, base 120-300mm. Palavra-Chave MEDO. Habilidades: Sopro de Fogo (Alcance 10", EXPLOSÃO 3", FOGO, IGNORAR ARMADURA, DISPERSÃO), Dentes e Garras Mortais (+1 DADO, +1 DADO DE FERIMENTO, IGNORAR ARMADURA), Chicotada de Cauda (+1 MODIFICADOR DE FERIMENTO), Campo de Batalha Vivo (modelos podem subir nele), Arma de Cerco (move sobre terreno), Esmagar (move sobre modelos), Resistente, Imorredouro (3 primeiros resultados Fora de Ação tratados como Abatido), e Desafiador.
 
 **Os Camponeses:** Movimento 5", só podem Mover ou Recuar em direção a borda mais próxima. Habilidade Debil: +2 DADOS e +2 DADOS DE FERIMENTO contra eles.
 
@@ -2989,7 +2989,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 
 **Posicionamento:** Defensor posiciona máximo 6, atacante posiciona 6+D3. Reforços cada Turno (D3).
 
-**Destruindo Bunkers:** Modelos ELITE atacantes tem Cargas de Demolição. AÇÕES: Colocar Carga (em contato com Bunker) e Detonar Carga (Rolagem de Ferimento IGNORA ARMADURA para modelos dentro de 3").
+**Destruindo Bunkers:** Modelos ELITE atacantes tem Cargas de Demolição. AÇÕES: Colocar Carga (em contato com Bunker) e Detonar Carga (Rolagem de Ferimento IGNORAR ARMADURA para modelos dentro de 3").
 
 **Duração:** Ao final do 5o Turno, role D6: em 1-2 termina; em 3+, termina no 6o Turno.
 
@@ -3013,7 +3013,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 
 **Forças:** Nenhuma restrição especial.
 
-**Campo de Batalha:** Arquetipo Terra de Ninguém ou Ruínas Decimadas, campo de pelo menos 36" x 36". 5 Marcadores de Objetivo em peças de terreno com pelo menos 6" de altura. A peça central deve ser a mais alta disponível.
+**Campo de Batalha:** Arquetipo Terra de Ninguém ou Ruínas Decimadas, campo de pelo menos 36" x 36". 5 Marcadores de Objetivo em peças de terreno com pelo menos 6" de altura. A peça central devê ser a mais alta disponível.
 
 **Posicionamento:** Alternam posicionando. Infiltradores podem usar regras especiais mas não dentro de 3" de um Objetivo.
 

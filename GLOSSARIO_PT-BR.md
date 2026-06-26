@@ -52,7 +52,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | FLAMETHROWER | LANÇA-CHAMAS | Área em linha. Ignora Cobertura. Aplica FOGO mesmo em "Sem Efeito". |
 | FIRE | FOGO | Alvo fica Em Chamas: Rolagem de Ferimento automática no início de cada ativação. |
 | GÁS | GÁS | Aplica Gaseado: Penalidade em todos os testes; Marcador de Sangue extra por turno. |
-| IGNORE ARMOUR | IGNORA ARMADURA | A Armadura do alvo não é aplicada à Rolagem de Ferimento. |
+| IGNORE ARMOUR | IGNORAR ARMADURA | A Armadura do alvo não é aplicada à Rolagem de Ferimento. |
 | CRITICAL | CRÍTICO | Em Sucesso Crítico, role +2 dados na Rolagem de Ferimento em vez de +1. |
 | RISKY | ARRISCADO | Em falha, o atirador também sofre uma Rolagem de Ferimento. |
 | DESPATCH | EXECUÇÃO | Se o alvo estiver Abatido, ignora a Armadura automaticamente. |

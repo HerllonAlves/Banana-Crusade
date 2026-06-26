@@ -124,7 +124,7 @@ Uma peça de Equipamento de Batalha com esta Palavra-Chave requer uma mão para 
 ### HERÉTICO (Etiqueta)
 O modelo e membro da Facção das Legiões Heréticas.
 
-### IGNORA ARMADURA (Efeito)
+### IGNORAR ARMADURA (Efeito)
 Ignore -DADOS DE FERIMENTO e -MODIFICADORES DE FERIMENTO da Característica de Armadura do alvo, e de quaisquer peças de Equipamento de Batalha de Armadura ou Escudo que ele possua, para ataques que possuam esta Palavra-Chave.
 
 ### IGNORAR [MODIFICADOR] (Efeito)
@@ -134,7 +134,7 @@ Ignore o modificador de Rolagem de Sucesso ou Rolagem de Ferimento que é especi
 Modelos não podem ser movidos para cima de ou através de terreno com esta Palavra-Chave.
 
 ### IMPERVIO (Efeito)
-Os Efeitos de PERFURA ARMADURA e IGNORA ARMADURA não afetam quaisquer -DADOS DE FERIMENTO e -MODIFICADORES DE FERIMENTO que se apliquem a Equipamento de Batalha que possua esta Palavra-Chave. Qualquer outro Equipamento de Batalha que o modelo alvo tenha e afetado normalmente.
+Os Efeitos de PERFURA ARMADURA e IGNORAR ARMADURA não afetam quaisquer -DADOS DE FERIMENTO e -MODIFICADORES DE FERIMENTO que se apliquem a Equipamento de Batalha que possua esta Palavra-Chave. Qualquer outro Equipamento de Batalha que o modelo alvo tenha e afetado normalmente.
 
 ### MARCADORES DE INFECÇÃO (Etiqueta)
 O modelo está sob a influência de uma enfermidade sobrenatural ou química que fornece efeitos temporários (ver Marcadores de Infecção em Warbands of Trench Crusade).
