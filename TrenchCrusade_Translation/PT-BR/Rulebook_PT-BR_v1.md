@@ -4,7 +4,7 @@ pdf_options:
   margin: 30mm 25mm 30mm 25mm
   printBackground: true
   displayHeaderFooter: true
-  headerTemplate: '<div style="width:100%;text-align:center;font-size:8px;color:#888;font-family:serif;">TRENCH CRUSADE - Livro de Regras PT-BR</div>'
+  headerTemplate: '<div style="width:100%;text-align:center;font-size:8px;color:#888;font-family:serif;">TRENCH CRUSADE - Livro de Regras Digital 1.0.2 - PT-BR</div>'
   footerTemplate: '<div style="width:100%;text-align:center;font-size:9px;color:#888;font-family:serif;"><span class="pageNumber"></span></div>'
 body_class: rulebook
 stylesheet: style.css
@@ -14,11 +14,13 @@ stylesheet: style.css
 
 # TRENCH CRUSADE
 
-## Livro de Regras Digital
+## Livro de Regras Digital 1.0.2
 
 ### Tradução PT-BR
 
-*Factory Fortress Inc. (2026)*
+*Baseado no Trench Crusade Digital Rulebook 1.0.2*
+
+*Factory Fortress Inc.*
 
 *Tradução não-oficial para fins de comunidade*
 

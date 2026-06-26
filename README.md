@@ -8,9 +8,9 @@
 ![](https://img.shields.io/badge/PT--BR-green)
 ![](https://img.shields.io/badge/n%C3%A3o--oficial-red)
 
-## 📖 Livro de Regras Traduzido
+## 📖 Livro de Regras Digital 1.0.2 - Traduzido
 
-Acesse o Rulebook completo traduzido para jogar ou ajudar na revisão:
+Baseado no *Trench Crusade Digital Rulebook 1.0.2* oficial:
 
 | Formato | Link |
 |---------|------|
