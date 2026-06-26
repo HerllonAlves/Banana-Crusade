@@ -199,7 +199,7 @@ Quando for sua vez de Ativar um modelo, você deve escolher um modelo em seu Ban
 
 O modelo Ativado pode realizar as seguintes AÇÕES uma vez cada, em qualquer ordem que você desejar:
 
-**Mover ou Investir ou Recuar:** Você pode usar uma AÇÃO para Mover, Investir ou Recuar com seu modelo, mas não mais de uma dessas opções.
+**Mover ou Investir ou Recuar:** Mover, Investir e Recuar são tipos diferentes de AÇÃO. Você pode realizar apenas uma delas por Ativação. Se quiser mover um modelo mais de uma vez, use uma AÇÃO de Correr.
 
 - **Mover:** Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção (nenhuma rolagem é necessária). Obstáculos de até 1" de altura podem ser cruzados sem penalidade, e seu modelo pode escalar superfícies abruptas se primeiro passar em uma Rolagem de Sucesso Arriscada. Terreno Difícil é cruzado na metade da velocidade. Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Investir em vez disso).
 
@@ -255,7 +255,7 @@ O combate é dividido em Ataques a Distância e Ataques Corpo a Corpo. Ataques a
 
 **Atirando em Alvos em Combate Corpo a Corpo**
 
-Se um alvo estiver a 1" de qualquer modelo amigo, role um dado para determinar quem é atacado: em 1 a 3 você deve atacar um modelo amigo; em 4 a 6 você pode atacar um modelo inimigo. Faça uma Rolagem de Sucesso normalmente uma vez que o alvo seja determinado.
+Se um alvo estiver a 1" de qualquer modelo amigo, role um dado para determinar quem é atacado: em 1 a 3 você deve atacar um modelo amigo; em 4 a 6 você pode atacar um modelo inimigo. O modelo escolhido como alvo deve ser visível ao modelo atacante e estar dentro do alcance da arma sendo usada. Se não houver nenhum modelo válido, o ataque é desperdiçado. Faça uma Rolagem de Sucesso normalmente uma vez que o alvo seja determinado.
 
 **Modificadores de Ataque a Distância**
 
@@ -309,7 +309,7 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
 - **Derrubado:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
-- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento.
+- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento. Quando uma habilidade diz que um modificador se aplica "para um modelo", ele se aplica a Rolagens de Ferimento feitas **para** aquele modelo, não a Rolagens feitas **por** ele.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento do modelo (ex: Armadura, Escudo, etc.).
 
@@ -334,17 +334,19 @@ Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode g
 
 MARCADORES DE BÊNÇÃO são semelhantes aos MARCADORES DE SANGUE, mas especificamente auxiliam as Rolagens de Sucesso do modelo. Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE BÊNÇÃO ao lado dele. Quando você fizer uma Rolagem de Sucesso para o modelo, você pode escolher gastar um ou mais MARCADORES DE BÊNÇÃO para adicionar +1 DADO, e cada vez que uma Rolagem de Ferimento for feita para o modelo, você pode gastar um ou mais MARCADORES DE BÊNÇÃO para adicionar -1 DADO DE FERIMENTO.
 
+> **Quem rola e quem gasta?** Você sempre faz Rolagens de Ferimento para modelos inimigos e gasta os MARCADORES DE SANGUE/INFECÇÃO que eles possuem. Da mesma forma, seu oponente sempre faz as Rolagens de Ferimento para seus modelos e gasta os MARCADORES DE SANGUE/INFECÇÃO deles. Cada jogador gasta os MARCADORES DE BÊNÇÃO de seus próprios modelos.
+
 ---
 
 ## Resultados Derrubado
 
-Você pode indicar que um modelo está Derrubado colocando o modelo de lado. As seguintes regras se aplicam a um modelo que está Derrubado:
+Você pode indicar que um modelo está Derrubado colocando o modelo de lado. "Ser Derrubado" é sinônimo de "sofrer o resultado Derrubado na Tabela de Ferimento"; qualquer efeito que Derrube um modelo coloca um MARCADOR DE SANGUE ao lado dele. As seguintes regras se aplicam a um modelo que está Derrubado:
 
 - Se um modelo for colocado Derrubado durante sua Ativação, sua Ativação termina imediatamente.
 - Adicione -1 DADO a quaisquer rolagens feitas para um modelo que esteja Derrubado.
 - Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
 - Até que um modelo que esteja Derrubado se levante, ele não pode ser movido por nenhuma razão, a menos que caia (ver Queda).
-- Um modelo que esteja Derrubado se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento é reduzida a metade pelo resto da Ativação (incluindo o bônus de carga).
+- Um modelo que esteja Derrubado se levanta quando for Ativado novamente. No entanto, sua Característica de Movimento é reduzida a metade pelo resto da Ativação (incluindo o bônus de investida).
 
 ---
 
