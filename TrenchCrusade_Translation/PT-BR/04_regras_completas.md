@@ -1,6 +1,6 @@
 # Regras Completas
 
-A seção de Regras Completas do livro de regras de Trench Crusade expande as Regras Centrais. Ela explica as regras com maior profundidade, adiciona regras complementares e fornece exemplos de como as regras funcionam, mas não altera as Regras Centrais de forma alguma. As Regras Completas são seguidas por seções suplementares que explicam como criar uma Warband e cenários que permitirao jogar uma grande variedade de diferentes tipos de partidas de Trench Crusade.
+A seção de Regras Completas do livro de regras de Trench Crusade expande as Regras Centrais. Ela explica as regras com maior profundidade, adiciona regras complementares e fornece exemplos de como as regras funcionam, mas não altera as Regras Centrais de forma alguma. As Regras Completas são seguidas por seções suplementares que explicam como criar um Bando e cenários que permitirao jogar uma grande variedade de diferentes tipos de partidas de Trench Crusade.
 
 ---
 
@@ -12,17 +12,17 @@ Isso e você e seu oponente! As regras a seguir foram escritas assumindo que o j
 
 > Se você quiser jogar partidas com mais de dois jogadores, pode encontrar cenários no site de Trench Crusade em www.trenchcrusade.com
 
-### WARBANDS E MODELOS
+### BANDOS E MODELOS
 
-Cada jogador comanda uma Warband, que tipicamente consiste de 6 a 20 modelos (ver Criando uma Warband em Warbands of Trench Crusade). Embora não haja uma regra rigida sobre quais modelos você deve usar, recomendamos que utilize a linha Trench Crusade por razões óbvias. No entanto, se você preferir usar outros modelos, não se preocupe: Caça-Bruxas não serão despachados para purificá-lo por sua falta de pureza!
+Cada jogador comanda um Bando, que tipicamente consiste de 6 a 20 modelos (ver Criando um Bando em Warbands of Trench Crusade). Embora não haja uma regra rigida sobre quais modelos você deve usar, recomendamos que utilize a linha Trench Crusade por razões óbvias. No entanto, se você preferir usar outros modelos, não se preocupe: Caça-Bruxas não serão despachados para purificá-lo por sua falta de pureza!
 
 **Modelos Amigos e Inimigos**
 
-Os modelos em sua Warband são referidos como "modelos amigos" nas regras, enquanto os da Warband de seu oponente são referidos como "modelos inimigos". Se uma regra que se aplica a um modelo (ou a uma peça de Equipamento de Batalha carregada por um modelo) diz que "você" pode fazer algo com ele, isso se refere ao jogador que comanda a Warband da qual o modelo faz parte. Da mesma forma, você "faz uma rolagem" para seus próprios modelos, e "realiza uma rolagem" contra os modelos de seu oponente.
+Os modelos em seu Bando são referidos como "modelos amigos" nas regras, enquanto os do Bando de seu oponente são referidos como "modelos inimigos". Se uma regra que se aplica a um modelo (ou a uma peça de Equipamento de Batalha carregada por um modelo) diz que "você" pode fazer algo com ele, isso se refere ao jogador que comanda a Bando da qual o modelo faz parte. Da mesma forma, você "faz uma rolagem" para seus próprios modelos, e "realiza uma rolagem" contra os modelos de seu oponente.
 
 **Perfis**
 
-Cada modelo em sua Warband tem um Perfil que descreve sua eficacia em combate e as Armas com as quais está equipado (ver Perfis).
+Cada modelo em seu Bando tem um Perfil que descreve sua eficacia em combate e as Armas com as quais está equipado (ver Perfis).
 
 ### CAMPO DE BATALHA
 
@@ -46,7 +46,7 @@ Ocasionalmente, será solicitado que você role um "D3". Para fazer isso, role u
 
 ### CENÁRIO
 
-Por fim, você precisará escolher um cenário para a partida que está prestes a jogar. O cenário diz como montar o terreno para o jogo, onde posicionar suas Warbands, quantos Turnos a partida durara e como o vencedor da partida e determinado. Se está e sua primeira partida, recomendamos usar o Cenário 1: Reclamar a Terra de Ninguem (ver Reclamar a Terra de Ninguem).
+Por fim, você precisará escolher um cenário para a partida que está prestes a jogar. O cenário diz como montar o terreno para o jogo, onde posicionar suas Bandos, quantos Turnos a partida durara e como o vencedor da partida e determinado. Se está e sua primeira partida, recomendamos usar o Cenário 1: Reclamar a Terra de Ninguem (ver Reclamar a Terra de Ninguem).
 
 ---
 
@@ -130,7 +130,7 @@ Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANG
 
 Toda vez que você fizer uma Rolagem de Sucesso para um modelo amigo que tenha MARCADORES DE SANGUE, seu oponente pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione -1 DADO a Rolagem de Sucesso. Por exemplo, se você estivesse fazendo uma Rolagem de Sucesso para um modelo que tivesse 3 MARCADORES DE SANGUE, então o jogador adversário poderia escolher gastar 1, 2 ou todos os 3 MARCADORES DE SANGUE para adicionar -1, -2 ou -3 DADOS a Rolagem de Sucesso.
 
-Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da sua Warband que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
+Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
 
 ---
 
@@ -146,7 +146,7 @@ Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE B�
 
 Toda vez que você fizer uma Rolagem de Sucesso para um modelo amigo que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione +1 DADO a Rolagem de Sucesso.
 
-Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da sua Warband que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
+Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
 
 **Rastreando Marcadores de Sangue e Bênção**
 
@@ -156,7 +156,7 @@ Você pode rastrear o número de MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO
 
 ## Perfis
 
-Todo modelo tem um Perfil que define sua eficacia no jogo. Além disso, Perfis de Equipamento de Batalha cobrem as Armas, Armadura e Equipamentos que um modelo pode carregar. Abaixo, você encontrará exemplos de um Perfil de modelo e um Perfil de Equipamento de Batalha. Uma explicação detalhada do Perfil de modelo e fornecida em Criando uma Warband (ver Criando uma Warband em Warbands of Trench Crusade), e o Perfil de Equipamento de Batalha e explicado na seção de Equipamento de Batalha (ver Equipamento de Batalha).
+Todo modelo tem um Perfil que define sua eficacia no jogo. Além disso, Perfis de Equipamento de Batalha cobrem as Armas, Armadura e Equipamentos que um modelo pode carregar. Abaixo, você encontrará exemplos de um Perfil de modelo e um Perfil de Equipamento de Batalha. Uma explicação detalhada do Perfil de modelo e fornecida em Criando um Bando (ver Criando um Bando em Warbands of Trench Crusade), e o Perfil de Equipamento de Batalha e explicado na seção de Equipamento de Batalha (ver Equipamento de Batalha).
 
 **Exemplo de Perfil: Azebs, Custo: 25 👑**
 
@@ -210,7 +210,7 @@ Quando se trata de garantir que os modelos em seu jogo correspondam ao tamanho d
 
 ### POSICIONAMENTO DE MODELOS
 
-Quando você monta ou move um modelo, ele não pode ser colocado com sua base sobrepondo Terreno Intransponível ou a base de outro modelo. Você pode montar um modelo de forma que parte de sua base esteja no campo de batalha ou em terreno e o restante de sua base esteja "no ar", desde que mais da metade da base do modelo esteja no campo de batalha ou em terreno. Com a permissao de seu oponente, você pode coloca-lo em um local seguro próximo para que não haja risco de cair e ser danificado (ele ainda contara como estando naquele local para todos os outros propósitos).
+Quando você monta ou move um modelo, ele não pode ser colocado com sua base sobrepondo Terreno Intransponível ou a base de outro modelo. Você pode montar um modelo de forma que parte de sua base esteja no campo de batalha ou em terreno e o restante de sua base esteja "no ar", desde que mais da metade da base do modelo esteja no campo de batalha ou em terreno. Com a permissao de seu oponente, você pode colocá-lo em um local seguro próximo para que não haja risco de cair e ser danificado (ele ainda contara como estando naquele local para todos os outros propósitos).
 
 **Posicionamento e Reposicionamento**
 
@@ -239,7 +239,7 @@ Uma partida de Trench Crusade e dividida em Turnos. O cenário sendo usado para 
 Um Turno de Trench Crusade e dividido nas seguintes fases:
 
 1. **Fase de Iniciativa:** Determine qual jogador tem a Iniciativa e então realize quaisquer tarefas de "início de Turno".
-2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas as Warbands tenham sido Ativados uma vez cada.
+2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas as Bandos tenham sido Ativados uma vez cada.
 3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Abatidos ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
 
 ---
@@ -250,7 +250,7 @@ No início de cada Turno, você deve determinar qual jogador tem a Iniciativa pa
 
 **Determinando a Iniciativa**
 
-Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cada Warband que estão atualmente no campo de batalha. Não conte modelos que estão Abatidos ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate e o vencedor tem a Iniciativa pelo resto do Turno.
+Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Abatidos ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate e o vencedor tem a Iniciativa pelo resto do Turno.
 
 **Tarefas de Início de Turno**
 
@@ -268,7 +268,7 @@ Durante a Fase de Ativação, os jogadores alternam Ativando seus modelos um de 
 
 **Realizando Ativações**
 
-Quando for sua vez de Ativar um modelo, você pode escolher Ativar qualquer modelo em sua Warband que ainda não tenha sido Ativado. Você pode então realizar AÇÕES com o modelo Ativado conforme explicado abaixo. Quando a Ativação do seu modelo terminar, seu oponente pode Ativar um de seus modelos. Se um jogador ficar sem modelos para Ativar, seu oponente Ativa seus modelos restantes um após o outro até que todos os seus modelos tenham sido Ativados. O jogo então prossegue para a Fase de Moral.
+Quando for sua vez de Ativar um modelo, você pode escolher Ativar qualquer modelo em seu Bando que ainda não tenha sido Ativado. Você pode então realizar AÇÕES com o modelo Ativado conforme explicado abaixo. Quando a Ativação do seu modelo terminar, seu oponente pode Ativar um de seus modelos. Se um jogador ficar sem modelos para Ativar, seu oponente Ativa seus modelos restantes um após o outro até que todos os seus modelos tenham sido Ativados. O jogo então prossegue para a Fase de Moral.
 
 Você pode desejar indicar que um modelo foi Ativado colocando um pequeno marcador ao lado dele. No calor da batalha, e muito fácil esquecer se um modelo já teve uma Ativação ou não!
 
@@ -278,7 +278,7 @@ Quando você Ativa um modelo, pode realizar uma ou mais AÇÕES com o modelo. Vo
 
 **Ações Comuns**
 
-AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além destas, alguns modelos podem realizar AÇÕES que são descritas em sua Entrada de Warband ou nas regras especiais de uma peça de Equipamento de Batalha ou Habilidade de Campanha que o modelo possui. Essas AÇÕES podem ser realizadas quando o modelo e Ativado em adicao a qualquer uma das AÇÕES comuns listadas abaixo, mas cada uma ainda só pode ser realizada uma vez por Ativação.
+AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além destas, alguns modelos podem realizar AÇÕES que são descritas em sua Entrada de Bando ou nas regras especiais de uma peça de Equipamento de Batalha ou Habilidade de Campanha que o modelo possui. Essas AÇÕES podem ser realizadas quando o modelo e Ativado em adicao a qualquer uma das AÇÕES comuns listadas abaixo, mas cada uma ainda só pode ser realizada uma vez por Ativação.
 
 **Mover ou Carregar ou Recuar:** Você pode realizar uma das seguintes AÇÕES com um modelo:
 
@@ -429,7 +429,7 @@ Um Ataque a Distância e feito usando a seguinte sequencia:
 
 **Escolhendo a Arma**
 
-Quando você faz um Ataque a Distância com um modelo, deve primeiro escolher uma Arma a Distância com a qual o modelo está equipado para fazer o ataque. As Armas com as quais um modelo está equipado podem ser encontradas em seu Perfil (ver Criando uma Warband em Warbands of Trench Crusade).
+Quando você faz um Ataque a Distância com um modelo, deve primeiro escolher uma Arma a Distância com a qual o modelo está equipado para fazer o ataque. As Armas com as quais um modelo está equipado podem ser encontradas em seu Perfil (ver Criando um Bando em Warbands of Trench Crusade).
 
 **Escolhendo o Alvo**
 
@@ -437,7 +437,7 @@ Quando um modelo faz um Ataque a Distância, você deve escolher um modelo inimi
 
 **Atirando para Dentro do Corpo a Corpo**
 
-Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer um de seus modelos, deve rolar um D6 para determinar quem e o alvo: em 1-3 você deve atacar um de seus próprios modelos, em 4-6 você pode atacar um modelo inimigo. Note que, a menos que declarado de outra forma, a única vez que você decide aleatoriamente qual modelo e afetado por algo e quando você faz um Ataque a Distância com um modelo e o alvo está dentro de 1" de outro modelo de sua Warband. Por exemplo, se um modelo amigo fizesse um Ataque a Distância com uma Arma que tivesse a Palavra-Chave EXPLOSÃO, e o alvo estivesse dentro de 1" de um modelo de sua Warband, então você escolheria aleatoriamente o alvo antes de fazer a Rolagem de Sucesso para ver se o ataque acerta, mas você não aleatorizaria as Rolagens de Ferimento para quaisquer modelos que fossem pegos no raio de explosão da Arma após o acerto ter sido marcado. Da mesma forma, se uma regra permitisse que você colocasse um MARCADOR DE SANGUE ao lado de um modelo inimigo, você não escolheria aleatoriamente ao lado de qual modelo colocar o marcador se o modelo inimigo estivesse dentro de 1" de um modelo amigo, e assim por diante.
+Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer um de seus modelos, deve rolar um D6 para determinar quem e o alvo: em 1-3 você deve atacar um de seus próprios modelos, em 4-6 você pode atacar um modelo inimigo. Note que, a menos que declarado de outra forma, a única vez que você decide aleatoriamente qual modelo e afetado por algo e quando você faz um Ataque a Distância com um modelo e o alvo está dentro de 1" de outro modelo de seu Bando. Por exemplo, se um modelo amigo fizesse um Ataque a Distância com uma Arma que tivesse a Palavra-Chave EXPLOSÃO, e o alvo estivesse dentro de 1" de um modelo de seu Bando, então você escolheria aleatoriamente o alvo antes de fazer a Rolagem de Sucesso para ver se o ataque acerta, mas você não aleatorizaria as Rolagens de Ferimento para quaisquer modelos que fossem pegos no raio de explosão da Arma após o acerto ter sido marcado. Da mesma forma, se uma regra permitisse que você colocasse um MARCADOR DE SANGUE ao lado de um modelo inimigo, você não escolheria aleatoriamente ao lado de qual modelo colocar o marcador se o modelo inimigo estivesse dentro de 1" de um modelo amigo, e assim por diante.
 
 **Medindo o Alcance**
 
@@ -561,7 +561,7 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento de Batalha:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento de Batalha do modelo (ex: Armadura, Escudo, etc.).
 
-*Exemplo de jogo: Um Soldado Herético faz um Ataque a Distância que acerta um Castigador Peregrino das Trincheiras que tem 2 MARCADORES DE SANGUE e Armadura Padrão. O jogador Herético decide usar ambos os MARCADORES DE SANGUE para tornar o tiro mais provável de ferir. O jogador Herético pega 4D6 (2D6 +2 DADOS DE FERIMENTO dos MARCADORES DE SANGUE) e rola 2, 5, 4 e 1. Como dois +DADOS DE FERIMENTO foram adicionados a rolagem, os dois números mais altos são usados para a Rolagem de Ferimento, dando um total de 9. A armadura do Castigador adiciona -1 MODIFICADOR DE FERIMENTO, então o total e reduzido em 1, para dar uma rolagem modificada de 8. O jogador Herético consulta a Tabela de Ferimento e descobre que o Peregrino está Abatido!*
+*Exemplo de jogo: Um Soldado Herético faz um Ataque a Distância que acerta um Castigador Peregrino das Trincheiras que tem 2 MARCADORES DE SANGUE e Armadura Padrão. O jogador Herético decide usar ambos os MARCADORES DE SANGUE para tornar o tiro mais provável de ferir. O jogador Herético pega 4D6 (2D6 +2 DADOS DE FERIMENTO dos MARCADORES DE SANGUE) e rola 2, 5, 4 e 1. Como dois +DADOS DE FERIMENTO foram adicionados a rolagem, os dois números mais altos são usados para a Rolagem de Ferimento, dando um total de 9. A armadura do Castigador adiciona -1 MODIFICADOR DE FERIMENTO, então o total é reduzido em 1, para dar uma rolagem modificada de 8. O jogador Herético consulta a Tabela de Ferimento e descobre que o Peregrino está Abatido!*
 
 ---
 
@@ -584,17 +584,17 @@ Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois
 
 ## 3. Fase de Moral
 
-Sua Warband pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em sua Warband estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral e feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, sua Warband continua normalmente. Se o Teste de Moral for uma Falha, sua Warband fica Abalada.
+Sua Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral e feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalada.
 
-Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, uma Warband que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Abatidos ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
+Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Abatidos ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
 
-### Warbands Abaladas
+### Bandos Abalados
 
-Todas as Rolagens de Sucesso feitas para modelos de uma Warband Abalada são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para sua Warband, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se o Teste de Moral for um Sucesso, sua Warband não está mais Abalada (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, sua Warband foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para modelos de um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para seu Bando, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se o Teste de Moral for um Sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, seu Bando foge e você imediatamente perde o jogo!
 
 ### Encerrando o Turno
 
-Desde que nenhuma das Warbands dos jogadores fuja, eles podem realizar quaisquer tarefas de fim de Turno. Um novo Turno pode então começar.
+Desde que nenhuma das Bandos dos jogadores fuja, eles podem realizar quaisquer tarefas de fim de Turno. Um novo Turno pode então começar.
 
 **Tarefas de Fim de Turno**
 
@@ -602,10 +602,10 @@ Algumas regras exigem que os jogadores façam coisas no "fim do Turno". Estas s�
 
 **Soando a Retirada**
 
-Se um Teste de Moral para sua Warband for uma Falha, você pode escolher fugir imediatamente e perder o jogo em vez de ficar Abalado. Às vezes e melhor recuar para conservar suas perdas, em vez de lutar até o ultimo homem!
+Se um Teste de Moral para seu Bando for uma Falha, você pode escolher fugir imediatamente e perder o jogo em vez de ficar Abalado. Às vezes e melhor recuar para conservar suas perdas, em vez de lutar até o ultimo homem!
 
 ---
 
 ## Vencendo o Jogo
 
-Você vence uma partida de Trench Crusade imediatamente se a Warband do jogador adversário fugir. Se isso não acontecer, o vencedor do jogo e determinado após o Turno final ter sido completado. O cenário escolhido para a partida dirá quantos Turnos a partida durara e como o vencedor e decidido.
+Você vence uma partida de Trench Crusade imediatamente se a Bando do jogador adversário fugir. Se isso não acontecer, o vencedor do jogo e determinado após o Turno final ter sido completado. O cenário escolhido para a partida dirá quantos Turnos a partida durara e como o vencedor e decidido.

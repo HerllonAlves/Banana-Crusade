@@ -23,10 +23,10 @@ Dados que são adicionados a Rolagens de Sucesso (ver Rolagens de Sucesso). Se a
 Dados que são adicionados a Rolagens de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, os dados são adicionados apenas a Rolagens de Ferimento para Ataques feitos com ela.
 
 ### +/-MODIFICADOR DE FERIMENTO (Efeito)
-Modificadores que são aplicados ao resultado de uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, o modificador e adicionado apenas a Rolagens de Ferimento para Ataques feitos com ela.
+Modificadores que são aplicados ao resultado de uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, o modificador é adicionado apenas a Rolagens de Ferimento para Ataques feitos com ela.
 
 ### AÇÃO (Etiqueta)
-Uma atividade que um modelo pode realizar quando e Ativado. AÇÕES comuns incluem Mover, Correr, Atirar e Lutar.
+Uma atividade que um modelo pode realizar quando é Ativado. AÇÕES comuns incluem Mover, Correr, Atirar e Lutar.
 
 ### MUNIÇÃO (PALAVRA-CHAVE) (Efeito)
 Se um modelo tiver uma peça de Equipamento de Batalha com esta Palavra-Chave, ele a usará na próxima partida em que participar. Quando o modelo for posicionado, diga qual Arma a Distância o Equipamento de Batalha será usado. Ela ganha a (PALAVRA-CHAVE) até o final da partida. A Arma a Distância escolhida não pode já ter as Palavras-Chave EXPLOSÃO, FOGO, GÁS ou ESTILHAÇO, e não pode ter mais de um tipo de MUNIÇÃO.
@@ -35,7 +35,7 @@ Se um modelo tiver uma peça de Equipamento de Batalha com esta Palavra-Chave, e
 Uma Arma com esta Palavra-Chave reduz o total de -MODIFICADOR DE FERIMENTO da Característica de Armadura do alvo, e/ou de quaisquer Armaduras ou Escudos que ele possua, em 1, até um mínimo de 0. Por exemplo, se um alvo tivesse Armadura Padrão e um Escudo de Trincheira, o -MODIFICADOR DE FERIMENTO seria reduzido de -2 para -1.
 
 ### ARTIFICIAL (Etiqueta)
-Este modelo não é de origem biológica natural, mas e construido a partir de elementos não-organicos.
+Este modelo não é de origem biológica natural, mas é construído a partir de elementos não-organicos.
 
 ### ASSALTO (Efeito)
 Ataques a Distância feitos com Armas que possuem esta Palavra-Chave não impedem um modelo de realizar uma AÇÃO de Carregar ou Lutar durante a mesma Ativação.
@@ -65,13 +65,13 @@ MARCADORES DE SANGUE são colocados em modelos que sofrem um ferimento (ver MARC
 Quando você realiza uma AÇÃO de Lutar e escolhe uma Arma com esta Palavra-Chave para fazer um Ataque Corpo a Corpo, você pode fazer um número de Ataques Corpo a Corpo com esta Arma igual a X, um após o outro. Os ataques podem ter como alvo modelos inimigos diferentes, se desejado. Resolva cada ataque um de cada vez usando os passos 2 a 4 da Sequência de Ataque Corpo a Corpo. Quaisquer MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO gastos modificam apenas a Rolagem de Ferimento para o Ataque Corpo a Corpo em que foram gastos.
 
 ### CONSUMIVEL (Efeito)
-Em uma campanha (ver Regras de Campanha), Equipamento de Batalha com esta Palavra-Chave e perdido ao final de uma partida em que for usado.
+Em uma campanha (ver Regras de Campanha), Equipamento de Batalha com esta Palavra-Chave é perdido ao final de uma partida em que for usado.
 
 ### COBERTURA (Efeito)
 Um modelo com esta Palavra-Chave tem os modificadores de ataque de Cobertura ou Obstáculo Defendido (ver Cobertura).
 
 ### CRÍTICO (Efeito)
-Adicione +2 DADOS DE FERIMENTO em vez de +1 DADO DE FERIMENTO quando um Sucesso Crítico e rolado para um ataque feito por uma Arma com esta Palavra-Chave.
+Adicione +2 DADOS DE FERIMENTO em vez de +1 DADO DE FERIMENTO quando um Sucesso Crítico é rolado para um ataque feito por uma Arma com esta Palavra-Chave.
 
 ### VOLUMOSO (Efeito)
 Armas com esta Palavra-Chave requerem duas mãos para usar, mesmo se o modelo tiver a Palavra-Chave FORTE. No entanto, elas ainda podem ser usadas junto com um Escudo com a estipulação de Combo de Escudo.
@@ -92,7 +92,7 @@ Equipamento de Batalha que é representado por um modelo ou peça de terreno que
 Cada 1" que um modelo se move através de terreno com esta Palavra-Chave conta como 2".
 
 ### ELITE (Etiqueta)
-Os modelos mais graduados e heroicos em uma Warband.
+Os modelos mais graduados e heroicos em um Bando.
 
 ### MEDO (Efeito)
 Adicione -1 DADO a um Ataque Corpo a Corpo que tenha como alvo um modelo com esta Palavra-Chave. Modelos que causam MEDO são imunes a MEDO.
@@ -101,7 +101,7 @@ Adicione -1 DADO a um Ataque Corpo a Corpo que tenha como alvo um modelo com est
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### DUPLA DE FOGO (Efeito)
-Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os quais devem ter a Palavra-Chave DUPLA DE FOGO. Você pode criar Duplas de Fogo ao recrutar uma Warband e na Etapa do Intendente. Registre quais modelos estão em Duplas de Fogo em sua Warband na sua Ficha de Warband. Você pode Ativar modelos amigos que fazem parte da mesma Dupla de Fogo simultaneamente. Se fizer isso, você pode realizar suas AÇÕES em qualquer ordem que desejar, e pode alternar entre os dois modelos livremente. No entanto, se a Ativação de qualquer membro da Dupla de Fogo terminar durante uma Ativação simultânea, ela termina imediatamente para o outro modelo também. Um modelo não pode estar em mais de 1 Dupla de Fogo.
+Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os quais devem ter a Palavra-Chave DUPLA DE FOGO. Você pode criar Duplas de Fogo ao recrutar um Bando e na Etapa do Intendente. Registre quais modelos estão em Duplas de Fogo em seu Bando na sua Ficha de Bando. Você pode Ativar modelos amigos que fazem parte da mesma Dupla de Fogo simultaneamente. Se fizer isso, você pode realizar suas AÇÕES em qualquer ordem que desejar, e pode alternar entre os dois modelos livremente. No entanto, se a Ativação de qualquer membro da Dupla de Fogo terminar durante uma Ativação simultânea, ela termina imediatamente para o outro modelo também. Um modelo não pode estar em mais de 1 Dupla de Fogo.
 
 ### LANÇA-CHAMAS (Efeito)
 Quando uma Arma com esta Palavra-Chave e usada para fazer um Ataque a Distância, ele e automaticamente um Sucesso. Não faça uma Rolagem de Sucesso para o ataque. Note que isso significa que o ataque não pode alcançar um Sucesso Crítico.
@@ -146,7 +146,7 @@ Quando um modelo com esta Palavra-Chave e posicionado pela primeira vez em uma p
 Quando um modelo se move para contato com um Marcador ou peça de terreno com a Palavra-Chave MINADO, a mina detonará a menos que o modelo tenha a Palavra-Chave NEGAR MINADO. Faça uma Rolagem de Ferimento com a Palavra-Chave ESTILHAÇO para o modelo que detonou a mina, e então o Marcador ou peça de terreno perde a Palavra-Chave MINADO. Se o modelo que detonou a mina não foi colocado Abatido ou Fora de Ação, ele pode então continuar seu movimento. Modelos com a Palavra-Chave VOADOR só detonam uma mina se terminarem um movimento em contato com um Marcador ou peça de terreno MINADO (eles podem sobrevoar sem ativa-la).
 
 ### LÍDER (Efeito)
-Adicione +1 DADO a Testes de Moral se sua Warband tiver pelo menos 1 modelo com esta Palavra-Chave no campo de batalha que não esteja Abatido ou Fora de Ação.
+Adicione +1 DADO a Testes de Moral se seu Bando tiver pelo menos 1 modelo com esta Palavra-Chave no campo de batalha que não esteja Abatido ou Fora de Ação.
 
 ### NOVA ANTIOQUIA (Etiqueta)
 Este modelo faz parte da Facção do Principado de Nova Antioquia.
@@ -191,4 +191,4 @@ Este modelo faz parte da Facção do Sultanato de Ferro.
 Este modelo faz parte da Facção da Corte da Serpente de Sete Cabeças.
 
 ### RESISTENTE (Efeito)
-A primeira vez que um modelo com esta Palavra-Chave sofre um resultado Fora de Ação na Tabela de Ferimento, ele e tratado como um resultado Abatido em vez disso.
+A primeira vez que um modelo com esta Palavra-Chave sofre um resultado Fora de Ação na Tabela de Ferimento, ele é tratado como um resultado Abatido em vez disso.

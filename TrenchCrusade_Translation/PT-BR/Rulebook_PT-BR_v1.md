@@ -29,9 +29,9 @@ stylesheet: style.css
 
 ## O Mundo Está Ardendo
 
-Trench Crusade é um jogo de miniaturas em escala de escaramuça que mergulha os jogadores em uma terrível linha do tempo alternativa. Durante as Cruzadas, uma ordem herética de Templários ousou desafiar o Todopoderoso, quebrando seus juramentos sagrados e desencadeando as forças do Inferno sobre a Terra. Agora, mais de oitocentos anos depois, no Ano do Senhor de 1914, essa guerra brutal e implacável entre as forças do Céu e do Inferno contínua. Não se trata apenas de uma luta pela sobrevivência. Este e um conflito cataclísmico que decidirá o destino da própria alma da humanidade.
+Trench Crusade é um jogo de miniaturas em escala de escaramuça que mergulha os jogadores em uma terrível linha do tempo alternativa. Durante as Cruzadas, uma ordem herética de Templários ousou desafiar o Todopoderoso, quebrando seus juramentos sagrados e desencadeando as forças do Inferno sobre a Terra. Agora, mais de oitocentos anos depois, no Ano do Senhor de 1914, essa guerra brutal e implacável entre as forças do Céu e do Inferno continua. Não se trata apenas de uma luta pela sobrevivência. Este é um conflito cataclísmico que decidirá o destino da própria alma da humanidade.
 
-Enquanto ambos os lados da Grande Guerra se preparam para grandes ofensivas, uma batalha diferente se desenrola nas terras arrasadas da Terra de Ninguém. Aqui, pequenas warbands de combatentes percorrem um campo marcado por crateras, cicatrizado pela artilharia e devastado por séculos de guerra. Essas warbands coletam informações e artefatos antigos, buscam batedores inimigos e alvos de alto valor. Alguns são sabotadores e assassinos, atuando nas profundezas das linhas inimigas. Muitos estão em missões sagradas (ou profanas!) para obter relíquias ou realizar rituais ensanguentados em templos, igrejas e basílicas há muito perdidos. Outros vasculham a frente em busca de vassalos dignos de possessão ou sacrifício.
+Enquanto ambos os lados da Grande Guerra se preparam para grandes ofensivas, uma batalha diferente se desenrola nas terras arrasadas da Terra de Ninguém. Aqui, pequenas bandos de combatentes percorrem um campo marcado por crateras, cicatrizado pela artilharia e devastado por séculos de guerra. Essas bandos coletam informações e artefatos antigos, buscam batedores inimigos e alvos de alto valor. Alguns são sabotadores e assassinos, atuando nas profundezas das linhas inimigas. Muitos estão em missões sagradas (ou profanas!) para obter relíquias ou realizar rituais ensanguentados em templos, igrejas e basílicas há muito perdidos. Outros vasculham a frente em busca de vassalos dignos de possessão ou sacrifício.
 
 As regras que você está lendo são uma porta de entrada para jogos ambientados no mundo de Trench Crusade. Você encontrará tudo o que precisa para avançar para a batalha e se juntar às incontáveis almas presas neste conflito sem fim.
 
@@ -39,7 +39,7 @@ Na primeira seção, você encontrará uma linha do tempo de eventos significati
 
 Em seguida, você encontrará as regras. Elas estão divididas em duas seções: as **Regras Centrais**, que ensinarão os fundamentos, e as **Regras Completas**, que fornecem diretrizes mais detalhadas. Você descobrirá que as regras são fáceis de aprender e memorizar, mas exigirão habilidade e tempo para serem dominadas.
 
-Após as Regras Centrais, você encontrará a seção sobre como encadear batalhas individuais em uma **Campanha**. As **Regras de Campanha** são o coração pulsante do jogo Trench Crusade. Elas permitem que você crie suas próprias histórias, liderando sua warband de origens humildes até o status lendário na Grande Guerra, onde seus feitos são sussurrados nós bunkers e casamatas da Terra de Ninguém. Você perderá guerreiros e ganhará novos recrutas ao longo do caminho. Outros sofrerão ferimentos graves, mas alguns sobreviverão para aprender habilidades letais ou adquirir equipamentos poderosos.
+Após as Regras Centrais, você encontrará a seção sobre como encadear batalhas individuais em uma **Campanha**. As **Regras de Campanha** são o coração pulsante do jogo Trench Crusade. Elas permitem que você crie suas próprias histórias, liderando seu bando de origens humildes até o status lendário na Grande Guerra, onde seus feitos são sussurrados nos bunkers e casamatas da Terra de Ninguém. Você perderá guerreiros e ganhará novos recrutas ao longo do caminho. Outros sofrerão ferimentos graves, mas alguns sobreviverão para aprender habilidades letais ou adquirir equipamentos poderosos.
 
 As regras são seguidas por uma série de emocionantes **Cenários** para você jogar, de ousadas incursões nas trincheiras a batalhas em trens blindados.
 
@@ -49,12 +49,12 @@ As regras são seguidas por uma série de emocionantes **Cenários** para você 
 
 ### Início Rápido
 
-- Uma warband de 6 a 10 miniaturas para liderar na batalha.
+- Umo bando de 6 a 10 miniaturas para liderar na batalha.
 - Um campo de batalha de aproximadamente 90x90cm ou 120x120cm, ou qualquer superfície com 60cm entre as forças.
 - Terreno (e muito dele).
 - Três conjuntos de dados de seis lados em cores diferentes.
 - Uma fita métrica em polegadas imperiais.
-- As regras (você está lendo elas).
+- As regras (você já está lendo).
 - Amigos. Ninguém enfrenta a Grande Guerra sozinho.
 
 Neste documento, você às vezes encontrará uma seta vermelha **▶** ou uma seta preta **▶**. Essas setas indicam que há mais informações disponíveis. Uma seta vermelha é um hiperlink ativo: você pode clicar nela para ser levado ao texto correspondente. Uma seta preta indica que o texto correspondente está em outro documento; o nome do documento será mostrado ao lado da seta.
@@ -63,19 +63,19 @@ Neste documento, você às vezes encontrará uma seta vermelha **▶** ou uma se
 
 ### Em Detalhes
 
-Trench Crusade é um jogo de miniaturas, portanto você precisará de soldados em miniatura para representar a warband que você comanda. Uma warband típica no início da campanha consiste em 6 a 10 modelos. Você pode adquiri-los em lojas de hobby físicas ou online. Alternativamente, se você tiver uma impressora 3D, uma vasta seleção de arquivos digitais imprimíveis está disponível online.
+Trench Crusade é um jogo de miniaturas, então você vai precisar de soldados em miniatura para representar o bando sob seu comando. Umo bando típica no início da campanha consiste em 6 a 10 modelos. Você pode adquiri-los em lojas de hobby, físicas ou online. Se tiver uma impressora 3D, uma vasta seleção de arquivos digitais imprimíveis também está disponível.
 
-Fornecemos uma linha completa de modelos para Trench Crusade, mas também apoiamos entusiasticamente fabricantes independentes de miniaturas. Encorajamos os jogadores a usar as miniaturas que melhor traduzam sua visão; o campo de batalha é seu para moldar.
+Oferecemos uma linha completa de modelos para Trench Crusade, mas também apoiamos com entusiasmo fabricantes independentes de miniaturas. Use as miniaturas que melhor deem vida à sua visão; o campo de batalha é seu para moldar.
 
-Você precisará de uma mesa para jogar. Recomendamos uma superfície de jogo de aproximadamente 90x90cm ou 120x120cm. No entanto, desde que haja espaço suficiente para deixar 60cm entre as duas forças no início do jogo, o jogo ainda é perfeitamente possível. Em cada partida, suas forças precisam de cobertura para se proteger do fogo inimigo, torres em ruínas para servir de ninhos de franco-atirador e, e claro, as onipresentes trincheiras onde você pode engajar seus inimigos em combate feroz a curta distância. A regra geral de Trench Crusade é: quanto mais terreno houver, melhor será o jogo! Incluímos um guia completo de terreno para ajudá-lo a criar campos de batalha imersivos usando peças de terreno comerciais, modelos construídos do zero ou peças improvisadas.
+Você vai precisar de uma mesa para jogar. Recomendamos uma superfície de aproximadamente 90x90cm ou 120x120cm. No entanto, desde que haja espaço suficiente para deixar 60cm entre as duas forças no início do jogo, a partida funciona perfeitamente. Em cada jogo, suas forças precisam de cobertura para se proteger do fogo inimigo, torres em ruínas para servir de ninhos de franco-atirador e, claro, as onipresentes trincheiras onde você pode engajar seus inimigos em combate feroz a curta distância. A regra geral de Trench Crusade é: quanto mais terreno, melhor o jogo! Incluímos um guia completo de terreno para ajudá-lo a criar campos de batalha imersivos usando peças comerciais, modelos construídos do zero ou peças improvisadas.
 
 Você também precisará de uma fita métrica para determinar se seus fuzis de ferrolho estão dentro do alcance efetivo. Trench Crusade usa o arcaico sistema de medição imperial, portanto certifique-se de que sua fita métrica inclua essas unidades esotéricas.
 
-Em seguida, você precisa de algo para culpar por quaisquer perdas e derrotas durante seus jogos. Nós chamamos essas coisas de dados. Trench Crusade usa dados de seis lados, que a maioria dos wargamers já tem em abundância. Recomendamos usar pelo menos três conjuntos de seis dados em cores diferentes.
+Em seguida, você precisa de algo para culpar pelas suas perdas e derrotas. Nós chamamos essas coisas de dados. Trench Crusade usa dados de seis lados, que a maioria dos wargamers já tem de sobra. Recomendamos pelo menos três conjuntos de seis dados em cores diferentes.
 
-Mais importante, você precisa de amigos! Um grupo de hobbyistas com interesses similares para jogar é o ingrediente mais essencial para uma experiência agradável de wargame. Clubes de jogo locais e lojas de hobby e jogos são ótimos lugares para começar a procurar outros jogadores. Você encontrará uma comunidade vibrante de Trench Crusade online em vários fóruns, canais e redes sociais.
+E o mais importante: você precisa de amigos! Um grupo de hobbyistas com interesses parecidos é o ingrediente mais essencial para uma boa experiência de wargame. Clubes de jogo locais e lojas de hobby são ótimos lugares para encontrar outros jogadores. Você também vai encontrar uma comunidade vibrante de Trench Crusade online em fóruns, canais e redes sociais.
 
-Por fim, lembre-se da regra de ouro do wargame: não há maneira errada de praticar este hobby, desde que você seja respeitoso e honrado com seus adversários na mesa e dentro da comunidade mais ampla.
+Por fim, lembre-se da regra de ouro do wargame: não existe maneira errada de praticar este hobby, desde que você seja respeitoso e honrado com seus adversários na mesa e na comunidade.
 
 Boas partidas!
 
@@ -123,7 +123,7 @@ Boas partidas!
 
 **1666:** O Ano dos Seis Flagelos. Em uma incursão-surpresa, a recém-criada Frota Herética captura Gibraltar. A Rocha torna-se a Fortaleza Marinha, servindo como base de operações heréticas contra a Europa. As Forças do Inferno ganham acesso ao Atlântico.
 
-**1670:** Devido as constantes incursões costeiras da Frota Herética, a Coroa da Inglaterra inicia a construção da Fortaleza dos Penhascos Brancos de Dover.
+**1670:** Devido às constantes incursões costeiras da Frota Herética, a Coroa da Inglaterra inicia a construção da Fortaleza dos Penhascos Brancos de Dover.
 
 **1703:** Contra todas as probabilidades, um pequeno grupo de Cavaleiros Hebreus, partindo de sua fortaleza secreta, destrói o bastião Templário em Acre.
 
@@ -137,7 +137,7 @@ Boas partidas!
 
 **1866:** Em extremo segredo, cientistas Heréticos, auxiliados pelo demônio Marbas, constroem os primeiros submarinos modernos.
 
-**1870:** Lançada de Gibraltar, a frota de submarinos Herética inflige graves perdas as marinhas mercantes, causando fome generalizada.
+**1870:** Lançada de Gibraltar, a frota de submarinos Herética inflige graves perdas às marinhas mercantes, causando fome generalizada.
 
 **1872:** As forças Heréticas tomam e conquistam a cidade de Rijeka. Ela é fortificada e a conquista Herética é lançada contra o continente europeu.
 
@@ -185,13 +185,13 @@ Uma partida de Trench Crusade é dividida em Turnos, que são separados em uma F
 
 ## Fase de Iniciativa
 
-O jogador com o menor número de modelos em sua Warband tem a Iniciativa e pode escolher Ativar um modelo primeiro ou segundo. Se ambos os jogadores tiverem o mesmo número de modelos, cada jogador rola um dado e quem tirar o valor mais alto tem a Iniciativa.
+O jogador com o menor número de modelos em seu Bando tem a Iniciativa e pode escolher Ativar um modelo primeiro ou segundo. Se ambos os jogadores tiverem o mesmo número de modelos, cada jogador rola um dado e quem tirar o valor mais alto tem a Iniciativa.
 
 ---
 
 ## Fase de Ativação
 
-Quando for sua vez de Ativar um modelo, você deve escolher um modelo em sua Warband que ainda não foi Ativado e Ativa-lo. Seu oponente deve então Ativar um modelo, e assim por diante, alternando até que todos os modelos tenham sido Ativados. Um modelo não pode ser Ativado mais de uma vez por Turno.
+Quando for sua vez de Ativar um modelo, você deve escolher um modelo em seu Bando que ainda não foi Ativado e Ativá-lo. Seu oponente deve então Ativar um modelo, e assim por diante, alternando até que todos os modelos tenham sido Ativados. Um modelo não pode ser Ativado mais de uma vez por Turno.
 
 ### AÇÕES
 
@@ -199,9 +199,9 @@ O modelo Ativado pode realizar as seguintes AÇÕES uma vez cada, em qualquer or
 
 **Mover ou Carregar ou Recuar:** Você pode usar uma AÇÃO para Mover, Carregar ou Recuar com seu modelo, mas não mais de uma dessas opções.
 
-- **Mover:** Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção (nenhuma rolagem é necessária). Obstáculos de até 1" de altura podem ser cruzados sem penalidade, e seu modelo pode escalar superfícies abruptas se primeiro passar em uma Rolagem de Sucesso Arriscada. Terreno Difícil e cruzado na metade da velocidade. Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Carregar em vez disso).
+- **Mover:** Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção (nenhuma rolagem é necessária). Obstáculos de até 1" de altura podem ser cruzados sem penalidade, e seu modelo pode escalar superfícies abruptas se primeiro passar em uma Rolagem de Sucesso Arriscada. Terreno Difícil é cruzado na metade da velocidade. Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Carregar em vez disso).
 
-- **Carregar:** Escolha um modelo inimigo que seja visível ao seu modelo e esteja a 12" ou menos dele como alvo da carga. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova-o em direção ao alvo. Se seu modelo terminar seu movimento a 1" ou menos do alvo, ele pode Lutar (ver Lutar).
+- **Carregar:** Escolha um modelo inimigo que seja visível ao seu modelo e esteja a 12" ou menos dele como alvo da carga. Em seguida, role um dado, adicione o resultado à Característica de Movimento do seu modelo e mova-o em direção ao alvo. Se seu modelo terminar seu movimento a 1" ou menos do alvo, ele pode Lutar (ver Lutar).
 
 - **Recuar:** Você só pode mover um modelo que esteja a 1" de um inimigo realizando uma AÇÃO de Recuar. Um modelo que recua move um número de polegadas igual a sua Característica de Movimento em qualquer direção, mas deve terminar seu movimento a mais de 1" de todos os modelos inimigos. Seu oponente pode realizar uma AÇÃO de Lutar com 1 Arma Corpo a Corpo antes que o modelo que está recuando seja afastado. Se isso coloca seu modelo como Abatido ou Fora de Ação, ele não é movido.
 
@@ -211,13 +211,13 @@ O modelo Ativado pode realizar as seguintes AÇÕES uma vez cada, em qualquer or
 
 **Lutar:** Você pode fazer um Ataque Corpo a Corpo com seu modelo se ele estiver a 1" de um inimigo e tiver uma Arma Corpo a Corpo (ver Ataques Corpo a Corpo).
 
-**Outro:** Alguns modelos tem outras AÇÕES que podem realizar durante suas Ativações (ver Criando uma Warband em Warbands of Trench Crusade).
+**Outro:** Alguns modelos têm outras AÇÕES que podem realizar durante suas Ativações (ver Criando um Bando em Warbands of Trench Crusade).
 
 ---
 
 ### Rolagens de Sucesso
 
-Muitas das AÇÕES que você realiza com um modelo requerem uma Rolagem de Sucesso. Para fazer uma Rolagem de Sucesso, role dois dados, adicione quaisquer +DADOS ou -DADOS a rolagem conforme descrito abaixo, escolha os dois mais altos (ou mais baixos se algum -DADO foi usado), some-os e consulte a tabela abaixo para ver se você teve sucesso. As instruções para a tarefa que você está realizando irão dizer o que acontece se você tiver sucesso ou falhar.
+Muitas das AÇÕES que você realiza com um modelo requerem uma Rolagem de Sucesso. Para fazer uma Rolagem de Sucesso, role dois dados, adicione quaisquer +DADOS ou -DADOS à rolagem conforme descrito abaixo, escolha os dois mais altos (ou mais baixos se algum -DADO foi usado), some-os e consulte a tabela abaixo para ver se você teve sucesso. As instruções para a tarefa que você está realizando irão dizer o que acontece se você tiver sucesso ou falhar.
 
 Se você estiver fazendo uma Rolagem de Sucesso Arriscada e falhar, a Ativação do modelo termina e seu oponente pode agora Ativar um de seus modelos!
 
@@ -231,13 +231,13 @@ Se você estiver fazendo uma Rolagem de Sucesso Arriscada e falhar, a Ativação
 
 ### Regras de +DADO e -DADO
 
-Regras frequentemente tem modificadores em Rolagens de Sucesso marcados como +DADO e -DADO. Eles são mostrados no formato "+1 DADO" ou "-1 DADO".
+Regras frequentemente têm modificadores em Rolagens de Sucesso marcados como +DADO e -DADO. Eles são mostrados no formato "+1 DADO" ou "-1 DADO".
 
-Para cada +DADO, adicione 1 dado a Rolagem de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, role 4 dados e escolha os 2 mais altos, e assim por diante.
+Para cada +DADO, adicione 1 dado à Rolagem de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, role 4 dados e escolha os 2 mais altos, e assim por diante.
 
-O -DADO funciona de forma inversa. Para cada -DADO, adicione 1 dado a Rolagem de Sucesso e escolha os 2 números mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos.
+O -DADO funciona de forma inversa. Para cada -DADO, adicione 1 dado à Rolagem de Sucesso e escolha os 2 números mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos.
 
-Se tanto +DADO quanto -DADO forem adicionados a mesma Rolagem de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo restante. Por exemplo, se uma rolagem tiver +2 DADOS e -1 DADO, um dos +1 DADO e o -1 DADO seriam removidos, deixando +1 DADO para ser adicionado a rolagem.
+Se tanto +DADO quanto -DADO forem adicionados à mesma Rolagem de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo restante. Por exemplo, se uma rolagem tiver +2 DADOS e -1 DADO, um dos +1 DADO e o -1 DADO seriam removidos, deixando +1 DADO para ser adicionado à rolagem.
 
 ---
 
@@ -307,7 +307,7 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
 - **Abatido:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
-- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento.
+- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem à Rolagem de Ferimento.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento do modelo (ex: Armadura, Escudo, etc.).
 
@@ -354,11 +354,11 @@ Uma vez que você tenha realizado todas as AÇÕES que deseja, ou tenha falhado 
 
 ## Fase de Moral
 
-Na Fase de Moral, se metade dos modelos em sua Warband estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer uma Rolagem de Sucesso. Se a rolagem for um Sucesso, sua Warband continua normalmente. Se a rolagem for uma Falha, sua Warband fica Abalada.
+Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer uma Rolagem de Sucesso. Se a rolagem for um Sucesso, seu Bando continua normalmente. Se a rolagem for uma Falha, seu Bando fica Abalada.
 
-### Warbands Abaladas
+### Bandos Abalados
 
-Todas as Rolagens de Sucesso feitas para uma Warband Abalada são tratadas como Rolagens de Sucesso Arriscadas. Na Fase de Moral ao final do próximo Turno, você deve fazer outra Rolagem de Sucesso para sua Warband, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se você tiver sucesso, sua Warband não está mais Abalada (embora possa ficar novamente se você falhar em uma Teste de Moral em um turno futuro). No entanto, se você falhar, sua Warband foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas. Na Fase de Moral ao final do próximo Turno, você deve fazer outra Rolagem de Sucesso para seu Bando, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se você tiver sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um turno futuro). No entanto, se você falhar, seu Bando foge e você imediatamente perde o jogo!
 
 ---
 
@@ -370,7 +370,7 @@ Após a Fase de Moral, o Turno termina e um novo começa.
 
 # Regras Completas
 
-A seção de Regras Completas do livro de regras de Trench Crusade expande as Regras Centrais. Ela explica as regras com maior profundidade, adiciona regras complementares e fornece exemplos de como as regras funcionam, mas não altera as Regras Centrais de forma alguma. As Regras Completas são seguidas por seções suplementares que explicam como criar uma Warband e cenários que permitirão jogar uma grande variedade de diferentes tipos de partidas de Trench Crusade.
+A seção de Regras Completas do livro de regras de Trench Crusade expande as Regras Centrais. Ela explica as regras com maior profundidade, adiciona regras complementares e fornece exemplos de como as regras funcionam, mas não altera as Regras Centrais de forma alguma. As Regras Completas são seguidas por seções suplementares que explicam como criar um Bando e cenários que permitirão jogar uma grande variedade de diferentes tipos de partidas de Trench Crusade.
 
 ---
 
@@ -382,17 +382,17 @@ Isso é você e seu oponente! As regras a seguir foram escritas assumindo que o 
 
 > Se você quiser jogar partidas com mais de dois jogadores, pode encontrar cenários no site de Trench Crusade em www.trenchcrusade.com
 
-### WARBANDS E MODELOS
+### BANDOS E MODELOS
 
-Cada jogador comanda uma Warband, que tipicamente consiste de 6 a 20 modelos (ver Criando uma Warband em Warbands of Trench Crusade). Embora não haja uma regra rígida sobre quais modelos você deve usar, recomendamos que utilize a linha Trench Crusade por razões óbvias. No entanto, se você preferir usar outros modelos, não se preocupe: Caça-Bruxas não serão despachados para purificá-lo por sua falta de pureza!
+Cada jogador comanda um Bando, que tipicamente consiste de 6 a 20 modelos (ver Criando um Bando em Warbands of Trench Crusade). Embora não haja uma regra rígida sobre quais modelos você deve usar, recomendamos que utilize a linha Trench Crusade por razões óbvias. No entanto, se você preferir usar outros modelos, não se preocupe: Caça-Bruxas não serão despachados para purificá-lo por sua falta de pureza!
 
 **Modelos Amigos e Inimigos**
 
-Os modelos em sua Warband são referidos como "modelos amigos" nas regras, enquanto os da Warband de seu oponente são referidos como "modelos inimigos". Se uma regra que se aplica a um modelo (ou a uma peça de Equipamento de Batalha carregada por um modelo) diz que "você" pode fazer algo com ele, isso se refere ao jogador que comanda a Warband da qual o modelo faz parte. Da mesma forma, você "faz uma rolagem" para seus próprios modelos, e "realiza uma rolagem" contra os modelos de seu oponente.
+Os modelos em seu Bando são referidos como "modelos amigos" nas regras, enquanto os do Bando de seu oponente são referidos como "modelos inimigos". Se uma regra que se aplica a um modelo (ou a uma peça de Equipamento de Batalha carregada por um modelo) diz que "você" pode fazer algo com ele, isso se refere ao jogador que comanda o Bando da qual o modelo faz parte. Da mesma forma, você "faz uma rolagem" para seus próprios modelos, e "realiza uma rolagem" contra os modelos de seu oponente.
 
 **Perfis**
 
-Cada modelo em sua Warband tem um Perfil que descreve sua eficácia em combate e as Armas com as quais está equipado (ver Perfis).
+Cada modelo em seu Bando tem um Perfil que descreve sua eficácia em combate e as Armas com as quais está equipado (ver Perfis).
 
 ### CAMPO DE BATALHA
 
@@ -416,7 +416,7 @@ Ocasionalmente, será solicitado que você role um "D3". Para fazer isso, role u
 
 ### CENÁRIO
 
-Por fim, você precisará escolher um cenário para a partida que está prestes a jogar. O cenário diz como montar o terreno para o jogo, onde posicionar suas Warbands, quantos Turnos a partida durará e como o vencedor da partida é determinado. Se está é sua primeira partida, recomendamos usar o Cenário 1: Reclamar a Terra de Ninguém (ver Reclamar a Terra de Ninguém).
+Por fim, você precisará escolher um cenário para a partida que está prestes a jogar. O cenário diz como montar o terreno para o jogo, onde posicionar suas Bandos, quantos Turnos a partida durará e como o vencedor da partida é determinado. Se está é sua primeira partida, recomendamos usar o Cenário 1: Reclamar a Terra de Ninguém (ver Reclamar a Terra de Ninguém).
 
 ---
 
@@ -439,7 +439,7 @@ Para fazer uma Rolagem de Sucesso para um modelo, siga os seguintes passos:
 1. Pegue 2 D6.
 2. Adicione quaisquer +DADOS ou -DADOS (ver "Combinando +DADOS e -DADOS").
 3. Role todos os dados.
-4. Escolha os 2 dados mais altos se algum +DADO foi adicionado a rolagem, ou os 2 mais baixos se algum -DADO foi adicionado a rolagem.
+4. Escolha os 2 dados mais altos se algum +DADO foi adicionado à rolagem, ou os 2 mais baixos se algum -DADO foi adicionado à rolagem.
 5. Some os 2 dados e consulte o resultado na Tabela de Rolagem de Sucesso.
 
 **Tabela de Rolagem de Sucesso**
@@ -460,13 +460,13 @@ Para fazer uma Rolagem de Sucesso para um modelo, siga os seguintes passos:
 
 As regras frequentemente exigem que você adicione dados extras a uma rolagem. Estes são mostrados no formato "+1 DADO" ou "-1 DADO" (por exemplo, atirar de posições elevadas adiciona +1 DADO a Ataques a Distância contra inimigos).
 
-**+DADO:** Para cada +DADO, adicione 1 dado a Rolagem de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais altos, e assim por diante.
+**+DADO:** Para cada +DADO, adicione 1 dado à Rolagem de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais altos, e assim por diante.
 
-**-DADO:** O -DADO funciona de forma inversa, então para cada -1 DADO, adicione 1 dado a Rolagem de Sucesso e escolha os 2 resultados mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos. Se -2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais baixos, e assim por diante.
+**-DADO:** O -DADO funciona de forma inversa, então para cada -1 DADO, adicione 1 dado à Rolagem de Sucesso e escolha os 2 resultados mais baixos. Por exemplo, -1 DADO significa que você rola 3 dados e escolhe os 2 mais baixos. Se -2 DADOS forem adicionados, você rolaria 4 dados e escolheria os 2 mais baixos, e assim por diante.
 
 **Combinando +DADO e -DADO**
 
-Se tanto +DADO quanto -DADO forem adicionados a mesma Rolagem de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo reste. Por exemplo, se dois +DADOS e um -DADO forem adicionados a mesma Rolagem de Sucesso, um +DADO cancelaria o -DADO, deixando um único +DADO para modificar a rolagem.
+Se tanto +DADO quanto -DADO forem adicionados à mesma Rolagem de Sucesso, remova pares de +DADO e -DADO até que apenas um tipo reste. Por exemplo, se dois +DADOS e um -DADO forem adicionados à mesma Rolagem de Sucesso, um +DADO cancelaria o -DADO, deixando um único +DADO para modificar a rolagem.
 
 **Dados de Ferimento**
 
@@ -500,7 +500,7 @@ Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANG
 
 Toda vez que você fizer uma Rolagem de Sucesso para um modelo amigo que tenha MARCADORES DE SANGUE, seu oponente pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione -1 DADO a Rolagem de Sucesso. Por exemplo, se você estivesse fazendo uma Rolagem de Sucesso para um modelo que tivesse 3 MARCADORES DE SANGUE, então o jogador adversário poderia escolher gastar 1, 2 ou todos os 3 MARCADORES DE SANGUE para adicionar -1, -2 ou -3 DADOS a Rolagem de Sucesso.
 
-Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da sua Warband que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
+Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
 
 ---
 
@@ -516,7 +516,7 @@ Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE B�
 
 Toda vez que você fizer uma Rolagem de Sucesso para um modelo amigo que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione +1 DADO a Rolagem de Sucesso.
 
-Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da sua Warband que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
+Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
 
 **Rastreando Marcadores de Sangue e Bênção**
 
@@ -526,7 +526,7 @@ Você pode rastrear o número de MARCADORES DE SANGUE ou MARCADORES DE BÊNÇÃO
 
 ## Perfis
 
-Todo modelo tem um Perfil que define sua eficácia no jogo. Além disso, Perfis de Equipamento de Batalha cobrem as Armas, Armadura e Equipamentos que um modelo pode carregar. Abaixo, você encontrará exemplos de um Perfil de modelo e um Perfil de Equipamento de Batalha. Uma explicação detalhada do Perfil de modelo é fornecida em Criando uma Warband (ver Criando uma Warband em Warbands of Trench Crusade), e o Perfil de Equipamento de Batalha e explicado na seção de Equipamento de Batalha (ver Equipamento de Batalha).
+Todo modelo tem um Perfil que define sua eficácia no jogo. Além disso, Perfis de Equipamento de Batalha cobrem as Armas, Armadura e Equipamentos que um modelo pode carregar. Abaixo, você encontrará exemplos de um Perfil de modelo e um Perfil de Equipamento de Batalha. Uma explicação detalhada do Perfil de modelo é fornecida em Criando um Bando (ver Criando um Bando em Warbands of Trench Crusade), e o Perfil de Equipamento de Batalha e explicado na seção de Equipamento de Batalha (ver Equipamento de Batalha).
 
 **Exemplo de Perfil: Azebs, Custo: 25 👑**
 
@@ -609,7 +609,7 @@ Uma partida de Trench Crusade é dividida em Turnos. O cenário sendo usado para
 Um Turno de Trench Crusade é dividido nas seguintes fases:
 
 1. **Fase de Iniciativa:** Determine qual jogador tem a Iniciativa e então realize quaisquer tarefas de "início de Turno".
-2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas as Warbands tenham sido Ativados uma vez cada.
+2. **Fase de Ativação:** Os jogadores alternam Ativando seus modelos, um de cada vez, até que todos os modelos em ambas as Bandos tenham sido Ativados uma vez cada.
 3. **Fase de Moral:** Um jogador deve fazer um Teste de Moral se pelo menos metade de seus modelos estiverem Abatidos ou Fora de Ação. Um jogador perde o jogo se falhar em um Teste de Moral dois Turnos seguidos. Em seguida, os jogadores realizam tarefas de fim de Turno e um novo Turno começa.
 
 ---
@@ -620,7 +620,7 @@ No início de cada Turno, você deve determinar qual jogador tem a Iniciativa pa
 
 **Determinando a Iniciativa**
 
-Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cada Warband que estão atualmente no campo de batalha. Não conte modelos que estão Abatidos ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate e o vencedor tem a Iniciativa pelo resto do Turno.
+Para determinar qual jogador tem a Iniciativa, conte o número de modelos em cado Bando que estão atualmente no campo de batalha. Não conte modelos que estão Abatidos ou Fora de Ação ao determinar qual jogador tem menos modelos. O jogador com o menor número de modelos tem a Iniciativa pelo resto do Turno. Se ambos os jogadores tiverem o mesmo número de modelos, eles fazem um desempate e o vencedor tem a Iniciativa pelo resto do Turno.
 
 **Tarefas de Início de Turno**
 
@@ -638,7 +638,7 @@ Durante a Fase de Ativação, os jogadores alternam Ativando seus modelos um de 
 
 **Realizando Ativações**
 
-Quando for sua vez de Ativar um modelo, você pode escolher Ativar qualquer modelo em sua Warband que ainda não tenha sido Ativado. Você pode então realizar AÇÕES com o modelo Ativado conforme explicado abaixo. Quando a Ativação do seu modelo terminar, seu oponente pode Ativar um de seus modelos. Se um jogador ficar sem modelos para Ativar, seu oponente Ativa seus modelos restantes um após o outro até que todos os seus modelos tenham sido Ativados. O jogo então prossegue para a Fase de Moral.
+Quando for sua vez de Ativar um modelo, você pode escolher Ativar qualquer modelo em seu Bando que ainda não tenha sido Ativado. Você pode então realizar AÇÕES com o modelo Ativado conforme explicado abaixo. Quando a Ativação do seu modelo terminar, seu oponente pode Ativar um de seus modelos. Se um jogador ficar sem modelos para Ativar, seu oponente Ativa seus modelos restantes um após o outro até que todos os seus modelos tenham sido Ativados. O jogo então prossegue para a Fase de Moral.
 
 Você pode desejar indicar que um modelo foi Ativado colocando um pequeno marcador ao lado dele. No calor da batalha, e muito fácil esquecer se um modelo já teve uma Ativação ou não!
 
@@ -648,13 +648,13 @@ Quando você Ativa um modelo, pode realizar uma ou mais AÇÕES com o modelo. Vo
 
 **Ações Comuns**
 
-AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além destas, alguns modelos podem realizar AÇÕES que são descritas em sua Entrada de Warband ou nas regras especiais de uma peça de Equipamento de Batalha ou Habilidade de Campanha que o modelo possui. Essas AÇÕES podem ser realizadas quando o modelo é Ativado em adição a qualquer uma das AÇÕES comuns listadas abaixo, mas cada uma ainda só pode ser realizada uma vez por Ativação.
+AÇÕES comuns que todos os modelos podem realizar estão listadas abaixo. Além destas, alguns modelos podem realizar AÇÕES que são descritas em sua Entrada de Bando ou nas regras especiais de uma peça de Equipamento de Batalha ou Habilidade de Campanha que o modelo possui. Essas AÇÕES podem ser realizadas quando o modelo é Ativado em adição a qualquer uma das AÇÕES comuns listadas abaixo, mas cada uma ainda só pode ser realizada uma vez por Ativação.
 
 **Mover ou Carregar ou Recuar:** Você pode realizar uma das seguintes AÇÕES com um modelo:
 
 - **Mover:** Você pode mover seu modelo um número de polegadas até sua Característica de Movimento em qualquer direção (ver Movimentos). Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Carregar em vez disso).
 
-- **Carregar:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo é dentro de 12" dele como alvo da carga. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Carga). Você não pode realizar uma AÇÃO de Carregar com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Carregar ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
+- **Carregar:** Escolha um modelo inimigo que esteja na Linha de Visão do seu modelo é dentro de 12" dele como alvo da carga. Em seguida, role um dado, adicione o resultado à Característica de Movimento do seu modelo e mova seu modelo em direção ao alvo (ver Carga). Você não pode realizar uma AÇÃO de Carregar com um modelo que já esteja dentro de 1" de um modelo inimigo. Um modelo não pode realizar uma AÇÃO de Atirar e uma AÇÃO de Carregar ou Lutar na mesma Ativação, a menos que use uma Arma que tenha a Palavra-Chave ASSALTO.
 
 - **Recuar:** Um Recuo é um tipo especial de movimento que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar (ver Recuo).
 
@@ -700,7 +700,7 @@ Você não pode escolher um modelo inimigo como alvo de uma carga se a rota que 
 
 **Bônus de Carga**
 
-Após selecionar o alvo, role um D6 e adicione o resultado a Característica de Movimento do modelo carregando, até um máximo de Característica de Movimento de 12". A rolagem do D6 é referida como o Bônus de Carga do modelo.
+Após selecionar o alvo, role um D6 e adicione o resultado à Característica de Movimento do modelo carregando, até um máximo de Característica de Movimento de 12". A rolagem do D6 é referida como o Bônus de Carga do modelo.
 
 **Movimentos de Carga**
 
@@ -799,7 +799,7 @@ Um Ataque a Distância é feito usando a seguinte sequência:
 
 **Escolhendo a Arma**
 
-Quando você faz um Ataque a Distância com um modelo, deve primeiro escolher uma Arma a Distância com a qual o modelo está equipado para fazer o ataque. As Armas com as quais um modelo está equipado podem ser encontradas em seu Perfil (ver Criando uma Warband em Warbands of Trench Crusade).
+Quando você faz um Ataque a Distância com um modelo, deve primeiro escolher uma Arma a Distância com a qual o modelo está equipado para fazer o ataque. As Armas com as quais um modelo está equipado podem ser encontradas em seu Perfil (ver Criando um Bando em Warbands of Trench Crusade).
 
 **Escolhendo o Alvo**
 
@@ -807,7 +807,7 @@ Quando um modelo faz um Ataque a Distância, você deve escolher um modelo inimi
 
 **Atirando para Dentro do Corpo a Corpo**
 
-Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer um de seus modelos, deve rolar um D6 para determinar quem é o alvo: em 1-3 você deve atacar um de seus próprios modelos, em 4-6 você pode atacar um modelo inimigo. Note que, a menos que declarado de outra forma, a única vez que você decide aleatoriamente qual modelo é afetado por algo e quando você faz um Ataque a Distância com um modelo é o alvo está dentro de 1" de outro modelo de sua Warband. Por exemplo, se um modelo amigo fizesse um Ataque a Distância com uma Arma que tivesse a Palavra-Chave EXPLOSÃO, e o alvo estivesse dentro de 1" de um modelo de sua Warband, então você escolheria aleatoriamente o alvo antes de fazer a Rolagem de Sucesso para ver se o ataque acerta, mas você não aleatorizaria as Rolagens de Ferimento para quaisquer modelos que fossem pegos no raio de explosão da Arma após o acerto ter sido marcado. Da mesma forma, se uma regra permitisse que você colocasse um MARCADOR DE SANGUE ao lado de um modelo inimigo, você não escolheria aleatoriamente ao lado de qual modelo colocar o marcador se o modelo inimigo estivesse dentro de 1" de um modelo amigo, e assim por diante.
+Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer um de seus modelos, deve rolar um D6 para determinar quem é o alvo: em 1-3 você deve atacar um de seus próprios modelos, em 4-6 você pode atacar um modelo inimigo. Note que, a menos que declarado de outra forma, a única vez que você decide aleatoriamente qual modelo é afetado por algo e quando você faz um Ataque a Distância com um modelo é o alvo está dentro de 1" de outro modelo de seu Bando. Por exemplo, se um modelo amigo fizesse um Ataque a Distância com uma Arma que tivesse a Palavra-Chave EXPLOSÃO, e o alvo estivesse dentro de 1" de um modelo de seu Bando, então você escolheria aleatoriamente o alvo antes de fazer a Rolagem de Sucesso para ver se o ataque acerta, mas você não aleatorizaria as Rolagens de Ferimento para quaisquer modelos que fossem pegos no raio de explosão da Arma após o acerto ter sido marcado. Da mesma forma, se uma regra permitisse que você colocasse um MARCADOR DE SANGUE ao lado de um modelo inimigo, você não escolheria aleatoriamente ao lado de qual modelo colocar o marcador se o modelo inimigo estivesse dentro de 1" de um modelo amigo, e assim por diante.
 
 **Medindo o Alcance**
 
@@ -905,7 +905,7 @@ Para fazer uma Rolagem de Ferimento para um modelo, siga os seguintes passos:
 1. Pegue 2 D6.
 2. Adicione quaisquer +/-DADOS DE FERIMENTO (ver "Combinando +DADO e -DADO").
 3. Role todos os dados.
-4. Escolha os 2 dados mais altos se algum +DADO DE FERIMENTO foi adicionado a rolagem, ou os 2 mais baixos se algum -DADO DE FERIMENTO foi adicionado a rolagem.
+4. Escolha os 2 dados mais altos se algum +DADO DE FERIMENTO foi adicionado à rolagem, ou os 2 mais baixos se algum -DADO DE FERIMENTO foi adicionado à rolagem.
 5. Some os 2 dados.
 6. Adicione quaisquer +/-MODIFICADORES DE FERIMENTO a rolagem.
 7. Consulte o resultado na Tabela de Rolagem de Ferimento abaixo.
@@ -927,7 +927,7 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
 - **Abatido:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Abatido.
-- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou quaisquer +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento.
+- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou quaisquer +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem à Rolagem de Ferimento.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento de Batalha:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento de Batalha do modelo (ex: Armadura, Escudo, etc.).
 
@@ -954,17 +954,17 @@ Nota: Um modelo deitado de lado será mais difícil de ver, mas de resto os dois
 
 ## 3. Fase de Moral
 
-Sua Warband pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em sua Warband estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral é feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, sua Warband continua normalmente. Se o Teste de Moral for uma Falha, sua Warband fica Abalada.
+Suo Bando pode abandonar a batalha se sofrer muitas baixas. Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer um tipo especial de Rolagem de Sucesso chamado Teste de Moral. Um Teste de Moral é feito da mesma forma que uma Rolagem de Sucesso para um modelo. Se o Teste de Moral for um Sucesso, seu Bando continua normalmente. Se o Teste de Moral for uma Falha, seu Bando fica Abalada.
 
-Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, uma Warband que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Abatidos ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
+Nota: Lembre-se de que ao contar modelos, quaisquer frações são arredondadas para cima. Por exemplo, um Bando que tenha 5 modelos não precisará fazer um Teste de Moral até que 3 de seus modelos estejam Abatidos ou Fora de Ação (metade de 5 e 2,5, que arredonda para 3).
 
-### Warbands Abaladas
+### Bandos Abalados
 
-Todas as Rolagens de Sucesso feitas para modelos de uma Warband Abalada são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para sua Warband, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se o Teste de Moral for um Sucesso, sua Warband não está mais Abalada (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, sua Warband foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para modelos de um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas (a menos que já sejam Rolagens de Sucesso Arriscadas). Além disso, na Fase de Moral ao final do próximo Turno, você deve fazer outro Teste de Moral para seu Bando, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se o Teste de Moral for um Sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em um Teste de Moral em um Turno futuro). No entanto, se o Teste de Moral for uma Falha, seu Bando foge e você imediatamente perde o jogo!
 
 ### Encerrando o Turno
 
-Desde que nenhuma das Warbands dos jogadores fuja, eles podem realizar quaisquer tarefas de fim de Turno. Um novo Turno pode então começar.
+Desde que nenhuma das Bandos dos jogadores fuja, eles podem realizar quaisquer tarefas de fim de Turno. Um novo Turno pode então começar.
 
 **Tarefas de Fim de Turno**
 
@@ -972,13 +972,13 @@ Algumas regras exigem que os jogadores façam coisas no "fim do Turno". Estas s�
 
 **Soando a Retirada**
 
-Se um Teste de Moral para sua Warband for uma Falha, você pode escolher fugir imediatamente e perder o jogo em vez de ficar Abalado. Às vezes é melhor recuar para conservar suas perdas, em vez de lutar até o último homem!
+Se um Teste de Moral para seu Bando for uma Falha, você pode escolher fugir imediatamente e perder o jogo em vez de ficar Abalado. Às vezes é melhor recuar para conservar suas perdas, em vez de lutar até o último homem!
 
 ---
 
 ## Vencendo o Jogo
 
-Você vence uma partida de Trench Crusade imediatamente se a Warband do jogador adversário fugir. Se isso não acontecer, o vencedor do jogo é determinado após o Turno final ter sido completado. O cenário escolhido para a partida dirá quantos Turnos a partida durará e como o vencedor é decidido.
+Você vence uma partida de Trench Crusade imediatamente se o Bando do jogador adversário fugir. Se isso não acontecer, o vencedor do jogo é determinado após o Turno final ter sido completado. O cenário escolhido para a partida dirá quantos Turnos a partida durará e como o vencedor é decidido.
 
 
 # Glossário de Palavras-Chave
@@ -1006,7 +1006,7 @@ Dados que são adicionados a Rolagens de Sucesso (ver Rolagens de Sucesso). Se a
 Dados que são adicionados a Rolagens de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, os dados são adicionados apenas a Rolagens de Ferimento para Ataques feitos com ela.
 
 ### +/-MODIFICADOR DE FERIMENTO (Efeito)
-Modificadores que são aplicados ao resultado de uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, o modificador é adicionado apenas a Rolagens de Ferimento para Ataques feitos com ela.
+Modificadores que são aplicados ao resultado de uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a Palavra-Chave se aplica a uma Arma, o modificador é adicionado apenas às Rolagens de Ferimento para Ataques feitos com ela.
 
 ### AÇÃO (Etiqueta)
 Uma atividade que um modelo pode realizar quando é Ativado. AÇÕES comuns incluem Mover, Correr, Atirar e Lutar.
@@ -1075,7 +1075,7 @@ Equipamento de Batalha que é representado por um modelo ou peça de terreno que
 Cada 1" que um modelo se move através de terreno com esta Palavra-Chave conta como 2".
 
 ### ELITE (Etiqueta)
-Os modelos mais graduados e heroicos em uma Warband.
+Os modelos mais graduados e heroicos em um Bando.
 
 ### MEDO (Efeito)
 Adicione -1 DADO a um Ataque Corpo a Corpo que tenha como alvo um modelo com esta Palavra-Chave. Modelos que causam MEDO são imunes a MEDO.
@@ -1084,7 +1084,7 @@ Adicione -1 DADO a um Ataque Corpo a Corpo que tenha como alvo um modelo com est
 Após fazer a Rolagem de Ferimento para uma Arma com esta Palavra-Chave, coloque 1 MARCADOR DE SANGUE extra ao lado do modelo alvo, mesmo se o resultado for Sem Efeito.
 
 ### DUPLA DE FOGO (Efeito)
-Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os quais devem ter a Palavra-Chave DUPLA DE FOGO. Você pode criar Duplas de Fogo ao recrutar uma Warband e na Etapa do Intendente. Registre quais modelos estão em Duplas de Fogo em sua Warband na sua Ficha de Warband. Você pode Ativar modelos amigos que fazem parte da mesma Dupla de Fogo simultaneamente. Se fizer isso, você pode realizar suas AÇÕES em qualquer ordem que desejar, e pode alternar entre os dois modelos livremente. No entanto, se a Ativação de qualquer membro da Dupla de Fogo terminar durante uma Ativação simultânea, ela termina imediatamente para o outro modelo também. Um modelo não pode estar em mais de 1 Dupla de Fogo.
+Um modelo com esta Palavra-Chave faz parte de um grupo de 2 modelos, ambos os quais devem ter a Palavra-Chave DUPLA DE FOGO. Você pode criar Duplas de Fogo ao recrutar um Bando e na Etapa do Intendente. Registre quais modelos estão em Duplas de Fogo em seu Bando na sua Ficha de Bando. Você pode Ativar modelos amigos que fazem parte da mesma Dupla de Fogo simultaneamente. Se fizer isso, você pode realizar suas AÇÕES em qualquer ordem que desejar, e pode alternar entre os dois modelos livremente. No entanto, se a Ativação de qualquer membro da Dupla de Fogo terminar durante uma Ativação simultânea, ela termina imediatamente para o outro modelo também. Um modelo não pode estar em mais de 1 Dupla de Fogo.
 
 ### LANÇA-CHAMAS (Efeito)
 Quando uma Arma com esta Palavra-Chave é usada para fazer um Ataque a Distância, ele é automaticamente um Sucesso. Não faça uma Rolagem de Sucesso para o ataque. Note que isso significa que o ataque não pode alcançar um Sucesso Crítico.
@@ -1129,7 +1129,7 @@ Quando um modelo com esta Palavra-Chave e posicionado pela primeira vez em uma p
 Quando um modelo se move para contato com um Marcador ou peça de terreno com a Palavra-Chave MINADO, a mina detonará a menos que o modelo tenha a Palavra-Chave NEGAR MINADO. Faça uma Rolagem de Ferimento com a Palavra-Chave ESTILHAÇO para o modelo que detonou a mina, e então o Marcador ou peça de terreno perde a Palavra-Chave MINADO. Se o modelo que detonou a mina não foi colocado Abatido ou Fora de Ação, ele pode então continuar seu movimento. Modelos com a Palavra-Chave VOADOR só detonam uma mina se terminarem um movimento em contato com um Marcador ou peça de terreno MINADO (eles podem sobrevoar sem ativá-la).
 
 ### LÍDER (Efeito)
-Adicione +1 DADO a Testes de Moral se sua Warband tiver pelo menos 1 modelo com esta Palavra-Chave no campo de batalha que não esteja Abatido ou Fora de Ação.
+Adicione +1 DADO a Testes de Moral se seu Bando tiver pelo menos 1 modelo com esta Palavra-Chave no campo de batalha que não esteja Abatido ou Fora de Ação.
 
 ### NOVA ANTIOQUIA (Etiqueta)
 Este modelo faz parte da Facção do Principado de Nova Antioquia.
@@ -1179,7 +1179,7 @@ A primeira vez que um modelo com esta Palavra-Chave sofre um resultado Fora de A
 
 # Terreno de Trench Crusade
 
-Assim como um campo de batalha real teria características de terreno como edifícios, colinas e florestas, o campo de batalha para uma partida de Trench Crusade precisará de suas próprias características de terreno para fornecer cobertura para os guerreiros em sua Warband. O terreno que você coloca no campo de batalha é composto por modelos individuais chamados peças de terreno.
+Assim como um campo de batalha real teria características de terreno como edifícios, colinas e florestas, o campo de batalha para uma partida de Trench Crusade precisará de suas próprias características de terreno para fornecer cobertura para os guerreiros em seu Bando. O terreno que você coloca no campo de batalha é composto por modelos individuais chamados peças de terreno.
 
 ---
 
@@ -1191,7 +1191,7 @@ A área em que você joga sua partida é referida como o campo de batalha. Antes
 
 ## Peças de Terreno
 
-Além do campo de batalha, você precisará do maior número de peças de terreno que conseguir. Você pode comprar modelos de terreno plásticos adequados para uso como peças de terreno da mesma forma que pode comprar os modelos que compõem os guerreiros em sua Warband. Recomendamos que você use os modelos da crescente linha de terreno de Trench Crusade para seus jogos, mas não nós importamos se você decidir usar kits de outra empresa em vez dos nossos. Muitos jogadores gostam de construir artesanalmente as peças de terreno para seus jogos a partir de materiais de modelismo como plasticard, placa de espuma e cartão-espuma, cola PVA e areia de modelismo. Basta dizer que uma busca rápida na internet trará muitos exemplos de modelos de terreno que você pode usar, e artigos introdutórios sobre como construir terreno artesanalmente.
+Além do campo de batalha, você precisará do maior número de peças de terreno que conseguir. Você pode comprar modelos de terreno plásticos adequados para uso como peças de terreno da mesma forma que pode comprar os modelos que compõem os guerreiros em seu Bando. Recomendamos que você use os modelos da crescente linha de terreno de Trench Crusade para seus jogos, mas não nós importamos se você decidir usar kits de outra empresa em vez dos nossos. Muitos jogadores gostam de construir artesanalmente as peças de terreno para seus jogos a partir de materiais de modelismo como plasticard, placa de espuma e cartão-espuma, cola PVA e areia de modelismo. Basta dizer que uma busca rápida na internet trará muitos exemplos de modelos de terreno que você pode usar, e artigos introdutórios sobre como construir terreno artesanalmente.
 
 ### Um campo de batalha improvisado
 
@@ -1309,7 +1309,7 @@ As peças de terreno devem ser montadas de forma que cada peça de terreno estej
 
 ### RUÍNAS DECIMADAS
 
-Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias localizadas entre, ou logo atrás das, linhas de trincheira das Warbands adversárias. A guerra constante rapidamente reduz edifícios outrora orgulhosos a ruínas, entre as quais Warbands lutam entre si em brutais confrontos de curto alcance. O sucesso tático e estratégico pode ser medido por quem toma controle dos edifícios em ruínas, pilhas de entulho e veículos destruídos que espalham a paisagem estilhacada.
+Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias localizadas entre, ou logo atrás das, linhas de trincheira das Bandos adversárias. A guerra constante rapidamente reduz edifícios outrora orgulhosos a ruínas, entre as quais Bandos lutam entre si em brutais confrontos de curto alcance. O sucesso tático e estratégico pode ser medido por quem toma controle dos edifícios em ruínas, pilhas de entulho e veículos destruídos que espalham a paisagem estilhacada.
 
 **Peças de Terreno de Ruínas Decimadas**
 
@@ -1351,7 +1351,7 @@ Você precisará de Trincheiras suficientes para alcançar de uma borda do campo
 
 **Montagem do Terreno**
 
-Quaisquer trincheiras que serão usadas para a partida devem ser montadas primeiro. A primeira trincheira deve ser montada de forma que entre por uma borda do campo de batalha, e trincheiras subsequentes devem se conectar com uma trincheira existente. Uma vez que todas as trincheiras tenham sido montadas, elas devem se estender da borda do campo de batalha, de onde a primeira trincheira foi colocada, até a borda oposta do campo de batalha, de forma que um modelo pudesse entrar por uma borda e sair pela outra sem nunca ter que sair de uma trincheira. Após todas as trincheiras terem sido montadas, qualquer outro terreno pode ser montado em qualquer lugar do campo de batalha que esteja a pelo menos 1" de quaisquer trincheiras e 3" de quaisquer outras peças de terreno.
+Quaisquer trincheiras que serão usadas para a partida devem ser montadas primeiro. A primeira trincheira deve ser montada de forma que entre por uma borda do campo de batalha, e trincheiras subsequentes devem se conectar com uma trincheira existente. Uma vez que todas as trincheiras tenham sido montadas, elas devem se estender da borda do campo de batalha, de ondé a primeira trincheira foi colocada, até a borda oposta do campo de batalha, de forma que um modelo pudesse entrar por uma borda e sair pela outra sem nunca ter que sair de uma trincheira. Após todas as trincheiras terem sido montadas, qualquer outro terreno pode ser montado em qualquer lugar do campo de batalha que esteja a pelo menos 1" de quaisquer trincheiras e 3" de quaisquer outras peças de terreno.
 
 
 # Equipamento de Batalha
@@ -1380,9 +1380,9 @@ Cada peça de Equipamento de Batalha tem uma Descrição de Equipamento de Batal
     - *Armas Corpo a Corpo:* Se o alcance está listado como "Corpo a Corpo", então a Arma é uma Arma Corpo a Corpo e pode ser usada para fazer Ataques Corpo a Corpo contra alvos dentro de 1" dela.
     - *Duplo propósito:* Se o alcance é um valor em polegadas seguido de Corpo a Corpo (ex: 12"/Corpo a Corpo), então o Equipamento de Batalha pode ser usado como Arma a Distância e como Arma Corpo a Corpo.
     - *Outro:* Se o alcance está listado como "-", o Equipamento de Batalha não pode ser usado para fazer um ataque.
-  - **Palavras-Chave:** Quaisquer Palavras-Chave que se apliquem a peça de Equipamento de Batalha.
+  - **Palavras-Chave:** Quaisquer Palavras-Chave que se apliquem à peça de Equipamento de Batalha.
     - *Palavras-Chave de Arma:* Palavras-Chave para Armas de 1 Mão ou 2 Mãos e Granadas se aplicam a ataques feitos pelo modelo que possui a arma (ignore-as em todos os outros momentos).
-    - *Palavras-Chave de Armadura e Escudo:* Palavras-Chave para Armadura e Escudos se aplicam a Rolagens de Ferimento para o modelo que possui a Armadura e/ou Escudo (ignore-as em todos os outros momentos).
+    - *Palavras-Chave de Armadura e Escudo:* Palavras-Chave para Armadura e Escudos se aplicam às Rolagens de Ferimento para o modelo que possui a Armadura e/ou Escudo (ignore-as em todos os outros momentos).
     - *Outras Palavras-Chave de Equipamento de Batalha:* Palavras-Chave para outro Equipamento de Batalha são adicionadas as Palavras-Chave encontradas no Perfil do modelo. Elas se aplicam o tempo todo, a menos que declarado especificamente de outra forma.
 - **Regras Especiais:** Alguns Equipamentos de Batalha possuem regras especiais que se aplicam exclusivamente a eles. Regras especiais aparecem abaixo do Perfil de Equipamento de Batalha.
 
@@ -1460,7 +1460,7 @@ Uma maravilha da engenharia moderna, apenas alguns protótipos existem. Possui a
 
 ### Espingarda Automática
 
-Esta espingarda e equipada com um carregador automático, uma invenção recente do corpo de engenharia prussiano de Konigsberg. E ideal para combate em espaços fechados graças a sua alta cadência de fogo e precisão. A tecnologia não foi aperfeiçoada, no entanto, e às vezes causa falhas de alimentação e travamentos.
+Esta espingarda é equipada com um carregador automático, uma invenção recente do corpo de engenharia prussiano de Konigsberg. E ideal para combate em espaços fechados graças a sua alta cadência de fogo e precisão. A tecnologia não foi aperfeiçoada, no entanto, e às vezes causa falhas de alimentação e travamentos.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1568,7 +1568,7 @@ Uma arma lateral sofisticada feita de orichalcum ou outros metais sagrados, ou d
 
 ### Rifle de Precisão
 
-Um rifle de precisão é um rifle de alta precisão e longo alcance, amplamente usado nas trincheiras para eliminar alvos de alto valor como oficiais, sapadores e equipes de artilharia. Caros e raros, são comumente dados aos melhores atiradores e franco-atiradores da warband.
+Um rifle de precisão é um rifle de alta precisão e longo alcance, amplamente usado nas trincheiras para eliminar alvos de alto valor como oficiais, sapadores e equipes de artilharia. Caros e raros, são comumente dados aos melhores atiradores e franco-atiradores do bando.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1578,7 +1578,7 @@ Um rifle de precisão é um rifle de alta precisão e longo alcance, amplamente 
 
 ### Submetralhadora
 
-A submetralhadora (ou SMG) é uma arma de fogo totalmente automática, trocando menor poder de penetração e alcance por uma cadência de fogo muito maior. Ideal para confrontos de curto alcance, e muito procurada por warbands apesar de sua escassez e alto custo.
+A submetralhadora (ou SMG) é uma arma de fogo totalmente automática, trocando menor poder de penetração e alcance por uma cadência de fogo muito maior. Ideal para confrontos de curto alcance, é muito procurada por bandos apesar de sua escassez e alto custo.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1664,7 +1664,7 @@ Devido as tradições marciais de muitas nações orgulhosas e aos avanços na t
 
 ### Clava de Trincheira
 
-Clavas de trincheira são uma das armas mais comuns da Grande Guerra, pois o combate corpo a corpo e frequente e brutal. Geralmente feitas de madeira com ponta de metal de ferro, chumbo ou aço, clavas de trincheira frequentemente apresentam espigões e cravos. A maioria dos designs tem alguma forma de cordão ou tira de couro na ponta para enrolar no pulso do usuário.
+Clavas de trincheira são uma das armas mais comuns da Grande Guerra, pois o combate corpo a corpo é frequente e brutal. Geralmente feitas de madeira com ponta de metal de ferro, chumbo ou aço, clavas de trincheira frequentemente apresentam espigões e cravos. A maioria dos designs tem alguma forma de cordão ou tira de couro na ponta para enrolar no pulso do usuário.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1734,7 +1734,7 @@ Explosivos de campo projetados para destruir fortificações inimigas e romper a
 
 ## Escudos
 
-Palavras-Chave para Escudos só se aplicam a Rolagens de Ferimento para o modelo que está usando o Escudo (ignore-as em todos os outros momentos). O efeito de um Escudo pode ser combinado com o efeito de uma Armadura, a menos que anotado de outra forma. Um Escudo não bloqueia Linha de Visão para o modelo que o carrega.
+Palavras-Chave para Escudos só se aplicam às Rolagens de Ferimento para o modelo que está usando o Escudo (ignore-as em todos os outros momentos). O efeito de um Escudo pode ser combinado com o efeito de uma Armadura, a menos que anotado de outra forma. Um Escudo não bloqueia Linha de Visão para o modelo que o carrega.
 
 ### Escudo de Trincheira
 
@@ -1748,11 +1748,11 @@ Escudos usados na guerra de trincheiras são feitos de aço reforçado com orich
 
 ## Armadura
 
-Palavras-Chave para Armadura só se aplicam a Rolagens de Ferimento para o modelo que está vestindo a Armadura (ignore-as em todos os outros momentos). Às vezes o MODIFICADOR DE FERIMENTO para Armadura ou um Escudo está listado na Tabela de Modificadores de Ferimento nas Regras Centrais e e repetido por completude no Perfil da Armadura ou Escudo também. Quando este for o caso, tenha cuidado para não aplicar o modificador mais de uma vez.
+Palavras-Chave para Armadura só se aplicam às Rolagens de Ferimento para o modelo que está vestindo a Armadura (ignore-as em todos os outros momentos). Às vezes o MODIFICADOR DE FERIMENTO para Armadura ou um Escudo está listado na Tabela de Modificadores de Ferimento nas Regras Centrais e é repetido por completude no Perfil da Armadura ou Escudo também. Quando este for o caso, tenha cuidado para não aplicar o modificador mais de uma vez.
 
 ### Armadura Reforçada
 
-Armadura reforçada é um traje feito sob medida individualmente para as tropas mais importantes e de elite. Cada um e ricamente decorado e frequentemente carrega o emblema pessoal do guerreiro que o veste.
+Armadura reforçada é um traje feito sob medida individualmente para as tropas mais importantes e de elite. Cada um é ricamente decorado e frequentemente carrega o emblema pessoal do guerreiro que o veste.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1826,9 +1826,9 @@ Relicários sagrados, artefatos abençoados e cruzes sagradas são frequentement
 
 Um Santuário de Campo é representado por uma peça de terreno que tenha pelo menos 1/2" de altura e que esteja montada em uma base de 40mm. É Terreno Intransponível.
 
-*Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em sua Warband que não estão Abatidos ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
+*Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em seu Bando que não estão Abatidos ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
 
-*Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Warband (nenhuma Rolagem de Ferimento é necessária).
+*Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Bando (nenhuma Rolagem de Ferimento é necessária).
 
 ### Máscara de Gás
 
@@ -1934,7 +1934,7 @@ Balas traçantes permitem que soldados ajustem sua mira eficientemente.
 
 ### Bandeira de Tropa
 
-A maioria das warbands e unidades carrega estandartes, bandeiras, flâmulas, pendões ou outros símbolos para reunir as tropas.
+A maioria das bandos e unidades carrega estandartes, bandeiras, flâmulas, pendões ou outros símbolos para reunir as tropas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1950,7 +1950,7 @@ Um artefato investido de poder profano. Exemplos incluem cabeças de nephilim, e
 
 ### Amuleto Profano
 
-Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por videntes e diabretes nós domínios Heréticos. Tal amuleto pode ser um crânio, feto preservado, chifre de bode, e e frequentemente coberto de runas Goeticas.
+Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por videntes e diabretes nós domínios Heréticos. Tal amuleto pode ser um crânio, feto preservado, chifre de bode, e é frequentemente coberto de runas Goeticas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -1965,24 +1965,24 @@ Estas regras governam jogar uma série de partidas vinculadas com seus amigos. P
 
 ## Iniciando a Campanha
 
-No início de uma campanha, cada jogador deve primeiro recrutar uma Warband inicial (ver Criando uma Warband em Warbands of Trench Crusade). Uma vez que tenham recrutado sua Warband, devem escolher um Patrono para ela.
+No início de uma campanha, cada jogador deve primeiro recrutar um Bando inicial (ver Criando um Bando em Warbands of Trench Crusade). Uma vez que tenham recrutado seu Bando, devem escolher um Patrono para ela.
 
 ---
 
 ## Patronos
 
-Selecione um Patrono para sua Warband desta lista. Sua escolha determina qual habilidade você pode selecionar se rolar um resultado de Habilidade de Patrono em qualquer uma das Tabelas de Habilidades (ver Promoções e Experiência).
+Selecione um Patrono para seu Bando desta lista. Sua escolha determina qual habilidade você pode selecionar se rolar um resultado de Habilidade de Patrono em qualquer uma das Tabelas de Habilidades (ver Promoções e Experiência).
 
 ### SENHOR TEMPORAL
 
-*Somente Nova Antioquia.* Seu Patrono é um nobre poderoso, talvez um príncipe mercador, um oficial militar de alto escalão, um ministro, ou até mesmo o próprio Duque de Nova Antioquia. Tais Patronos podem ajudar no treinamento especializado de sua warband e na obtenção de armas caras.
+*Somente Nova Antioquia.* Seu Patrono é um nobre poderoso, talvez um príncipe mercador, um oficial militar de alto escalão, um ministro, ou até mesmo o próprio Duque de Nova Antioquia. Tais Patronos podem ajudar no treinamento especializado de seu bando e na obtenção de armas caras.
 
 Ter um Senhor Temporal como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Obtenção de Armadura e Equipamento:** O custo de qualquer Armadura, Escudos ou Equipamento que valham 15 👑 ou mais é reduzido em 5 👑 se um modelo com esta Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com esta Habilidade.
-- **Obtenção de Arma Corpo a Corpo:** O custo de qualquer Arma Corpo a Corpo que valha 10 👑 ou mais é reduzido em 5 👑 se o modelo com esta Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com esta Habilidade.
+- **Obtenção de Armadura e Equipamento:** O custo de qualquer Armadura, Escudos ou Equipamento que valham 15 👑 ou mais é reduzido em 5 👑 se um modelo com esta Habilidade fizer parte do Bando quando for comprado. Umo Bando só pode ter um modelo com esta Habilidade.
+- **Obtenção de Arma Corpo a Corpo:** O custo de qualquer Arma Corpo a Corpo que valha 10 👑 ou mais é reduzido em 5 👑 se o modelo com esta Habilidade fizer parte do Bando quando for comprado. Umo Bando só pode ter um modelo com esta Habilidade.
 - **Químicos Mendelistas:** O jogador adversário não pode gastar MARCADORES DE SANGUE ao lado de um modelo com está habilidade para adicionar +1 DADO DE FERIMENTO (eles podem usar os MARCADORES DE SANGUE para converter a rolagem em uma Rolagem de Banho de Sangue normalmente).
-- **Obtenção de Arma a Distância:** O custo de qualquer Arma a Distância ou Granada que valha 20 👑 ou mais é reduzido em 5 👑 se um modelo com esta Habilidade fizer parte da Warband quando for comprado. Uma Warband só pode ter um modelo com esta Habilidade.
+- **Obtenção de Arma a Distância:** O custo de qualquer Arma a Distância ou Granada que valha 20 👑 ou mais é reduzido em 5 👑 se um modelo com esta Habilidade fizer parte do Bando quando for comprado. Umo Bando só pode ter um modelo com esta Habilidade.
 - **Escola de Franco-Atiradores:** Ataques a Distância feitos por um modelo com esta Habilidade precisam de 1 MARCADOR DE SANGUE a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
 - **Treinamento Especial de Assalto:** Ataques Corpo a Corpo feitos por um modelo com esta Habilidade precisam de 1 MARCADOR DE SANGUE a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
 
@@ -2009,11 +2009,11 @@ Ter um Santo Guerreiro como seu Patrono permite que você adquira as seguintes H
 
 Ter um Santo Estudioso como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **Favorecido por Deus:** Ao final de cada partida, sua Warband ganha 1 ☼ adicional para cada modelo com esta Habilidade no campo de batalha.
+- **Favorecido por Deus:** Ao final de cada partida, seu Bando ganha 1 ☼ adicional para cada modelo com esta Habilidade no campo de batalha.
 - **Artes de Cura:** Você pode rerolar o resultado na Tabela de Trauma (ver Etapa de Trauma) para um modelo com esta Habilidade.
-- **Conhecimento de Ciências:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) é aumentado em 1 se um modelo com esta Habilidade fizer parte da Warband. Escolha o Equipamento de Batalha ao qual o bônus se aplicará e anote sua escolha em sua ficha. Uma Warband só pode ter um modelo com esta Habilidade.
-- **Habilidades Logísticas:** Uma Warband que inclua um modelo com esta Habilidade pode aumentar quaisquer Limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Por exemplo, se a Entrada de Warband para um modelo na Warband tivesse um limite de 0-2, o limite seria aumentado para 0-3. Se o modelo com esta Habilidade for morto ou removido da Warband, modelos em excesso dos limites normais podem ser mantidos, mas novos modelos não podem ser adicionados a Warband em excesso dos limites normais. Uma Warband só pode ter 1 modelo com esta Habilidade.
-- **Moedas do Céu:** Ao final de cada partida, sua Warband ganha D6x5 👑 adicionais para cada modelo com esta Habilidade que esteja no campo de batalha.
+- **Conhecimento de Ciências:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) é aumentado em 1 se um modelo com esta Habilidade fizer parte do Bando. Escolha o Equipamento de Batalha ao qual o bônus se aplicará e anote sua escolha em sua ficha. Umo Bando só pode ter um modelo com esta Habilidade.
+- **Habilidades Logísticas:** Umo Bando que inclua um modelo com esta Habilidade pode aumentar quaisquer Limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Por exemplo, se a Entrada de Bando para um modelo no Bando tivesse um limite de 0-2, o limite seria aumentado para 0-3. Se o modelo com esta Habilidade for morto ou removido do Bando, modelos em excesso dos limites normais podem ser mantidos, mas novos modelos não podem ser adicionados o Bando em excesso dos limites normais. Umo Bando só pode ter 1 modelo com esta Habilidade.
+- **Moedas do Céu:** Ao final de cada partida, seu Bando ganha D6x5 👑 adicionais para cada modelo com esta Habilidade que esteja no campo de batalha.
 - **Caminhar com Deus:** Escolha uma Habilidade de qualquer Tabela de Habilidades disponível para o modelo, incluindo qualquer Habilidade de Exploração, e de-a a este modelo.
 
 ---
@@ -2024,7 +2024,7 @@ Ter um Santo Estudioso como seu Patrono permite que você adquira as seguintes H
 
 Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Habilidades:
 
-- **30 Moedas de Prata:** Ao final de cada partida, sua Warband ganha D6x5 👑 para cada modelo com esta Habilidade que esteja no campo de batalha.
+- **30 Moedas de Prata:** Ao final de cada partida, seu Bando ganha D6x5 👑 para cada modelo com esta Habilidade que esteja no campo de batalha.
 - **Assassinato Abençoado:** Se um Ataque Corpo a Corpo feito por um modelo com esta Habilidade colocar um modelo inimigo Fora de Ação, coloque 1 MARCADOR DE BÊNÇÃO ao lado do modelo com esta Habilidade.
 - **Sacrifício de Sangue AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Sacrifício de Sangue. Se fizer isso, faça uma Rolagem de Sucesso para o modelo. Em um Sucesso ou Sucesso Crítico, você pode remover 1 MARCADOR DE SANGUE do modelo é colocá-lo ao lado de qualquer outro modelo que esteja dentro de 6" do modelo realizando a AÇÃO de Sacrifício de Sangue, em sua Linha de Visão, e que não tenha as Palavras-Chave ARTIFICIAL, GRAAL NEGRO ou DEMONÍACO.
 - **Fogo Infernal AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Fogo Infernal. Se fizer isso, faça uma Rolagem de Sucesso Arriscada para o modelo. Se a rolagem for uma Falha, nada acontece e a Ativação do modelo termina. Se a rolagem for um Sucesso ou Sucesso Crítico, escolha um modelo amigo que esteja dentro de 18" do modelo realizando a AÇÃO de Fogo Infernal e em sua Linha de Visão. Em seguida, trace uma linha reta de 1mm de largura entre os pontos mais próximos das bases dos dois modelos, e faça uma Rolagem de Ferimento com a Palavra-Chave FOGO para cada modelo (amigo ou inimigo) que seja cruzado ou alcançado pela linha, incluindo o modelo amigo que você escolheu, mas não incluindo o modelo realizando a AÇÃO de Fogo Infernal.
@@ -2040,10 +2040,10 @@ Ter um Nobre Infernal como seu Patrono permite que você adquira as seguintes Ha
 Ter o Portal Sublime como seu Patrono permite que você adquira as seguintes Habilidades:
 
 - **Gures:** Adicione +1 DADO e +1 DADO DE FERIMENTO a Ataques Corpo a Corpo feitos por um modelo com esta Habilidade se o modelo alvo estiver Abatido. Além disso, você pode ignorar o modificador de -1 DADO em Rolagens de Sucesso para um modelo que esteja Abatido se o modelo tiver esta Habilidade.
-- **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Warband. Se este item for perdido por qualquer razão durante a campanha, você pode recompra-lo.
-- **Treinamento de Janíssaro:** Se a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
+- **Mercadorias Importadas:** Você pode comprar 1 Arma ou 1 Armadura das Tabelas de Armaria de Nova Antioquia para um modelo com esta Habilidade na Etapa do Intendente seguinte. Escolha a Arma ou Armadura e anote sua escolha em sua Ficha de Bando. Se este item for perdido por qualquer razão durante a campanha, você pode recompra-lo.
+- **Treinamento de Janíssaro:** Sé a primeira AÇÃO que um modelo com esta Habilidade fizer durante sua Ativação for uma Carga, adicione +1 DADO a Ataques Corpo a Corpo feitos pelo modelo pelo resto da Ativação. Adicionalmente, um modelo com esta Habilidade tem a Palavra-Chave IGNORAR ARMA SECUNDÁRIA.
 - **Corretamente Guiado:** No início da partida, após o posicionamento, você pode escolher 1 AÇÃO além de Carregar, Atirar ou Lutar que exija que um modelo inimigo seja escolhido como alvo da AÇÃO ou seja escolhido para ser afetado pela AÇÃO. Pelo resto da partida, o modelo com esta Habilidade não pode ser escolhido como alvo daquela AÇÃO e não pode ser escolhido para ser afetado por aquela AÇÃO.
-- **Favor do Sultão:** Uma Warband que inclua um modelo com esta Habilidade pode aumentar quaisquer limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Uma Warband só pode ter 1 modelo com esta Habilidade.
+- **Favor do Sultão:** Umo Bando que inclua um modelo com esta Habilidade pode aumentar quaisquer limites no número de modelos que pode incluir em 1, desde que o modelo não tenha a Palavra-Chave ELITE, não esteja montado em uma base de 50mm ou maior, e não seja um Mercenário. Umo Bando só pode ter 1 modelo com esta Habilidade.
 - **Espada de Allah:** Você pode escolher 1 Habilidade da Tabela de Habilidades de Corpo a Corpo e Força para um modelo que tenha a Habilidade Espada de Allah.
 
 ---
@@ -2065,16 +2065,16 @@ Ter a Ordem da Mosca como seu Patrono permite que você adquira as seguintes Hab
 
 ### MAMMON
 
-*Somente Legiões Heréticas ou Corte da Serpente de Sete Cabeças (Warband de Ganância).* Seu Patrono e Mammon, o Príncipe da Ganância, o Tesoureiro do Inferno e o Rei dos Tolos. Ele aparece como um rei de pele dourada em um trono opulento, com marcas de queimadura negras manchando seu esplendor. Ele é o Patrono mais popular entre os mortais.
+*Somente Legiões Heréticas ou Corte da Serpente de Sete Cabeças (Bando de Ganância).* Seu Patrono e Mammon, o Príncipe da Ganância, o Tesoureiro do Inferno e o Rei dos Tolos. Ele aparece como um rei de pele dourada em um trono opulento, com marcas de queimadura negras manchando seu esplendor. Ele é o Patrono mais popular entre os mortais.
 
 Ter Mammon como seu Patrono permite que você adquira as seguintes Habilidades:
 
 - **Pele Áurea:** O modelo com esta Habilidade recebe a esplêndida (porém manchada) pele dourada de seu Patrono, e seu sangue se transforma em ouro derretido. Cada vez que você colocar um MARCADOR DE SANGUE ao lado de um modelo com esta Habilidade, adicione 5 👑 ao seu tesouro.
 - **Dados Viciados:** Uma vez por partida, você pode rerolar todos os dados usados para uma Rolagem de Sucesso para um modelo com esta Habilidade, ou pode rerolar todos os dados usados para uma Rolagem de Ferimento para um ataque feito por um modelo com esta Habilidade.
-- **Dívida Eterna:** Os Miseráveis desta Warband nunca são perdidos como baixas, pois suas cabeças (mantidas como garantia por Mammon) são usadas para regenerar os corpos perdidos. Todos os modelos Miseráveis em uma Warband que inclua um modelo com esta Habilidade farão automaticamente uma recuperação total após a batalha se forem colocados Fora de Ação.
-- **Dinheiro Compra Tudo:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) é aumentado em 1 se um modelo com esta Habilidade fizer parte da Warband. Uma Warband só pode ter um modelo com esta Habilidade.
-- **Plutocracia:** Quando você adquirir esta Habilidade para um modelo, ele pode imediatamente formar uma DUPLA DE FOGO com 1 outro modelo de sua Warband que não tenha a Palavra-Chave ELITE. Ambos os modelos ganham a Palavra-Chave DUPLA DE FOGO. Além disso, se os dois modelos realizarem uma Ativação simultânea, então você pode tratar todas as Rolagens de Sucesso Arriscadas que eles fizerem durante a Ativação como Rolagens de Sucesso normais.
-- **Empréstimo Sem Garantia:** Você pode adicionar 100 👑 ao seu Cofre quando adquirir esta Habilidade para um modelo em sua Warband. Os 👑 só são ganhos uma vez, quando a Habilidade é escolhida.
+- **Dívida Eterna:** Os Miseráveis desto Bando nunca são perdidos como baixas, pois suas cabeças (mantidas como garantia por Mammon) são usadas para regenerar os corpos perdidos. Todos os modelos Miseráveis em um Bando que inclua um modelo com esta Habilidade farão automaticamente uma recuperação total após a batalha se forem colocados Fora de Ação.
+- **Dinheiro Compra Tudo:** O limite de um item de Equipamento de Batalha (excluindo Itens de Glória) é aumentado em 1 se um modelo com esta Habilidade fizer parte do Bando. Umo Bando só pode ter um modelo com esta Habilidade.
+- **Plutocracia:** Quando você adquirir esta Habilidade para um modelo, ele pode imediatamente formar uma DUPLA DE FOGO com 1 outro modelo de seu Bando que não tenha a Palavra-Chave ELITE. Ambos os modelos ganham a Palavra-Chave DUPLA DE FOGO. Além disso, se os dois modelos realizarem uma Ativação simultânea, então você pode tratar todas as Rolagens de Sucesso Arriscadas que eles fizerem durante a Ativação como Rolagens de Sucesso normais.
+- **Empréstimo Sem Garantia:** Você pode adicionar 100 👑 ao seu Cofre quando adquirir esta Habilidade para um modelo em seu Bando. Os 👑 só são ganhos uma vez, quando a Habilidade é escolhida.
 
 ---
 
@@ -2085,7 +2085,7 @@ Ter Mammon como seu Patrono permite que você adquira as seguintes Habilidades:
 Ter o Antipapa de Avignon como seu Patrono permite que você adquira as seguintes Habilidades:
 
 - **Sabedoria de Belzebu:** Infestado pelo Graal Negro, a cabeça deste guerreiro está distendida e matéria líquida escorre de seus muitos orifícios trepanados; é uma visão tão repugnante que guerreiros inimigos frequentemente hesitam em se aproximar da criatura repulsiva. Se um modelo com esta Habilidade for escolhido por um modelo inimigo como alvo de uma carga, o modelo inimigo não recebe Bônus de Carga e deve fazer a carga usando apenas sua Característica de Movimento.
-- **Olho de Belzebu AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Olho de Belzebu. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 24" do modelo, em Cobertura, e que não esteja dentro de 1" de quaisquer modelos de sua Warband. Seu oponente deve então mover aquele modelo 1", de forma que ainda esteja na Linha de Visão do modelo realizando a AÇÃO, mas não esteja mais em Cobertura, e que esteja a mais de 1" de quaisquer modelos de sua Warband. Se isso for impossível, o modelo inimigo não é movido.
+- **Olho de Belzebu AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Olho de Belzebu. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 24" do modelo, em Cobertura, e que não esteja dentro de 1" de quaisquer modelos de seu Bando. Seu oponente deve então mover aquele modelo 1", de forma que ainda esteja na Linha de Visão do modelo realizando a AÇÃO, mas não esteja mais em Cobertura, e que esteja a mais de 1" de quaisquer modelos de seu Bando. Se isso for impossível, o modelo inimigo não é movido.
 - **Banquetear na Doença:** Se o alvo de um Ataque Corpo a Corpo feito por um modelo com esta Habilidade tiver 1 ou mais MARCADORES DE INFECÇÃO, então custa 1 MARCADOR DE SANGUE ou MARCADOR DE INFECÇÃO a menos para converter uma Rolagem de Ferimento em uma Rolagem de Banho de Sangue.
 - **Infectar a Mente:** No início de cada partida, após o posicionamento, para cada modelo com esta Habilidade que esteja no campo de batalha, você pode escolher um modelo inimigo e movê-lo 6" da mesma forma como se estivesse realizando uma AÇÃO de Mover (ele não pode Carregar).
 - **Lingua de Prata AÇÃO:** Um modelo com esta Habilidade pode realizar uma AÇÃO de Lingua de Prata. Se fizer isso, faça uma Rolagem de Sucesso. Se a rolagem for uma Falha, nada acontece. Se for um Sucesso ou Sucesso Crítico, escolha um modelo inimigo que esteja dentro de 1" do modelo. O modelo escolhido deve fazer um Ataque Corpo a Corpo contra si mesmo. Se o modelo inimigo tiver mais de 1 Arma Corpo a Corpo, você pode escolher qual ele usa. O modelo inimigo só atacara a si mesmo uma vez, mesmo que seja capaz de atacar váriàs vezes.
@@ -2095,7 +2095,7 @@ Ter o Antipapa de Avignon como seu Patrono permite que você adquira as seguinte
 
 ## Partidas de Campanha
 
-Uma vez que você tenha escolhido o Patrono de sua Warband, você está pronto para iniciar a campanha! Uma campanha é jogada vinculando as partidas individuais que você joga. Você pode jogar uma partida de campanha contra qualquer um dos outros jogadores que estejam participando; tudo o que você precisa fazer e combinar um horário e local para a partida, reunir-se e então selecionar o cenário que você vai jogar (ver Selecionando um Cenário de Campanha), e então jogar a partida usando as regras normais. Após a partida, você realiza uma Fase de Campanha onde descobre o destino dos modelos que foram colocados Fora de Ação, ve se algum modelo ganhou novas Habilidades, explora a região onde a campanha está acontecendo e usa qualquer saque que capturou para recrutar mais modelos para sua Warband.
+Uma vez que você tenha escolhido o Patrono de seu Bando, você está pronto para iniciar a campanha! Uma campanha é jogada vinculando as partidas individuais que você joga. Você pode jogar uma partida de campanha contra qualquer um dos outros jogadores que estejam participando; tudo o que você precisa fazer e combinar um horário e local para a partida, reunir-se e então selecionar o cenário que você vai jogar (ver Selecionando um Cenário de Campanha), e então jogar a partida usando as regras normais. Após a partida, você realiza uma Fase de Campanha onde descobre o destino dos modelos que foram colocados Fora de Ação, ve se algum modelo ganhou novas Habilidades, explora a região onde a campanha está acontecendo e usa qualquer saque que capturou para recrutar mais modelos para seu Bando.
 
 Uma vez que você tenha jogado 11 partidas de campanha no total, não pode jogar mais até que todos os outros jogadores tenham jogado 11 partidas também. Uma vez que todos os jogadores tenham jogado 11 partidas, cada um deve jogar uma 12a partida final contra um dos outros jogadores, usando o cenário A Grande Guerra. Após todos os jogadores terem jogado 12 partidas no total, o vencedor da campanha pode ser determinado conforme descrito abaixo.
 
@@ -2107,11 +2107,11 @@ Em uma campanha, você marca Pontos de Vitória de Campanha para cada partida qu
 - O perdedor da partida marca +7 Pontos de Vitória de Campanha
 - Em um empate, ambos os jogadores marcam +10 Pontos de Vitória de Campanha
 
-Registre os Pontos de Vitória de Campanha que você marcou em sua Ficha de Warband. Ao final da campanha, o jogador com mais Pontos de Vitória de Campanha é o vencedor. Em caso de empate, todos os jogadores empatados são vencedores conjuntos.
+Registre os Pontos de Vitória de Campanha que você marcou em sua Ficha de Bando. Ao final da campanha, o jogador com mais Pontos de Vitória de Campanha é o vencedor. Em caso de empate, todos os jogadores empatados são vencedores conjuntos.
 
 ### Retardatários na Campanha
 
-Jogadores podem querer entrar em uma campanha que já está em andamento. Isso é permitido; a Warband do retardatário pode ser recrutada usando o Valor de Limiar de Warband do jogador que jogou mais partidas na campanha, e o retardatário também recebe 4 Pontos de Experiência para cada partida que o jogador no topo jogou. Esses Pontos de Experiência podem ser divididos entre modelos ELITE conforme o retardatário desejar.
+Jogadores podem querer entrar em uma campanha que já está em andamento. Isso é permitido; o Bando do retardatário pode ser recrutada usando o Valor de Limiar de Bando do jogador que jogou mais partidas na campanha, e o retardatário também recebe 4 Pontos de Experiência para cada partida que o jogador no topo jogou. Esses Pontos de Experiência podem ser divididos entre modelos ELITE conforme o retardatário desejar.
 
 ---
 
@@ -2162,15 +2162,15 @@ Role um D6:
 
 Os modelos que você usa em uma partida de campanha são chamados de Força.
 
-### Valor de Limiar de Warband e Força de Campo
+### Valor de Limiar de Bando e Força de Campo
 
-Conforme você joga a campanha, a notícia dos feitos de sua Warband no campo de batalha se espalha e atrai a atenção de seus superiores que alocam mais tropas e recursos a sua disposição.
+Conforme você joga a campanha, a notícia dos feitos de seu Bando no campo de batalha se espalha e atrai a atenção de seus superiores que alocam mais tropas e recursos a sua disposição.
 
-**Valores de Limiar:** O Valor de Limiar de sua Warband e mostrado na Tabela de Limiar de Warband abaixo, e aumenta após cada partida que você joga. O Custo total de todos os modelos que você usa para uma Força deve ser menor ou igual ao Valor de Limiar de sua Warband.
+**Valores de Limiar:** O Valor de Limiar de seu Bando e mostrado na Tabela de Limiar de Bando abaixo, e aumenta após cada partida que você joga. O Custo total de todos os modelos que você usa para uma Força deve ser menor ou igual ao Valor de Limiar de seu Bando.
 
-**Força de Campo:** A Força de Campo de sua Warband e mostrada na Tabela de Limiar de Warband abaixo. Quando você joga uma partida de campanha, o número de modelos que você inclui em sua Força não pode ser maior que sua Força de Campo.
+**Força de Campo:** A Força de Campo de seu Bando e mostrada na Tabela de Limiar de Bando abaixo. Quando você joga uma partida de campanha, o número de modelos que você inclui em sua Força não pode ser maior que sua Força de Campo.
 
-**Tabela de Limiar de Warband**
+**Tabela de Limiar de Bando**
 
 | Partida | Valor de Limiar | Força de Campo |
 |---------|-----------------|----------------|
@@ -2200,7 +2200,7 @@ Todo cenário de Trench Crusade inclui uma lista de Feitos Gloriosos que podem s
 
 ### PONTOS DE GLÓRIA ☼
 
-Cada vez que você realiza um Feito Glorioso em uma campanha, sua Warband ganha 1 ☼. Quanto mais ☼ sua Warband tiver, maior sua reputação e fama. Você pode gastar ☼ na Etapa do Intendente da Fase de Campanha para comprar Equipamento de Batalha ou modelos de sua Lista de Facção que tenham Custo em ☼ em vez de 👑. Você também pode gastar ☼ para comprar Itens de Glória para sua Warband ou recrutar Mercenários.
+Cada vez que você realiza um Feito Glorioso em uma campanha, seu Bando ganha 1 ☼. Quanto mais ☼ seu Bando tiver, maior sua reputação e fama. Você pode gastar ☼ na Etapa do Intendente da Fase de Campanha para comprar Equipamento de Batalha ou modelos de sua Lista de Facção que tenham Custo em ☼ em vez de 👑. Você também pode gastar ☼ para comprar Itens de Glória para seu Bando ou recrutar Mercenários.
 
 ---
 
@@ -2212,12 +2212,12 @@ Quando você termina uma partida de campanha, você e seu oponente devem realiza
 
 1. **Etapa de Trauma:** Verifique o que aconteceu com quaisquer modelos que foram colocados Fora de Ação durante a partida.
 2. **Etapa de Promoções e Experiência:** Promova modelos, registre Pontos de Experiência e verifique se algum modelo aprendeu novas Habilidades.
-3. **Etapa de Reforços (Opcional):** Se sua Warband sofreu perdas pesadas, você pode pedir reforços. No entanto, se fizer isso, não poderá Explorar ou visitar o Intendente.
-4. **Etapa de Exploração:** Role para ver o que sua Warband descobre na área que está ocupando.
+3. **Etapa de Reforços (Opcional):** Se seu Bando sofreu perdas pesadas, você pode pedir reforços. No entanto, se fizer isso, não poderá Explorar ou visitar o Intendente.
+4. **Etapa de Exploração:** Role para ver o que seu Bando descobre na área que está ocupando.
 5. **Etapa do Intendente:** Você pode adicionar novos recrutas, contratar Mercenários e vender, comprar e realocar Equipamento de Batalha.
-6. **Etapa de Ficha:** Atualize sua Ficha de Warband. Você está pronto para a próxima partida!
+6. **Etapa de Ficha:** Atualize sua Ficha de Bando. Você está pronto para a próxima partida!
 
-**Dissolvendo uma Warband:** Você pode dissolver sua Warband ao final de qualquer partida é começar novamente com uma completamente nova. Inicie sua nova Warband como se fosse um retardatário na campanha.
+**Dissolvendo um Bando:** Você pode dissolver seu Bando ao final de qualquer partida é começar novamente com uma completamente nova. Inicie sua novo Bando como se fosse um retardatário na campanha.
 
 ---
 
@@ -2227,7 +2227,7 @@ Nesta etapa da Fase de Campanha, você deve descobrir o que aconteceu com modelo
 
 ### Tropas
 
-Tropas são quaisquer modelos em sua Warband que não tenham a Palavra-Chave ELITE. Você deve fazer uma Rolagem de Sobrevivência para cada modelo de Tropa que foi colocado Fora de Ação rolando um D6. Em uma rolagem de 1-2, eles estão mortos ou muito gravemente feridos, e você deve removê-los de sua Ficha de Warband. Em uma rolagem de 3 ou mais, eles sobreviveram a batalha e podem continuar lutando normalmente.
+Tropas são quaisquer modelos em seu Bando que não tenham a Palavra-Chave ELITE. Você deve fazer uma Rolagem de Sobrevivência para cada modelo de Tropa que foi colocado Fora de Ação rolando um D6. Em uma rolagem de 1-2, eles estão mortos ou muito gravemente feridos, e você deve removê-los de sua Ficha de Bando. Em uma rolagem de 3 ou mais, eles sobreviveram a batalha e podem continuar lutando normalmente.
 
 ### Modelos Elite
 
@@ -2237,26 +2237,26 @@ Após rolar para quaisquer Tropas, você deve fazer uma rolagem D66 para quaisqu
 
 A menos que declarado de outra forma, cada vez que um modelo ELITE for colocado Fora de Ação, ele recebe uma Cicatriz de Batalha.
 
-**Inapto para o Serviço:** Quando um modelo receber sua terceira Cicatriz de Batalha, o efeito cumulativo de seus ferimentos o torna inapto para mais serviço de combate e ele é mandado para casa. Remova o modelo de sua Ficha de Warband. Você pode adicionar seu Equipamento de Batalha e Itens de Glória ao Arsenal em sua Ficha de Warband.
+**Inapto para o Serviço:** Quando um modelo receber sua terceira Cicatriz de Batalha, o efeito cumulativo de seus ferimentos o torna inapto para mais serviço de combate e ele é mandado para casa. Remova o modelo de sua Ficha de Bando. Você pode adicionar seu Equipamento de Batalha e Itens de Glória ao Arsenal em sua Ficha de Bando.
 
 ### TABELA DE TRAUMA
 
 | Rolagem D66 | Ferimento |
 |-------------|-----------|
-| 11 | **Morto.** O ferimento provou ser fatal. Remova o modelo é seu Equipamento de Batalha de sua Ficha de Warband. |
-| 12 | **Capturado.** O inimigo captura o modelo. Você e seu oponente podem negociar um preço de resgate em 👑 pela liberação do modelo. Se o resgate não for pago, o modelo capturado e executado. Se o resgate for pago, trate como Recuperação Total. |
+| 11 | **Morto.** O ferimento provou ser fatal. Remova o modelo é seu Equipamento de Batalha de sua Ficha de Bando. |
+| 12 | **Capturado.** O inimigo captura o modelo. Você e seu oponente podem negociar um preço de resgate em 👑 pela liberação do modelo. Se o resgate não for pago, o modelo capturado é executado. Se o resgate for pago, trate como Recuperação Total. |
 | 13 | **Dano Nervoso Severo.** Todas as Rolagens de Sucesso que você fizer para este modelo são tratadas como Rolagens de Sucesso Arriscadas. |
 | 14 | **Ferimento na Mão.** Determine aleatoriamente qual mão foi ferida. Adicione -1 DADO a rolagens para ataques feitos por este modelo com uma Arma Corpo a Corpo segurada (ou parcialmente segurada) pela mão ferida. |
-| 15 | **Perdeu um Olho.** Adicione -1 DADO a rolagens para Ataques a Distância feitos por este modelo. Se este modelo receber este ferimento uma segunda vez, ele fica cego e você deve removê-lo de sua Ficha de Warband. |
+| 15 | **Perdeu um Olho.** Adicione -1 DADO a rolagens para Ataques a Distância feitos por este modelo. Se este modelo receber este ferimento uma segunda vez, ele fica cego e você deve removê-lo de sua Ficha de Bando. |
 | 16 | **Ferimento no Peito.** Adicione +1 DADO DE FERIMENTO a Rolagens de Ferimento para ataques que tenham como alvo este modelo. |
 | 21 | **Insône.** Este modelo deve sempre ser o primeiro modelo que você posiciona em qualquer partida em que participe, e perde a Palavra-Chave INFILTRADOR se a tiver. |
 | 22 | **Ferimento na Cabeça.** Este modelo não pode mais ganhar Pontos de Experiência. Você pode atribuir Dados de Promoção a este modelo como se fosse uma Tropa. Se um de seus Dados de Promoção atribuídos rolar "6", ele recupera a capacidade de ganhar Pontos de Experiência, embora a Cicatriz de Batalha permaneça. |
 | 23 | **Choque de Combate.** Role um D6 na primeira vez que este modelo for posicionado durante uma partida. Em 1-2, adicione -1 DADO a rolagens para este modelo pelo resto da partida. |
-| 24 | **Memória Sombria.** Anote o nome da Warband da partida onde este ferimento foi recebido. Adicione -1 DADO a rolagens para Ataques Corpo a Corpo feitos por este modelo se o alvo for um modelo da Warband que você anotou. |
+| 24 | **Memória Sombria.** Anote o nome do Bando da partida onde este ferimento foi recebido. Adicione -1 DADO a rolagens para Ataques Corpo a Corpo feitos por este modelo se o alvo for um modelo do Bando que você anotou. |
 | 25 | **Paranoico.** Este modelo não pode ser posicionado dentro de 8" de um modelo amigo. |
 | 26 | **Perdeu um Braço.** Este modelo não pode usar Equipamento de Batalha que exija 2 mãos, e só pode usar uma peça de Equipamento de Batalha que exija 1 mão. |
 | 31 | **Ferimento na Perna.** Subtraia 2" da Característica de Movimento deste modelo. Além disso, adicione -1 DADO a Rolagem de Sucesso Arriscada deste modelo quando realizar uma AÇÃO de Correr. |
-| 32 | **Tratamento Caro.** Os ferimentos do modelo requerem tratamento constante. Antes de posicionar este modelo, você deve deduzir 10 👑 do Cofre de sua Warband. |
+| 32 | **Tratamento Caro.** Os ferimentos do modelo requerem tratamento constante. Antes de posicionar este modelo, você deve deduzir 10 👑 do Cofre de seu Bando. |
 | 33 | **Possuído.** Quando este modelo for Ativado, se estiver a mais de 1" de quaisquer modelos inimigos, a primeira AÇÃO que ele deve realizar é uma AÇÃO de Correr. Os primeiros 3" deste movimento devem ser em linha reta diretamente para longe de sua posição inicial. |
 | 34 | **Dano Muscular.** Este modelo não pode ter Equipamento de Batalha que tenha a Palavra-Chave PESADO. Qualquer que ele tenha quando o Ferimento for sofrido é perdido. |
 | 35 | **Ferimento Leve.** Este modelo não pode ser usado na próxima partida. |
@@ -2264,27 +2264,27 @@ A menos que declarado de outra forma, cada vez que um modelo ELITE for colocado 
 | 41-63 | **Recuperação Total.** O modelo sobreviveu a batalha sem efeitos negativos. Ele não recebe um Ferimento ou uma Cicatriz de Batalha. |
 | 64 | **Endurecido.** Este modelo ganha a Palavra-Chave NEGAR MEDO. Ele não recebe um Ferimento ou uma Cicatriz de Batalha. |
 | 65 | **Lições Amargas.** Este modelo ganha D3 Pontos de Experiência extras. Ele não recebe um Ferimento ou uma Cicatriz de Batalha. |
-| 66 | **Cicatriz Proeminente.** Anote o nome da Warband da partida onde este ferimento foi recebido. Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por este modelo se o alvo for um modelo da Warband que você anotou. Ele não recebe um Ferimento ou uma Cicatriz de Batalha. |
+| 66 | **Cicatriz Proeminente.** Anote o nome do Bando da partida onde este ferimento foi recebido. Adicione +1 DADO a rolagens para Ataques Corpo a Corpo feitos por este modelo se o alvo for um modelo do Bando que você anotou. Ele não recebe um Ferimento ou uma Cicatriz de Batalha. |
 
 ---
 
 ## Etapa de Promoções e Experiência
 
-Nesta etapa, primeiro você pode tentar Promover uma ou mais das Tropas em sua Warband ao status ELITE, e então modelos ELITE podem usar a Experiência que ganharam para aprender novas Habilidades.
+Nesta etapa, primeiro você pode tentar Promover uma ou mais das Tropas em seu Bando ao status ELITE, e então modelos ELITE podem usar a Experiência que ganharam para aprender novas Habilidades.
 
 ### PROMOÇÕES
 
-Em uma campanha, você pode Promover as Tropas em sua Warband ao status ELITE usando as seguintes regras.
+Em uma campanha, você pode Promover as Tropas em seu Bando ao status ELITE usando as seguintes regras.
 
-**Pool de Promoção:** Seu Pool de Dados de Promoção é composto por 1D6, mais 1D6 para cada Feito Glorioso realizado durante a partida por qualquer modelo de sua Warband.
+**Pool de Promoção:** Seu Pool de Dados de Promoção é composto por 1D6, mais 1D6 para cada Feito Glorioso realizado durante a partida por qualquer modelo de seu Bando.
 
-**Atribuir Dados de Promoção:** Atribua os dados do pool aos modelos de Tropa em sua Warband. Você não pode atribuir um 3o dado ao mesmo modelo até que todos os modelos de Tropa tenham pelo menos 2 dados cada.
+**Atribuir Dados de Promoção:** Atribua os dados do pool aos modelos de Tropa em seu Bando. Você não pode atribuir um 3o dado ao mesmo modelo até que todos os modelos de Tropa tenham pelo menos 2 dados cada.
 
-**Rolar Dados de Promoção:** Role os dados um de cada vez. Assim que um dos dados rolar "6", pare de rolar para aquele modelo é Promova-o. Se você rolar todos os dados sem um modelo ser Promovido, anote quantos dados você rolou seguidos sem conseguir uma Promoção. Quando o total atingir 5 dados, a próxima rolagem (a 6a) é automaticamente considerada como "6".
+**Rolar Dados de Promoção:** Role os dados um de cada vez. Assim que um dos dados rolar "6", pare de rolar para aquele modelo é Promova-o. Se você rolar todos os dados sem um modelo ser Promovido, anote quantos dados você rolou seguidos sem conseguir uma Promoção. Quando o total atingir 5 dados, a próxima rolagem (a 6a) é automaticamente considerado como "6".
 
 **Promovendo um Modelo:** Quando um modelo de Tropa recebe uma Promoção, ele imediatamente ganha a Palavra-Chave ELITE. Começa com 0 Pontos de Experiência.
 
-**Máximo de Elites:** Ignore a etapa de Promoção completamente se já houver 6 ou mais modelos com a Palavra-Chave ELITE em sua Warband.
+**Máximo de Elites:** Ignore a etapa de Promoção completamente se já houver 6 ou mais modelos com a Palavra-Chave ELITE em seu Bando.
 
 ### EXPERIÊNCIA
 
@@ -2299,8 +2299,8 @@ Para fazer uma Rolagem de Avanço para um modelo:
 1. Escolha duas das Tabelas de Habilidades para rolar.
 2. Role 2D6 para cada tabela é consulte a rolagem para ver quais Habilidades estão disponíveis para o modelo aprender.
    - Se você rolar uma Habilidade que o modelo já possui, use a próxima Habilidade mais baixa que o modelo não possui. Se o modelo tiver todas as Habilidades mais baixas, use a próxima mais alta.
-   - Se uma Habilidade de Patrono for rolada, use uma das Habilidades de Patrono do Patrono que você escolheu para sua Warband.
-3. Escolha uma das duas Habilidades para o modelo aprender e registre-a em sua Ficha de Warband.
+   - Se uma Habilidade de Patrono for rolada, use uma das Habilidades de Patrono do Patrono que você escolheu para seu Bando.
+3. Escolha uma das duas Habilidades para o modelo aprender e registre-a em sua Ficha de Bando.
 
 ### Modelos Que Não Podem Ser Promovidos
 
@@ -2372,13 +2372,13 @@ Os seguintes modelos não podem ser Promovidos ao status ELITE:
 | 2 | **Habilidade de Patrono.** |
 | 3 | **Sorte de Guerra:** Um modelo com esta Habilidade pode sofrer 1 Cicatriz de Batalha extra antes de ficar Inapto para o Serviço. |
 | 4 | **E Apenas um Arranhão:** Você pode rerolar o resultado na Tabela de Trauma para um modelo com esta Habilidade. |
-| 5 | **Ma Companhia:** Um modelo com esta Habilidade não conta para o número de modelos ELITE na sua Warband no início da etapa de Promoção. |
+| 5 | **Ma Companhia:** Um modelo com esta Habilidade não conta para o número de modelos ELITE na seu Bando no início da etapa de Promoção. |
 | 6 | **Sucateiro:** Um modelo com esta Habilidade tem a Habilidade de Exploração Dado Extra. |
-| 7 | **Perícia e Habilidade:** Quando você der esta Habilidade a um modelo, escolha 1 AÇÃO na Entrada de Warband daquele modelo, ou 1 AÇÃO Comum além de Lutar ou Atirar, e anote-a. Adicione +1 DADO a rolagens feitas como parte da AÇÃO escolhida quando realizadas por este modelo. |
-| 8 | **Exibicionista:** Adicione 1 dado ao Pool de Promoção na etapa de Promoção para cada modelo em sua Warband com esta Habilidade. |
+| 7 | **Perícia e Habilidade:** Quando você der esta Habilidade a um modelo, escolha 1 AÇÃO na Entrada de Bando daquele modelo, ou 1 AÇÃO Comum além de Lutar ou Atirar, e anote-a. Adicione +1 DADO a rolagens feitas como parte da AÇÃO escolhida quando realizadas por este modelo. |
+| 8 | **Exibicionista:** Adicione 1 dado ao Pool de Promoção na etapa de Promoção para cada modelo em seu Bando com esta Habilidade. |
 | 9 | **Amigos em Altos Postos:** Um modelo com esta Habilidade tem a Habilidade de Exploração Rerolar Dado. |
-| 10 | **Caçador de Glória:** Ao final de cada partida, sua Warband recebe 1 ☼ extra para cada modelo com esta Habilidade que esteja no campo de batalha. |
-| 11 | **Histórias de Guerra:** Ao registrar os Pontos de Experiência ganhados pelos modelos em sua Warband, você pode dar a cada modelo com a Palavra-Chave ELITE que não tenha também esta Habilidade +1 Ponto de Experiência extra. Uma Warband só pode ter um modelo com esta Habilidade. |
+| 10 | **Caçador de Glória:** Ao final de cada partida, seu Bando recebe 1 ☼ extra para cada modelo com esta Habilidade que esteja no campo de batalha. |
+| 11 | **Histórias de Guerra:** Ao registrar os Pontos de Experiência ganhados pelos modelos em seu Bando, você pode dar a cada modelo com a Palavra-Chave ELITE que não tenha também esta Habilidade +1 Ponto de Experiência extra. Umo Bando só pode ter um modelo com esta Habilidade. |
 | 12 | **Habilidade de Patrono.** |
 
 ### Potencial Limitado
@@ -2402,8 +2402,8 @@ Na Etapa de Reforços, você tem a opção de Pedir Reforços se sentir que as p
 
 1. Descarte qualquer Equipamento de Batalha que tenha em seu Arsenal.
 2. Reduza o número de 👑 em seu Cofre a zero.
-3. Calcule o Custo total de todos os modelos em sua Warband.
-4. Subtraia o Custo Total de sua Warband do Valor de Limiar da próxima partida. A diferença é o número de 👑 que você pode gastar para recrutar novos modelos.
+3. Calcule o Custo total de todos os modelos em seu Bando.
+4. Subtraia o Custo Total de seu Bando do Valor de Limiar da próxima partida. A diferença é o número de 👑 que você pode gastar para recrutar novos modelos.
 5. Quaisquer 👑 não gastos são perdidos.
 6. Se você Pedir Reforços, deve renunciar a Etapa de Exploração e Etapa do Intendente completamente.
 
@@ -2446,29 +2446,29 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 
 | Rolagem | Local |
 |---------|-------|
-| 4 | **Reserva de Aguardente:** Você encontra um estoque escondido de álcool destilado forte. Escolha: Distribuir (somente Nova Antioquia e Peregrinos, +2 DADOS em Testes de Moral na próxima partida); Destruir (somente Nova Antioquia, Peregrinos e Sultanato, até dois modelos ELITE ganham +1 XP cada); Vender (qualquer Warband, adicione 30 👑 ao seu Cofre). |
+| 4 | **Reserva de Aguardente:** Você encontra um estoque escondido de álcool destilado forte. Escolha: Distribuir (somente Nova Antioquia e Peregrinos, +2 DADOS em Testes de Moral na próxima partida); Destruir (somente Nova Antioquia, Peregrinos e Sultanato, até dois modelos ELITE ganham +1 XP cada); Vender (qualquer Bando, adicione 30 👑 ao seu Cofre). |
 | 5 | **Depósito de Armas Pesadas:** Escolha: Excedente (escolha 1 peça de Equipamento de Batalha com a Palavra-Chave PESADO das Tabelas de Armaria e adicione ao Arsenal); Especializar (escolha 1 Item de Glória que custe até 5 ☼ e adicione ao Arsenal). |
-| 6 | **Santuário de Trincheira:** Escolha: Padrão (adicione uma Bandeira de Tropa ao Arsenal); Santuário (adicione um Santuário de Campo ao Arsenal); Retorno (sua Warband ganha +2 ☼). |
+| 6 | **Santuário de Trincheira:** Escolha: Padrão (adicione uma Bandeira de Tropa ao Arsenal); Santuário (adicione um Santuário de Campo ao Arsenal); Retorno (seu Bando ganha +2 ☼). |
 | 8 | **Casa em Ruínas:** Escolha: Vasculhar (escolha peças de Equipamento que valham até 30 👑 no total e adicione ao Arsenal); Relíquia (escolha 1 Item de Glória que valha até 7 ☼ e adicione ao Arsenal). |
-| 9 | **Sobrevivente:** Você encontra um soldado cambaleando na Terra de Ninguém. Adicione o modelo listado para sua Facção a sua Warband sem Equipamento de Batalha. |
+| 9 | **Sobrevivente:** Você encontra um soldado cambaleando na Terra de Ninguém. Adicione o modelo listado para sua Facção a seu Bando sem Equipamento de Batalha. |
 | 10 | **Soldado Caído:** Escolha 1 Arma a Distância das Tabelas de Armaria que valha até 15 👑, e adicione ao Arsenal junto com um Capacete de Combate é Armadura Padrão. Role um D6: em 4+, adicione um Kit Médico, Kit de Montanhismo ou uma Pá. |
-| 11 | **Comerciante de Trincheira:** Escolha: Relatorio (sua Warband ganha 2 ☼); Comerciar (de agora em diante, pode comprar Itens de Glória que custem 5 ☼ ou menos). |
-| 14 | **Bolsa de Mapas e Documentos:** Sua Warband ganha a Habilidade de Exploração Rerolar. |
+| 11 | **Comerciante de Trincheira:** Escolha: Relatorio (seu Bando ganha 2 ☼); Comerciar (de agora em diante, pode comprar Itens de Glória que custem 5 ☼ ou menos). |
+| 14 | **Bolsa de Mapas e Documentos:** Suo Bando ganha a Habilidade de Exploração Rerolar. |
 | 16 | **Toca do Franco-Atirador:** Adicione o Equipamento de Batalha listado para sua Facção ao Arsenal. |
-| 18 | **Cavaleiro Caído:** Escolha: Saquear (adicione Armadura Reforçada, Escudo de Trincheira, Capacete de Combate é Espada ou Arma de Haste ao Arsenal); Memorial (sua Warband ganha 2 ☼). |
-| 20 | **Cofre de Warband:** Escolha: Tesouro (escolha Equipamento de Batalha que valha até 120 👑 no total); Panoplia (escolha Itens de Glória que valham até 9 ☼ no total, com desconto de 1 ☼ em Armas). |
+| 18 | **Cavaleiro Caído:** Escolha: Saquear (adicione Armadura Reforçada, Escudo de Trincheira, Capacete de Combate é Espada ou Arma de Haste ao Arsenal); Memorial (seu Bando ganha 2 ☼). |
+| 20 | **Cofre de Bando:** Escolha: Tesouro (escolha Equipamento de Batalha que valha até 120 👑 no total); Panoplia (escolha Itens de Glória que valham até 9 ☼ no total, com desconto de 1 ☼ em Armas). |
 
 ### TABELA DE EXPLORAÇÃO DE LOCAIS RAROS
 
 | Rolagem | Local |
 |---------|-------|
 | 5 | **Instrumento Angélico:** Adicione um Instrumento Angélico ao Arsenal. Funciona como um Instrumento Musical, mas com alcance de 8" em vez de 4". |
-| 9 | **Posto de Radio Profético Abandonado:** Sua Warband ganha a Habilidade de Exploração Dado Extra. |
+| 9 | **Posto de Radio Profético Abandonado:** Suo Bando ganha a Habilidade de Exploração Dado Extra. |
 | 11 | **Pote de Mana:** Adicione 10 👑 a quantidade de saque que você recebe a cada Etapa de Exploração. |
 | 12 | **Oficina de Alquimista Saqueada:** Adicione Fluidos Curativos ao Arsenal. Uma vez, remova 1 Cicatriz de Batalha de um modelo. |
 | 15 | **Mercado Negro:** De agora em diante, pode comprar Itens de Glória que custem 8 ☼ ou menos. |
-| 17 | **Livro de Golens:** Adicione um Homunculus Takwin a sua Warband com Fórmula de Mãos Humanas e Formulas Alquimicas até 50 👑 de graça. |
-| 19 | **Igreja/Mesquita/Sinagoga em Ruínas:** Escolha: Relatorio (sua Warband ganha +4 ☼); Guardar (escolha 1 Item de Glória que valha até 10 ☼). |
+| 17 | **Livro de Golens:** Adicione um Homunculus Takwin a seu Bando com Fórmula de Mãos Humanas e Formulas Alquimicas até 50 👑 de graça. |
+| 19 | **Igreja/Mesquita/Sinagoga em Ruínas:** Escolha: Relatorio (seu Bando ganha +4 ☼); Guardar (escolha 1 Item de Glória que valha até 10 ☼). |
 | 21 | **Depósito de Drogas e Material Erotico:** Escolha: Entregar-se (+1 DADO em Testes de Moral pelo resto da campanha); Vender (ganhe 120 👑); Confiscar (ganhe +4 ☼). Peregrinos das Trincheiras devem selecionar Confiscar. |
 | 23 | **Relicário do Santo:** Adicione uma Relíquia Sagrada ao Arsenal. Equipamento ELITE only. O modelo ganha RESISTENTE mas perde INFILTRADOR. |
 | 25 | **Cativo de Alto Escalão:** Escolha: Resgate (ganhe 100 👑); Executar (ganhe +4 ☼); Aprisionar (escolha 1 Item de Glória até 8 ☼); Indenturar (ganhe Habilidade de Exploração Definir Dado). |
@@ -2480,7 +2480,7 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 |---------|-------|
 | 6 | **Campo de Batalha de Cadáveres:** Escolha até 2 peças de Equipamento de Batalha que valham até 100 👑 no total. |
 | 8 | **Biblioteca Esotérica:** Escolha: Queimar (somente Fiéis, ganhe 3+D3 ☼); Liberar Praga (somente Graal Negro); Vender (ganhe 6D6x10 👑); Estudar (somente Corte ou Legiões Heréticas). |
-| 10 | **Passagens Escondidas:** Sua Warband ganha a Habilidade de Exploração Duplicar. |
+| 10 | **Passagens Escondidas:** Suo Bando ganha a Habilidade de Exploração Duplicar. |
 | 12 | **Livro Alquímico Jabireano:** Escolha: Guardar (pode comprar Escudos de Fogo); Vender (ganhe 150 👑 ou 5 ☼); Estudar (somente Casa da Sabedoria, Formulas custam 5 👑 a menos). |
 | 14 | **Contato na Rede Negra:** De agora em diante, pode comprar Itens de Glória que custem 12 ☼ ou menos. |
 | 16 | **Tesouro dos Santos:** Você marca D3 Pontos de Vitória de Campanha e pode adicionar 1 Item de Glória ao Arsenal de graça. |
@@ -2495,22 +2495,22 @@ Nesta etapa, você tem a chance de explorar o território sobre o qual a campanh
 
 ## Etapa do Intendente
 
-Na Etapa do Intendente você pode recrutar novos modelos, comprar e vender Equipamento de Batalha e Itens de Glória, e alocar Equipamento de Batalha e Itens de Glória aos modelos em sua Warband.
+Na Etapa do Intendente você pode recrutar novos modelos, comprar e vender Equipamento de Batalha e Itens de Glória, e alocar Equipamento de Batalha e Itens de Glória aos modelos em seu Bando.
 
 - **Aposentar Modelos Feridos:** Você pode aposentar qualquer modelo com 2 Cicatrizes de Batalha.
-- **Contratar Novos Recrutas:** Recrute modelos da mesma forma que ao criar sua Warband.
+- **Contratar Novos Recrutas:** Recrute modelos da mesma forma que ao criar seu Bando.
 - **Comprar Equipamento de Batalha:** Gaste 👑 ou ☼ para comprar novo Equipamento de Batalha das Tabelas de Armaria.
 - **Vender Equipamento de Batalha:** Você recebe metade do Custo do item vendido (arredondando para cima).
 - **Comprar Itens de Glória:** Gaste ☼ para comprar Itens de Glória (ver Tabelas de Itens de Glória).
 - **Alocar Equipamento de Batalha e Itens de Glória:** Equipamento do Arsenal pode ser alocado a qualquer modelo que tenha permissão para tê-lo.
 - **Criar Novas Duplas de Fogo:** Crie novas Duplas de Fogo se houver modelos elegíveis.
-- **Etapa de Ficha:** Atualize sua Ficha de Warband.
+- **Etapa de Ficha:** Atualize sua Ficha de Bando.
 
 ---
 
 ## Tabelas de Itens de Glória
 
-Itens de Glória são peças de Equipamento de Batalha que só podem ser compradas durante uma campanha e se a Warband tiver feito uma descoberta de uma Tabela de Exploração que permita.
+Itens de Glória são peças de Equipamento de Batalha que só podem ser compradas durante uma campanha e se o Bando tiver feito uma descoberta de uma Tabela de Exploração que permita.
 
 ### Principado de Nova Antioquia
 
@@ -2611,7 +2611,7 @@ Esta seção do livro de regras inclui uma seleção de cenários que você pode
 
 ## Preparando-se Para Jogar
 
-Para jogar uma partida de Trench Crusade, você precisará recrutar uma Warband (ver Criando uma Warband em Warbands of Trench Crusade), encontrar um oponente e então decidir qual cenário você e seu oponente querem jogar. Se estiver jogando uma partida de campanha, o cenário será determinado usando as regras (ver Selecionando um Cenário de Campanha). Se estiver jogando uma partida avulsa, você pode escolher qual cenário quer jogar; se não conseguirem concordar, façam um desempate e o vencedor pode escolher o cenário a ser usado.
+Para jogar uma partida de Trench Crusade, você precisará recrutar um Bando (ver Criando um Bando em Warbands of Trench Crusade), encontrar um oponente e então decidir qual cenário você e seu oponente querem jogar. Se estiver jogando uma partida de campanha, o cenário será determinado usando as regras (ver Selecionando um Cenário de Campanha). Se estiver jogando uma partida avulsa, você pode escolher qual cenário quer jogar; se não conseguirem concordar, façam um desempate e o vencedor pode escolher o cenário a ser usado.
 
 ### Lista de Cenários
 
@@ -2644,9 +2644,9 @@ O mapa para um cenário mostra as Zonas de Posicionamento para cada lado e onde 
 
 ### FORÇAS
 
-Cenários são disputados com uma seleção de modelos de sua Warband chamada Força. A primeira coisa que você deve fazer para jogar uma partida é escolher os modelos de sua Warband que comporão sua Força. Em uma partida avulsa, você geralmente poderá usar todos os modelos em sua Warband. No entanto, se estiver jogando uma partida de campanha, sua Força deve estar em conformidade com o Valor de Limiar e Força de Campo de sua Warband (ver Tabela de Limiar de Warband).
+Cenários são disputados com uma seleção de modelos de seu Bando chamada Força. A primeira coisa que você deve fazer para jogar uma partida é escolher os modelos de seu Bando que comporão sua Força. Em uma partida avulsa, você geralmente poderá usar todos os modelos em seu Bando. No entanto, se estiver jogando uma partida de campanha, sua Força deve estar em conformidade com o Valor de Limiar e Força de Campo de seu Bando (ver Tabela de Limiar de Bando).
 
-**Partidas Avulsas:** As regras de Trench Crusade são escritas primariamente para uso em campanhas (ver Regras de Campanha). No entanto, também podem ser usadas para partidas avulsas que não fazem parte de uma campanha. Em partidas avulsas, você precisará concordar em quantos 👑 podem ser gastos em suas Warbands, e se você permitira que as Warbands usem ☼ para comprar modelos, Mercenários ou Equipamento de Batalha. Se você é novo em Trench Crusade, recomendamos usar uma Warband inicial de 700 👑 para partidas avulsas. Uma vez que tenha adquirido alguma experiência, descobrimos que 800 👑 e 6 ☼ é um tamanho muito bom para partidas avulsas.
+**Partidas Avulsas:** As regras de Trench Crusade são escritas primariamente para uso em campanhas (ver Regras de Campanha). No entanto, também podem ser usadas para partidas avulsas que não fazem parte de uma campanha. Em partidas avulsas, você precisará concordar em quantos 👑 podem ser gastos em suas Bandos, e se você permitira que as Bandos usem ☼ para comprar modelos, Mercenários ou Equipamento de Batalha. Se você é novo em Trench Crusade, recomendamos usar um Bando inicial de 700 👑 para partidas avulsas. Uma vez que tenha adquirido alguma experiência, descobrimos que 800 👑 e 6 ☼ é um tamanho muito bom para partidas avulsas.
 
 ### O CAMPO DE BATALHA
 
@@ -2654,7 +2654,7 @@ A próxima coisa que você precisa fazer e montar o campo de batalha. A maioria 
 
 **Arquétipos de Campo de Batalha:** As instruções explicarão qual arquetipo de campo de batalha é usado para o cenário (ver Arquétipos de Campo de Batalha).
 
-**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador e montado em um local específico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador e montado no "Ponto Médio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
+**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador é montado em um local específico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador é montado no "Ponto Médio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
 
 **Terreno Bloqueador:** Você não tem permissão para montar terreno de forma que tornaria impossível para qualquer modelo usado na partida sair de sua Zona de Posicionamento ou alcançar um local onde um Marcador deve ser colocado.
 
@@ -2686,7 +2686,7 @@ Quando a partida terminar, siga as instruções para determinar quem venceu.
 
 ### FEITOS GLORIOSOS
 
-Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados, concedem Pontos de Vitória. Cada Feito Glorioso descreve uma condição; os Feitos Gloriosos são completados assim que a condição e cumprida pela primeira vez durante uma partida. A menos que declarado de outra forma, cada Feito Glorioso só pode ser completado uma vez, e quem completar o Feito primeiro recebe a glória! Se ambos os jogadores completarem o mesmo Feito Glorioso ao mesmo tempo, façam um desempate para determinar quem o completou primeiro.
+Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados, concedem Pontos de Vitória. Cada Feito Glorioso descreve uma condição; os Feitos Gloriosos são completados assim que a condição é cumprida pela primeira vez durante uma partida. A menos que declarado de outra forma, cada Feito Glorioso só pode ser completado uma vez, e quem completar o Feito primeiro recebe a glória! Se ambos os jogadores completarem o mesmo Feito Glorioso ao mesmo tempo, façam um desempate para determinar quem o completou primeiro.
 
 **Pontos de Glória:** Se estiver jogando uma partida de campanha, realizar um Feito Glorioso concede: 1 ☼, Pontos de Experiência para modelos ELITE, e 1D6 para seu Pool de Promoção.
 
@@ -2706,7 +2706,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Duração:** 4 Turnos.
 
-**Condições de Vitória:** Um jogador vence imediatamente se não houver modelos inimigos no campo de batalha ou se a Warband adversária fugir. Caso contrário, o jogador com mais Pontos de Vitória vence.
+**Condições de Vitória:** Um jogador vence imediatamente se não houver modelos inimigos no campo de batalha ou se o Bando adversária fugir. Caso contrário, o jogador com mais Pontos de Vitória vence.
 
 **Pontos de Vitória:**
 - Ao final de cada Turno, cada jogador marca 2 PVs para cada Objetivo que controla.
@@ -2715,7 +2715,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Feitos Gloriosos:**
 - **Sangria:** Um ataque feito por um modelo amigo resulta no sexto MARCADOR DE SANGUE sendo colocado ao lado de um modelo inimigo.
 - **Derrube-os:** Um modelo amigo faz um modelo inimigo Cair de uma altura de pelo menos 3".
-- **Mantenha a Posição:** Uma Warband é a primeira a passar em um Teste de Moral nesta partida.
+- **Mantenha a Posição:** Umo Bando é a primeira a passar em um Teste de Moral nesta partida.
 - **Senhor da Guerra:** Um modelo amigo coloca dois modelos inimigos Fora de Ação com Ataques Corpo a Corpo em um único Turno.
 - **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Abatido coloca um modelo inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Um modelo amigo coloca um modelo ELITE inimigo Fora de Ação com um Ataque a Distância que tenha os modificadores de Longo Alcance e Cobertura.
@@ -2727,7 +2727,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 *Cace os líderes inimigos enquanto protege os seus.*
 
-**Forças:** Ambos os jogadores devem incluir o maior número possível de modelos ELITE de suas Warbands.
+**Forças:** Ambos os jogadores devem incluir o maior número possível de modelos ELITE de suas Bandos.
 
 **Campo de Batalha:** Arquetipo Terra de Ninguém. Inclui 4 Marcadores de Objetivo e 4 Marcadores de Obras de Defesa (2 Baterias de Canhão "G" e 2 Posições de Metralhadora "M").
 
@@ -2794,7 +2794,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 *Assalte as trincheiras para ganhar glória ou monte uma defesa contra o ataque inimigo.*
 
-**Forças:** Antes de montar, decidam quem e atacante e defensor. O jogador com mais modelos é o atacante. O defensor deve gastar apenas metade dos 👑 em sua Warband.
+**Forças:** Antes de montar, decidam quem e atacante e defensor. O jogador com mais modelos é o atacante. O defensor deve gastar apenas metade dos 👑 em seu Bando.
 
 **Campo de Batalha:** Arquetipo Terra de Ninguém. Não monte terreno em nenhuma Zona de Posicionamento.
 
@@ -2812,16 +2812,16 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Feitos Gloriosos:**
 - **Boa Caça:** Modelo amigo coloca inimigo Fora de Ação com Ataque a Distância em Longo Alcance.
 - **Tiro na Cabeça:** Modelo que recuou coloca inimigo do qual recuou Fora de Ação.
-- **Mantenha a Posição:** Primeira Warband a passar Teste de Moral.
+- **Mantenha a Posição:** Primeiro Bando a passar Teste de Moral.
 - **Para as Trincheiras!:** Modelo amigo carrega inimigo em seção de trincheira e coloca Fora de Ação com Ataque Corpo a Corpo.
 - **Sobreviver para Contar:** Modelo amigo sobrevive a 2 Rolagens de Ferimento por explosoes de minas.
-- **Vitória ou Morte:** Warband vence a partida (somente campanha).
+- **Vitória ou Morte:** Bando vence a partida (somente campanha).
 
 ---
 
 # V. Trem Blindado
 
-*Um trem blindado descarrilado, carregado de saque e munição, está sendo disputado pelas duas warbands.*
+*Um trem blindado descarrilado, carregado de saque e munição, está sendo disputado pelas duas bandos.*
 
 **Forças:** Em campanha, ambos os jogadores tem Força de Campo de 15 modelos.
 
@@ -2902,11 +2902,11 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Feitos Gloriosos:**
 - **Invasão Ousada (Atacante):** Modelo amigo destrói um Depósito.
-- **Mantenha a Posição:** Primeira Warband a passar Teste de Moral.
+- **Mantenha a Posição:** Primeiro Bando a passar Teste de Moral.
 - **Devastação (Atacante):** Modelo amigo destrói um segundo Depósito.
 - **Salve os Suprimentos! (Defensor):** 4+ Depósitos não destruídos ao final.
 - **Detenha-os! (Defensor):** Modelo amigo coloca inimigo Fora de Ação na Zona de Posicionamento inimiga.
-- **Vitória ou Morte:** Warband vence a partida (somente campanha).
+- **Vitória ou Morte:** Bando vence a partida (somente campanha).
 
 ---
 
@@ -2973,7 +2973,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 - **Ceifador:** Modelo amigo coloca três inimigos Fora de Ação.
 - **Arriscar Tudo:** Modelo amigo faz duas Rolagens de Sucesso Arriscadas na mesma Ativação, ambas Sucesso ou Sucesso Crítico.
 - **O Verdadeiro Matador:** Modelo amigo coloca inimigo em Terreno Perigoso ou Difícil Fora de Ação.
-- **Invasor de Trincheiras:** Warband captura seção de trincheira de pelo menos 6" dentro de 8" da Zona inimiga.
+- **Invasor de Trincheiras:** Bando captura seção de trincheira de pelo menos 6" dentro de 8" da Zona inimiga.
 
 ---
 
@@ -3002,7 +3002,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 - **Visão Ardente:** Modelo amigo faz Nuvem de Gás a mais de 14" explodir e coloca inimigos Fora de Ação.
 - **Combustivel:** Explosão de Nuvem de Gás coloca 2+ inimigos Fora de Ação.
 - **Respiração Profunda:** Modelo amigo faz inimigo ser colocado Fora de Ação ao movê-lo para dentro de 6" de Nuvem de Gás.
-- **Pulmões de Ferro:** Warband controla Bunker dentro de 6" de Nuvem de Gás ao final de 2 Turnos consecutivos.
+- **Pulmões de Ferro:** Bando controla Bunker dentro de 6" de Nuvem de Gás ao final de 2 Turnos consecutivos.
 - **Furia Venenosa:** Modelo amigo dentro de 6" de Nuvem de Gás coloca inimigo Fora de Ação com Ataque Corpo a Corpo.
 
 ---
@@ -3032,7 +3032,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação é a partida termina
 - **De Volta a Lama:** Modelo amigo faz inimigo em Objetivo Cair, resultando em Fora de Ação.
 - **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
 - **Abaixo com Você:** Modelo amigo em Objetivo usa Ataque a Distância para colocar inimigo em Objetivo diferente é mais alto Fora de Ação.
-- **Vitória ou Morte:** Warband vence a partida (somente campanha).
+- **Vitória ou Morte:** Bando vence a partida (somente campanha).
 - **Rei da Colina:** Modelo esteve em todos os cinco Objetivos.
 
 ---

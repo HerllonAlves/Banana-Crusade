@@ -9,22 +9,22 @@ Modelos geralmente carregam Equipamento de Batalha que os ajuda a lutar, os prot
 Cada peça de Equipamento de Batalha tem uma Descrição de Equipamento de Batalha que contém as seguintes informações:
 
 - **Nome:** O nome da peça de Equipamento de Batalha.
-- **Descrição:** Uma descrição do Equipamento de Batalha e como e usado.
+- **Descrição:** Uma descrição do Equipamento de Batalha e como é usado.
 - **Perfil de Equipamento de Batalha:** Um Perfil de Equipamento de Batalha inclui o nome do Equipamento de Batalha e as seguintes informações:
-  - **Tipo:** Para que o Equipamento de Batalha e usado:
+  - **Tipo:** Para que o Equipamento de Batalha é usado:
     - *1 Mão:* Uma Arma de 1 Mão.
     - *2 Mãos:* Uma Arma de 2 Mãos.
     - *Granada:* Granadas podem ser arremessadas contra o inimigo.
     - *Armadura:* Armadura que protegerá o modelo de danos.
-    - *Escudo:* Um Escudo também e usado para proteger o modelo de danos.
+    - *Escudo:* Um Escudo também é usado para proteger o modelo de danos.
     - *Equipamento:* Uma peça de Equipamento de Batalha diferente das listadas acima que pode ser carregada pelo modelo.
     - *Especial:* Uma peça de Equipamento de Batalha que é usada de forma que não se encaixa perfeitamente em nenhuma outra categoria.
   - **Alcance:** Indica a distância na qual o Equipamento de Batalha pode ser usado para fazer um ataque.
-    - *Armas a Distância:* Se o alcance e um valor em polegadas (ex: 12"), o Equipamento de Batalha e uma Arma a Distância e pode ser usado para fazer Ataques a Distância.
-    - *Armas Corpo a Corpo:* Se o alcance está listado como "Corpo a Corpo", então a Arma e uma Arma Corpo a Corpo e pode ser usada para fazer Ataques Corpo a Corpo contra alvos dentro de 1" dela.
-    - *Duplo propósito:* Se o alcance e um valor em polegadas seguido de Corpo a Corpo (ex: 12"/Corpo a Corpo), então o Equipamento de Batalha pode ser usado como Arma a Distância e como Arma Corpo a Corpo.
+    - *Armas a Distância:* Se o alcance é um valor em polegadas (ex: 12"), o Equipamento de Batalha e uma Arma a Distância e pode ser usado para fazer Ataques a Distância.
+    - *Armas Corpo a Corpo:* Se o alcance está listado como "Corpo a Corpo", então a Arma é uma Arma Corpo a Corpo e pode ser usada para fazer Ataques Corpo a Corpo contra alvos dentro de 1" dela.
+    - *Duplo propósito:* Se o alcance é um valor em polegadas seguido de Corpo a Corpo (ex: 12"/Corpo a Corpo), então o Equipamento de Batalha pode ser usado como Arma a Distância e como Arma Corpo a Corpo.
     - *Outro:* Se o alcance está listado como "-", o Equipamento de Batalha não pode ser usado para fazer um ataque.
-  - **Palavras-Chave:** Quaisquer Palavras-Chave que se apliquem a peça de Equipamento de Batalha.
+  - **Palavras-Chave:** Quaisquer Palavras-Chave que se apliquem à peça de Equipamento de Batalha.
     - *Palavras-Chave de Arma:* Palavras-Chave para Armas de 1 Mão ou 2 Mãos e Granadas se aplicam a ataques feitos pelo modelo que possui a arma (ignore-as em todos os outros momentos).
     - *Palavras-Chave de Armadura e Escudo:* Palavras-Chave para Armadura e Escudos se aplicam a Rolagens de Ferimento para o modelo que possui a Armadura e/ou Escudo (ignore-as em todos os outros momentos).
     - *Outras Palavras-Chave de Equipamento de Batalha:* Palavras-Chave para outro Equipamento de Batalha são adicionadas as Palavras-Chave encontradas no Perfil do modelo. Elas se aplicam o tempo todo, a menos que declarado especificamente de outra forma.
@@ -78,7 +78,7 @@ Armas a Distância podem ser usadas para realizar um Ataque a Distância (ver At
 
 ### Rifle Antimaterial
 
-Enormes rifles longos projetados para eliminar alvos pesadamente blindados, veículos e posições fortificadas. Com a poderosa armadura disponível para os exércitos da Grande Guerra, essas armas aterrorizantes são muito procuradas. Um ponto negativo e seu enorme peso e recuo terrificante, e portanto são mais frequentemente usados por Comunicantes ou Ungidos que possuem a força sobrenatural para empunhar tais armas.
+Enormes rifles longos projetados para eliminar alvos pesadamente blindados, veículos e posições fortificadas. Com a poderosa armadura disponível para os exércitos da Grande Guerra, essas armas aterrorizantes são muito procuradas. Um ponto negativo é seu enorme peso e recuo terrificante, e portanto são mais frequentemente usados por Comunicantes ou Ungidos que possuem a força sobrenatural para empunhar tais armas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -100,11 +100,11 @@ Uma maravilha da engenharia moderna, apenas alguns protótipos existem. Possui a
 |------|---------|----------------|
 | 2 Mãos | 24" | ASSALTO, AUTOMÁTICO 2 |
 
-*Fogo Concentrado:* Quando esta Arma e usada para fazer 2 Ataques a Distância, o mesmo modelo inimigo deve ser o alvo de ambos os ataques.
+*Fogo Concentrado:* Quando esta Arma é usada para fazer 2 Ataques a Distância, o mesmo modelo inimigo deve ser o alvo de ambos os ataques.
 
 ### Espingarda Automática
 
-Esta espingarda e equipada com um carregador automático, uma invenção recente do corpo de engenharia prussiano de Konigsberg. E ideal para combate em espaços fechados graças a sua alta cadência de fogo e precisão. A tecnologia não foi aperfeiçoada, no entanto, e às vezes causa falhas de alimentacao e travamentos.
+Esta espingarda é equipada com um carregador automático, uma invenção recente do corpo de engenharia prussiano de Konigsberg. E ideal para combate em espaços fechados graças a sua alta cadência de fogo e precisão. A tecnologia não foi aperfeiçoada, no entanto, e às vezes causa falhas de alimentacao e travamentos.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -128,7 +128,7 @@ O cavalo de batalha da Grande Guerra. Robusto, altamente confiável e razoavelme
 
 ### Lança-Chamas
 
-Um lança-chamas e uma Arma aterrorizante capaz de projetar grandes jatos de fogo e líquidos inflamáveis a distância. E ideal para limpar bunkers, trincheiras e outras fortificações, matando da forma mais horrífica. Consequentemente, e muito favorecido pelas forças Heréticas.
+Um lança-chamas é uma Arma aterrorizante capaz de projetar grandes jatos de fogo e líquidos inflamáveis a distância. E ideal para limpar bunkers, trincheiras e outras fortificações, matando da forma mais horrífica. Consequentemente, e muito favorecido pelas forças Heréticas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -170,7 +170,7 @@ Metralhadoras são armas de fogo totalmente automáticas letais, capazes de ceif
 
 ### Mosquete
 
-Uma arma primitiva de uma era passada, o mosquete e um rifle de cano liso que dispara balas de chumbo. Ainda e amplamente usado devido a sua construção simples e baixo preço.
+Uma arma primitiva de uma era passada, o mosquete é um rifle de cano liso que dispara balas de chumbo. Ainda é amplamente usado devido a sua construção simples e baixo preço.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -212,7 +212,7 @@ Uma arma lateral sofisticada feita de orichalcum ou outros metais sagrados, ou d
 
 ### Rifle de Precisão
 
-Um rifle de precisão e um rifle de alta precisão e longo alcance, amplamente usado nas trincheiras para eliminar alvos de alto valor como oficiais, sapadores e equipes de artilharia. Caros e raros, são comumente dados aos melhores atiradores e franco-atiradores da warband.
+Um rifle de precisão e um rifle de alta precisão e longo alcance, amplamente usado nas trincheiras para eliminar alvos de alto valor como oficiais, sapadores e equipes de artilharia. Caros e raros, são comumente dados aos melhores atiradores e franco-atiradores do bando.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -222,7 +222,7 @@ Um rifle de precisão e um rifle de alta precisão e longo alcance, amplamente u
 
 ### Submetralhadora
 
-A submetralhadora (ou SMG) e uma arma de fogo totalmente automática, trocando menor poder de penetração e alcance por uma cadência de fogo muito maior. Ideal para confrontos de curto alcance, e muito procurada por warbands apesar de sua escassez e alto custo.
+A submetralhadora (ou SMG) é uma arma de fogo totalmente automática, trocando menor poder de penetração e alcance por uma cadência de fogo muito maior. Ideal para confrontos de curto alcance, é muito procurada por bandos apesar de sua escassez e alto custo.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -262,7 +262,7 @@ Os chicotes de metal da Igreja são supremamente bons tanto em incutir disciplin
 |------|---------|----------------|
 | 1 Mão | Corpo a Corpo | +1 DADO |
 
-*Desajeitado:* A Palavra-Chave +1 DADO não se aplica quando esta Arma e usada como Arma Secundária.
+*Desajeitado:* A Palavra-Chave +1 DADO não se aplica quando esta Arma é usada como Arma Secundária.
 
 ### Grande Martelo/Malho
 
@@ -308,7 +308,7 @@ Devido as tradicoes marciais de muitas nacoes orgulhosas e aos avanços na tecno
 
 ### Clava de Trincheira
 
-Clavas de trincheira são uma das armas mais comuns da Grande Guerra, pois o combate corpo a corpo e frequente e brutal. Geralmente feitas de madeira com ponta de metal de ferro, chumbo ou aço, clavas de trincheira frequentemente apresentam espigões e cravos. A maioria dos designs tem alguma forma de cordão ou tira de couro na ponta para enrolar no pulso do usuário.
+Clavas de trincheira são uma das armas mais comuns da Grande Guerra, pois o combate corpo a corpo é frequente e brutal. Geralmente feitas de madeira com ponta de metal de ferro, chumbo ou aço, clavas de trincheira frequentemente apresentam espigões e cravos. A maioria dos designs tem alguma forma de cordão ou tira de couro na ponta para enrolar no pulso do usuário.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -392,11 +392,11 @@ Escudos usados na guerra de trincheiras são feitos de aço reforcado com oricha
 
 ## Armadura
 
-Palavras-Chave para Armadura só se aplicam a Rolagens de Ferimento para o modelo que está vestindo a Armadura (ignore-as em todos os outros momentos). Às vezes o MODIFICADOR DE FERIMENTO para Armadura ou um Escudo está listado na Tabela de Modificadores de Ferimento nas Regras Centrais e e repetido por completude no Perfil da Armadura ou Escudo também. Quando este for o caso, tenha cuidado para não aplicar o modificador mais de uma vez.
+Palavras-Chave para Armadura só se aplicam a Rolagens de Ferimento para o modelo que está vestindo a Armadura (ignore-as em todos os outros momentos). Às vezes o MODIFICADOR DE FERIMENTO para Armadura ou um Escudo está listado na Tabela de Modificadores de Ferimento nas Regras Centrais e é repetido por completude no Perfil da Armadura ou Escudo também. Quando este for o caso, tenha cuidado para não aplicar o modificador mais de uma vez.
 
 ### Armadura Reforçada
 
-Armadura reforçada e um traje feito sob medida individualmente para as tropas mais importantes e de elite. Cada um e ricamente decorado e frequentemente carrega o emblema pessoal do guerreiro que o veste.
+Armadura reforçada é um traje feito sob medida individualmente para as tropas mais importantes e de elite. Cada um é ricamente decorado e frequentemente carrega o emblema pessoal do guerreiro que o veste.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -404,7 +404,7 @@ Armadura reforçada e um traje feito sob medida individualmente para as tropas m
 
 ### Armadura Padrão
 
-Com os avanços em metalurgia e tecnologia, tanto exércitos Fieis quanto Heréticos estão bem equipados com armaduras de liga que podem resistir ao impacto de uma bala ou desviar a mais afiada das lâminas. Armadura padrão e geralmente produzida em massa, mas altamente eficaz mesmo contra armas de alto calibre.
+Com os avanços em metalurgia e tecnologia, tanto exércitos Fieis quanto Heréticos estão bem equipados com armaduras de liga que podem resistir ao impacto de uma bala ou desviar a mais afiada das lâminas. Armadura padrão é geralmente produzida em massa, mas altamente eficaz mesmo contra armas de alto calibre.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -468,11 +468,11 @@ Relicários sagrados, artefatos abençoados e cruzes sagradas são frequentement
 |------|---------|----------------|
 | Equipamento | - | POSICIONAVEL |
 
-Um Santuário de Campo e representado por uma peça de terreno que tenha pelo menos 1/2" de altura e que esteja montada em uma base de 40mm. É Terreno Intransponível.
+Um Santuário de Campo é representado por uma peça de terreno que tenha pelo menos 1/2" de altura e que esteja montada em uma base de 40mm. É Terreno Intransponível.
 
-*Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em sua Warband que não estão Abatidos ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
+*Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em seu Bando que não estão Abatidos ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
 
-*Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele e removido do campo de batalha e removido da Ficha de Warband (nenhuma Rolagem de Ferimento e necessária).
+*Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Bando (nenhuma Rolagem de Ferimento é necessária).
 
 ### Máscara de Gás
 
@@ -578,7 +578,7 @@ Balas traçantes permitem que soldados ajustem sua mira eficientemente.
 
 ### Bandeira de Tropa
 
-A maioria das warbands e unidades carrega estandartes, bandeiras, flâmulas, pendões ou outros símbolos para reunir as tropas.
+A maioria das bandos e unidades carrega estandartes, bandeiras, flâmulas, pendões ou outros símbolos para reunir as tropas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|
@@ -594,7 +594,7 @@ Um artefato investido de poder profano. Exemplos incluem cabeças de nephilim, e
 
 ### Amuleto Profano
 
-Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por videntes e diabretes nós domínios Heréticos. Tal amuleto pode ser um crânio, feto preservado, chifre de bode, e e frequentemente coberto de runas Goeticas.
+Muitos Soldados Heréticos carregam um talismã ou amuleto que são vendidos por videntes e diabretes nós domínios Heréticos. Tal amuleto pode ser um crânio, feto preservado, chifre de bode, e é frequentemente coberto de runas Goeticas.
 
 | Tipo | Alcance | Palavras-Chave |
 |------|---------|----------------|

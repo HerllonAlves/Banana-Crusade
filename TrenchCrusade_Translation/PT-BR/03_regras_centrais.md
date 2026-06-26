@@ -8,13 +8,13 @@ Uma partida de Trench Crusade e dividida em Turnos, que são separados em uma Fa
 
 ## Fase de Iniciativa
 
-O jogador com o menor número de modelos em sua Warband tem a Iniciativa e pode escolher Ativar um modelo primeiro ou segundo. Se ambos os jogadores tiverem o mesmo número de modelos, cada jogador rola um dado e quem tirar o valor mais alto tem a Iniciativa.
+O jogador com o menor número de modelos em seu Bando tem a Iniciativa e pode escolher Ativar um modelo primeiro ou segundo. Se ambos os jogadores tiverem o mesmo número de modelos, cada jogador rola um dado e quem tirar o valor mais alto tem a Iniciativa.
 
 ---
 
 ## Fase de Ativação
 
-Quando for sua vez de Ativar um modelo, você deve escolher um modelo em sua Warband que ainda não foi Ativado e Ativa-lo. Seu oponente deve então Ativar um modelo, e assim por diante, alternando até que todos os modelos tenham sido Ativados. Um modelo não pode ser Ativado mais de uma vez por Turno.
+Quando for sua vez de Ativar um modelo, você deve escolher um modelo em seu Bando que ainda não foi Ativado e Ativá-lo. Seu oponente deve então Ativar um modelo, e assim por diante, alternando até que todos os modelos tenham sido Ativados. Um modelo não pode ser Ativado mais de uma vez por Turno.
 
 ### AÇÕES
 
@@ -22,7 +22,7 @@ O modelo Ativado pode realizar as seguintes AÇÕES uma vez cada, em qualquer or
 
 **Mover ou Carregar ou Recuar:** Você pode usar uma AÇÃO para Mover, Carregar ou Recuar com seu modelo, mas não mais de uma dessas opções.
 
-- **Mover:** Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção (nenhuma rolagem e necessária). Obstáculos de até 1" de altura podem ser cruzados sem penalidade, e seu modelo pode escalar superfícies abruptas se primeiro passar em uma Rolagem de Sucesso Arriscada. Terreno Difícil e cruzado na metade da velocidade. Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Carregar em vez disso).
+- **Mover:** Você pode mover seu modelo um número de polegadas igual a sua Característica de Movimento em qualquer direção (nenhuma rolagem e necessária). Obstáculos de até 1" de altura podem ser cruzados sem penalidade, e seu modelo pode escalar superfícies abruptas se primeiro passar em uma Rolagem de Sucesso Arriscada. Terreno Difícil é cruzado na metade da velocidade. Uma AÇÃO de Mover não pode ser usada para mover um modelo para dentro de 1" de um modelo inimigo (você deve usar uma AÇÃO de Carregar em vez disso).
 
 - **Carregar:** Escolha um modelo inimigo que seja visível ao seu modelo e esteja a 12" ou menos dele como alvo da carga. Em seguida, role um dado, adicione o resultado a Característica de Movimento do seu modelo e mova-o em direção ao alvo. Se seu modelo terminar seu movimento a 1" ou menos do alvo, ele pode Lutar (ver Lutar).
 
@@ -34,7 +34,7 @@ O modelo Ativado pode realizar as seguintes AÇÕES uma vez cada, em qualquer or
 
 **Lutar:** Você pode fazer um Ataque Corpo a Corpo com seu modelo se ele estiver a 1" de um inimigo e tiver uma Arma Corpo a Corpo (ver Ataques Corpo a Corpo).
 
-**Outro:** Alguns modelos tem outras AÇÕES que podem realizar durante suas Ativações (ver Criando uma Warband em Warbands of Trench Crusade).
+**Outro:** Alguns modelos têm outras AÇÕES que podem realizar durante suas Ativações (ver Criando um Bando em Warbands of Trench Crusade).
 
 ---
 
@@ -54,7 +54,7 @@ Se você estiver fazendo uma Rolagem de Sucesso Arriscada e falhar, a Ativação
 
 ### Regras de +DADO e -DADO
 
-Regras frequentemente tem modificadores em Rolagens de Sucesso marcados como +DADO e -DADO. Eles são mostrados no formato "+1 DADO" ou "-1 DADO".
+Regras frequentemente têm modificadores em Rolagens de Sucesso marcados como +DADO e -DADO. Eles são mostrados no formato "+1 DADO" ou "-1 DADO".
 
 Para cada +DADO, adicione 1 dado a Rolagem de Sucesso. Em seguida, role todos os dados e escolha os 2 resultados mais altos. Por exemplo, +1 DADO significa que você rola 3 dados e escolhe os 2 mais altos. Se +2 DADOS forem adicionados, role 4 dados e escolha os 2 mais altos, e assim por diante.
 
@@ -174,11 +174,11 @@ Uma vez que você tenha realizado todas as AÇÕES que deseja, ou tenha falhado 
 
 ## Fase de Moral
 
-Na Fase de Moral, se metade dos modelos em sua Warband estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer uma Rolagem de Sucesso. Se a rolagem for um Sucesso, sua Warband continua normalmente. Se a rolagem for uma Falha, sua Warband fica Abalada.
+Na Fase de Moral, se metade dos modelos em seu Bando estiverem Abatidos ou Fora de Ação (arredondado para cima), você deve fazer uma Rolagem de Sucesso. Se a rolagem for um Sucesso, seu Bando continua normalmente. Se a rolagem for uma Falha, seu Bando fica Abalada.
 
-### Warbands Abaladas
+### Bandos Abalados
 
-Todas as Rolagens de Sucesso feitas para uma Warband Abalada são tratadas como Rolagens de Sucesso Arriscadas. Na Fase de Moral ao final do próximo Turno, você deve fazer outra Rolagem de Sucesso para sua Warband, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se você tiver sucesso, sua Warband não está mais Abalada (embora possa ficar novamente se você falhar em uma verificacao de Moral em um turno futuro). No entanto, se você falhar, sua Warband foge e você imediatamente perde o jogo!
+Todas as Rolagens de Sucesso feitas para um Bando Abalado são tratadas como Rolagens de Sucesso Arriscadas. Na Fase de Moral ao final do próximo Turno, você deve fazer outra Rolagem de Sucesso para seu Bando, mesmo que menos de metade de seus modelos estejam Abatidos ou Fora de Ação. Se você tiver sucesso, seu Bando não está mais Abalado (embora possa ficar novamente se você falhar em uma verificacao de Moral em um turno futuro). No entanto, se você falhar, seu Bando foge e você imediatamente perde o jogo!
 
 ---
 

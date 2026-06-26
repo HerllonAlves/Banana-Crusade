@@ -1,18 +1,18 @@
 # Terreno de Trench Crusade
 
-Assim como um campo de batalha real teria características de terreno como edifícios, colinas e florestas, o campo de batalha para uma partida de Trench Crusade precisará de suas próprias características de terreno para fornecer cobertura para os guerreiros em sua Warband. O terreno que você coloca no campo de batalha e composto por modelos individuais chamados peças de terreno.
+Assim como um campo de batalha real teria características de terreno como edifícios, colinas e florestas, o campo de batalha para uma partida de Trench Crusade precisará de suas próprias características de terreno para fornecer cobertura para os guerreiros em seu Bando. O terreno que você coloca no campo de batalha e composto por modelos individuais chamados peças de terreno.
 
 ---
 
 ## O Campo de Batalha
 
-A área em que você joga sua partida e referida como o campo de batalha. Antes de montar o terreno para seu jogo, você precisará de um campo de batalha para coloca-lo. A maioria das partidas de Trench Crusade pode ser jogada em uma mesa de jantar, mas algumas requerem uma área de 36" ou 48" quadrados. Se você for jogar um desses cenários maiores, pode precisar construir uma mesa de jogo especial. Para todos os outros cenários, uma mesa de jantar padrão fornecerá mais que espaço suficiente para sua partida.
+A área em que você joga sua partida e referida como o campo de batalha. Antes de montar o terreno para seu jogo, você precisará de um campo de batalha para colocá-lo. A maioria das partidas de Trench Crusade pode ser jogada em uma mesa de jantar, mas algumas requerem uma área de 36" ou 48" quadrados. Se você for jogar um desses cenários maiores, pode precisar construir uma mesa de jogo especial. Para todos os outros cenários, uma mesa de jantar padrão fornecerá mais que espaço suficiente para sua partida.
 
 ---
 
 ## Peças de Terreno
 
-Além do campo de batalha, você precisará do maior número de peças de terreno que conseguir. Você pode comprar modelos de terreno plásticos adequados para uso como peças de terreno da mesma forma que pode comprar os modelos que compõem os guerreiros em sua Warband. Recomendamos que você use os modelos da crescente linha de terreno de Trench Crusade para seus jogos, mas não nós importamos se você decidir usar kits de outra empresa em vez dos nossos. Muitos jogadores gostam de construir artesanalmente as peças de terreno para seus jogos a partir de materiais de modelismo como plasticard, placa de espuma e cartão-espuma, cola PVA e areia de modelismo. Basta dizer que uma busca rápida na internet trará muitos exemplos de modelos de terreno que você pode usar, e artigos introdutórios sobre como construir terreno artesanalmente.
+Além do campo de batalha, você precisará do maior número de peças de terreno que conseguir. Você pode comprar modelos de terreno plásticos adequados para uso como peças de terreno da mesma forma que pode comprar os modelos que compõem os guerreiros em seu Bando. Recomendamos que você use os modelos da crescente linha de terreno de Trench Crusade para seus jogos, mas não nós importamos se você decidir usar kits de outra empresa em vez dos nossos. Muitos jogadores gostam de construir artesanalmente as peças de terreno para seus jogos a partir de materiais de modelismo como plasticard, placa de espuma e cartão-espuma, cola PVA e areia de modelismo. Basta dizer que uma busca rápida na internet trará muitos exemplos de modelos de terreno que você pode usar, e artigos introdutórios sobre como construir terreno artesanalmente.
 
 ### Um campo de batalha improvisado
 
@@ -130,7 +130,7 @@ As peças de terreno devem ser montadas de forma que cada peça de terreno estej
 
 ### RUÍNAS DECIMADAS
 
-Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias localizadas entre, ou logo atrás das, linhas de trincheira das Warbands adversárias. A guerra constante rapidamente reduz edifícios outrora orgulhosos a ruínas, entre as quais Warbands lutam entre si em brutais confrontos de curto alcance. O sucesso tático e estratégico pode ser medido por quem toma controle dos edifícios em ruínas, pilhas de entulho e veículos destruídos que espalham a paisagem estilhacada.
+Batalhas são frequentemente travadas para capturar cidades, vilas e aldeias localizadas entre, ou logo atrás das, linhas de trincheira das Bandos adversárias. A guerra constante rapidamente reduz edifícios outrora orgulhosos a ruínas, entre as quais Bandos lutam entre si em brutais confrontos de curto alcance. O sucesso tático e estratégico pode ser medido por quem toma controle dos edifícios em ruínas, pilhas de entulho e veículos destruídos que espalham a paisagem estilhacada.
 
 **Peças de Terreno de Ruínas Decimadas**
 

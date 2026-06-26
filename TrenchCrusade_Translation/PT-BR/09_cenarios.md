@@ -1,12 +1,12 @@
 # Cenários
 
-Esta seção do livro de regras inclui uma seleção de cenários que você pode usar para partidas de Trench Crusade. Cada cenário fornece as informações necessárias para preparar e jogar uma partida, quaisquer regras especiais que você precisará para jogar o cenário e detalhes de como o vencedor da partida e decidido.
+Esta seção do livro de regras inclui uma seleção de cenários que você pode usar para partidas de Trench Crusade. Cada cenário fornece as informações necessárias para preparar e jogar uma partida, quaisquer regras especiais que você precisará para jogar o cenário e detalhes de como o vencedor da partida é decidido.
 
 ---
 
 ## Preparando-se Para Jogar
 
-Para jogar uma partida de Trench Crusade, você precisará recrutar uma Warband (ver Criando uma Warband em Warbands of Trench Crusade), encontrar um oponente e então decidir qual cenário você e seu oponente querem jogar. Se estiver jogando uma partida de campanha, o cenário será determinado usando as regras (ver Selecionando um Cenário de Campanha). Se estiver jogando uma partida avulsa, você pode escolher qual cenário quer jogar; se não conseguirem concordar, façam um desempate e o vencedor pode escolher o cenário a ser usado.
+Para jogar uma partida de Trench Crusade, você precisará recrutar um Bando (ver Criando um Bando em Warbands of Trench Crusade), encontrar um oponente e então decidir qual cenário você e seu oponente querem jogar. Se estiver jogando uma partida de campanha, o cenário será determinado usando as regras (ver Selecionando um Cenário de Campanha). Se estiver jogando uma partida avulsa, você pode escolher qual cenário quer jogar; se não conseguirem concordar, façam um desempate e o vencedor pode escolher o cenário a ser usado.
 
 ### Lista de Cenários
 
@@ -39,9 +39,9 @@ O mapa para um cenário mostra as Zonas de Posicionamento para cada lado e onde 
 
 ### FORÇAS
 
-Cenários são disputados com uma seleção de modelos de sua Warband chamada Força. A primeira coisa que você deve fazer para jogar uma partida e escolher os modelos de sua Warband que comporão sua Força. Em uma partida avulsa, você geralmente poderá usar todos os modelos em sua Warband. No entanto, se estiver jogando uma partida de campanha, sua Força deve estar em conformidade com o Valor de Limiar e Força de Campo de sua Warband (ver Tabela de Limiar de Warband).
+Cenários são disputados com uma seleção de modelos de seu Bando chamada Força. A primeira coisa que você deve fazer para jogar uma partida e escolher os modelos de seu Bando que comporão sua Força. Em uma partida avulsa, você geralmente poderá usar todos os modelos em seu Bando. No entanto, se estiver jogando uma partida de campanha, sua Força deve estar em conformidade com o Valor de Limiar e Força de Campo de seu Bando (ver Tabela de Limiar de Bando).
 
-**Partidas Avulsas:** As regras de Trench Crusade são escritas primariamente para uso em campanhas (ver Regras de Campanha). No entanto, também podem ser usadas para partidas avulsas que não fazem parte de uma campanha. Em partidas avulsas, você precisará concordar em quantos 👑 podem ser gastos em suas Warbands, e se você permitira que as Warbands usem ☼ para comprar modelos, Mercenários ou Equipamento de Batalha. Se você e novo em Trench Crusade, recomendamos usar uma Warband inicial de 700 👑 para partidas avulsas. Uma vez que tenha adquirido alguma experiência, descobrimos que 800 👑 e 6 ☼ e um tamanho muito bom para partidas avulsas.
+**Partidas Avulsas:** As regras de Trench Crusade são escritas primariamente para uso em campanhas (ver Regras de Campanha). No entanto, também podem ser usadas para partidas avulsas que não fazem parte de uma campanha. Em partidas avulsas, você precisará concordar em quantos 👑 podem ser gastos em suas Bandos, e se você permitira que as Bandos usem ☼ para comprar modelos, Mercenários ou Equipamento de Batalha. Se você e novo em Trench Crusade, recomendamos usar um Bando inicial de 700 👑 para partidas avulsas. Uma vez que tenha adquirido alguma experiência, descobrimos que 800 👑 e 6 ☼ e um tamanho muito bom para partidas avulsas.
 
 ### O CAMPO DE BATALHA
 
@@ -49,7 +49,7 @@ A próxima coisa que você precisa fazer e montar o campo de batalha. A maioria 
 
 **Arquétipos de Campo de Batalha:** As instruções explicarão qual arquetipo de campo de batalha e usado para o cenário (ver Arquétipos de Campo de Batalha).
 
-**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador e montado em um local especifico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador e montado no "Ponto Médio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
+**Marcadores:** Alguns cenários pedirao que você monte um ou mais Marcadores. Quando um Marcador é montado em um local especifico, sua posição e marcada no mapa com uma cruz branca. Se um Marcador é montado no "Ponto Médio", ele deve ser montado com o centro do Marcador no centro do campo de batalha.
 
 **Terreno Bloqueador:** Você não tem permissao para montar terreno de forma que tornaria impossível para qualquer modelo usado na partida sair de sua Zona de Posicionamento ou alcançar um local onde um Marcador deve ser colocado.
 
@@ -57,7 +57,7 @@ A próxima coisa que você precisa fazer e montar o campo de batalha. A maioria 
 
 Em seguida, os jogadores devem posicionar os modelos de suas Forças. A menos que declarado de outra forma, você deve posicionar todos os modelos de sua Força.
 
-**Zonas de Posicionamento:** O mapa para o cenário mostrará uma área no campo de batalha referida como sua Zona de Posicionamento. Este e o local onde cada jogador pode posicionar seus modelos.
+**Zonas de Posicionamento:** O mapa para o cenário mostrará uma área no campo de batalha referida como sua Zona de Posicionamento. Este é o local onde cada jogador pode posicionar seus modelos.
 
 **Infiltradores:** Alguns modelos possuem a Palavra-Chave INFILTRADOR ou uma regra especial que permite que sejam posicionados após outros modelos e/ou fora da Zona de Posicionamento de seu lado. O cenário dirá se essas regras especiais de posicionamento podem ser usadas ou se os modelos devem ser posicionados normalmente.
 
@@ -77,11 +77,11 @@ As instruções explicarão quanto tempo a partida dura, geralmente declarando u
 
 Quando a partida terminar, siga as instruções para determinar quem venceu.
 
-**Pontos de Vitória:** Na maioria dos cenários, Pontos de Vitória (às vezes referidos como PVs) são usados para determinar quem vence e perde. Se ambos os jogadores marcarem o mesmo número de Pontos de Vitória, a partida e um empate.
+**Pontos de Vitória:** Na maioria dos cenários, Pontos de Vitória (às vezes referidos como PVs) são usados para determinar quem vence e perde. Se ambos os jogadores marcarem o mesmo número de Pontos de Vitória, a partida é um empate.
 
 ### FEITOS GLORIOSOS
 
-Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados, concedem Pontos de Vitória. Cada Feito Glorioso descreve uma condição; os Feitos Gloriosos são completados assim que a condição e cumprida pela primeira vez durante uma partida. A menos que declarado de outra forma, cada Feito Glorioso só pode ser completado uma vez, e quem completar o Feito primeiro recebe a glória! Se ambos os jogadores completarem o mesmo Feito Glorioso ao mesmo tempo, façam um desempate para determinar quem o completou primeiro.
+Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados, concedem Pontos de Vitória. Cada Feito Glorioso descreve uma condição; os Feitos Gloriosos são completados assim que a condição é cumprida pela primeira vez durante uma partida. A menos que declarado de outra forma, cada Feito Glorioso só pode ser completado uma vez, e quem completar o Feito primeiro recebe a glória! Se ambos os jogadores completarem o mesmo Feito Glorioso ao mesmo tempo, façam um desempate para determinar quem o completou primeiro.
 
 **Pontos de Glória:** Se estiver jogando uma partida de campanha, realizar um Feito Glorioso concede: 1 ☼, Pontos de Experiência para modelos ELITE, e 1D6 para seu Pool de Promoção.
 
@@ -101,7 +101,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Duração:** 4 Turnos.
 
-**Condições de Vitória:** Um jogador vence imediatamente se não houver modelos inimigos no campo de batalha ou se a Warband adversária fugir. Caso contrário, o jogador com mais Pontos de Vitória vence.
+**Condições de Vitória:** Um jogador vence imediatamente se não houver modelos inimigos no campo de batalha ou se a Bando adversária fugir. Caso contrário, o jogador com mais Pontos de Vitória vence.
 
 **Pontos de Vitória:**
 - Ao final de cada Turno, cada jogador marca 2 PVs para cada Objetivo que controla.
@@ -110,7 +110,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Feitos Gloriosos:**
 - **Sangria:** Um ataque feito por um modelo amigo resulta no sexto MARCADOR DE SANGUE sendo colocado ao lado de um modelo inimigo.
 - **Derrube-os:** Um modelo amigo faz um modelo inimigo Cair de uma altura de pelo menos 3".
-- **Mantenha a Posição:** Uma Warband e a primeira a passar em um Teste de Moral nesta partida.
+- **Mantenha a Posição:** Uma Bando e a primeira a passar em um Teste de Moral nesta partida.
 - **Senhor da Guerra:** Um modelo amigo coloca dois modelos inimigos Fora de Ação com Ataques Corpo a Corpo em um único Turno.
 - **Resistir e Morder:** Um modelo amigo que iniciou sua Ativação Abatido coloca um modelo inimigo Fora de Ação na mesma Ativação.
 - **Franco-Atirador:** Um modelo amigo coloca um modelo ELITE inimigo Fora de Ação com um Ataque a Distância que tenha os modificadores de Longo Alcance e Cobertura.
@@ -122,7 +122,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 *Cace os líderes inimigos enquanto protege os seus.*
 
-**Forças:** Ambos os jogadores devem incluir o maior número possível de modelos ELITE de suas Warbands.
+**Forças:** Ambos os jogadores devem incluir o maior número possível de modelos ELITE de suas Bandos.
 
 **Campo de Batalha:** Arquetipo Terra de Ninguem. Inclui 4 Marcadores de Objetivo e 4 Marcadores de Obras de Defesa (2 Baterias de Canhão "G" e 2 Posições de Metralhadora "M").
 
@@ -189,7 +189,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 *Assalte as trincheiras para ganhar glória ou monte uma defesa contra o ataque inimigo.*
 
-**Forças:** Antes de montar, decidam quem e atacante e defensor. O jogador com mais modelos e o atacante. O defensor deve gastar apenas metade dos 👑 em sua Warband.
+**Forças:** Antes de montar, decidam quem e atacante e defensor. O jogador com mais modelos é o atacante. O defensor deve gastar apenas metade dos 👑 em seu Bando.
 
 **Campo de Batalha:** Arquetipo Terra de Ninguem. Não monte terreno em nenhuma Zona de Posicionamento.
 
@@ -207,16 +207,16 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 **Feitos Gloriosos:**
 - **Boa Caça:** Modelo amigo coloca inimigo Fora de Ação com Ataque a Distância em Longo Alcance.
 - **Tiro na Cabeça:** Modelo que recuou coloca inimigo do qual recuou Fora de Ação.
-- **Mantenha a Posição:** Primeira Warband a passar Teste de Moral.
+- **Mantenha a Posição:** Primeira Bando a passar Teste de Moral.
 - **Para as Trincheiras!:** Modelo amigo carrega inimigo em seção de trincheira e coloca Fora de Ação com Ataque Corpo a Corpo.
 - **Sobreviver para Contar:** Modelo amigo sobrevive a 2 Rolagens de Ferimento por explosoes de minas.
-- **Vitória ou Morte:** Warband vence a partida (somente campanha).
+- **Vitória ou Morte:** Bando vence a partida (somente campanha).
 
 ---
 
 # V. Trem Blindado
 
-*Um trem blindado descarrilado, carregado de saque e municao, está sendo disputado pelas duas warbands.*
+*Um trem blindado descarrilado, carregado de saque e municao, está sendo disputado pelas duas bandos.*
 
 **Forças:** Em campanha, ambos os jogadores tem Força de Campo de 15 modelos.
 
@@ -280,7 +280,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 *Invada os suprimentos inimigos ou defenda seus depósitos contra o assalto.*
 
-**Forças:** Decidam atacante e defensor. O jogador com mais modelos e o atacante.
+**Forças:** Decidam atacante e defensor. O jogador com mais modelos é o atacante.
 
 **Campo de Batalha:** Arquetipo Terra de Ninguem ou Ruínas Decimadas. Posicione 6 Marcadores de Depósito de Suprimentos (alternando, começando pelo defensor). Suprimentos podem ser destruídos com ataques PESADOS ou Corpo a Corpo.
 
@@ -297,11 +297,11 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 
 **Feitos Gloriosos:**
 - **Invasao Ousada (Atacante):** Modelo amigo destrói um Depósito.
-- **Mantenha a Posição:** Primeira Warband a passar Teste de Moral.
+- **Mantenha a Posição:** Primeira Bando a passar Teste de Moral.
 - **Devastacao (Atacante):** Modelo amigo destrói um segundo Depósito.
 - **Salve os Suprimentos! (Defensor):** 4+ Depósitos não destruídos ao final.
 - **Detenha-os! (Defensor):** Modelo amigo coloca inimigo Fora de Ação na Zona de Posicionamento inimiga.
-- **Vitória ou Morte:** Warband vence a partida (somente campanha).
+- **Vitória ou Morte:** Bando vence a partida (somente campanha).
 
 ---
 
@@ -368,7 +368,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 - **Ceifador:** Modelo amigo coloca três inimigos Fora de Ação.
 - **Arriscar Tudo:** Modelo amigo faz duas Rolagens de Sucesso Arriscadas na mesma Ativação, ambas Sucesso ou Sucesso Crítico.
 - **O Verdadeiro Matador:** Modelo amigo coloca inimigo em Terreno Perigoso ou Difícil Fora de Ação.
-- **Invasor de Trincheiras:** Warband captura seção de trincheira de pelo menos 6" dentro de 8" da Zona inimiga.
+- **Invasor de Trincheiras:** Bando captura seção de trincheira de pelo menos 6" dentro de 8" da Zona inimiga.
 
 ---
 
@@ -376,7 +376,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 
 *Cuidado com o gás venenoso ao assaltar bunkers inimigos ou repelir atacantes com o poder do gás mostarda!*
 
-**Forças:** Decidam atacante e defensor. O jogador com mais modelos e o atacante.
+**Forças:** Decidam atacante e defensor. O jogador com mais modelos é o atacante.
 
 **Campo de Batalha:** Arquetipo Terra de Ninguem, campo de 48" x 48". Sem terreno nas Zonas de Posicionamento. Defensor monta 6 seções de trincheira de pelo menos 8", 4 Marcadores de Bunker e 12 Marcadores de Mina de Gás (4 são engodos).
 
@@ -397,7 +397,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 - **Visão Ardente:** Modelo amigo faz Nuvem de Gás a mais de 14" explodir e coloca inimigos Fora de Ação.
 - **Combustivel:** Explosão de Nuvem de Gás coloca 2+ inimigos Fora de Ação.
 - **Respiracao Profunda:** Modelo amigo faz inimigo ser colocado Fora de Ação ao move-lo para dentro de 6" de Nuvem de Gás.
-- **Pulmões de Ferro:** Warband controla Bunker dentro de 6" de Nuvem de Gás ao final de 2 Turnos consecutivos.
+- **Pulmões de Ferro:** Bando controla Bunker dentro de 6" de Nuvem de Gás ao final de 2 Turnos consecutivos.
 - **Furia Venenosa:** Modelo amigo dentro de 6" de Nuvem de Gás coloca inimigo Fora de Ação com Ataque Corpo a Corpo.
 
 ---
@@ -427,7 +427,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 - **De Volta a Lama:** Modelo amigo faz inimigo em Objetivo Cair, resultando em Fora de Ação.
 - **Morte Vinda de Cima:** Modelo amigo coloca inimigo Fora de Ação com Carga Mergulhante.
 - **Abaixo com Você:** Modelo amigo em Objetivo usa Ataque a Distância para colocar inimigo em Objetivo diferente e mais alto Fora de Ação.
-- **Vitória ou Morte:** Warband vence a partida (somente campanha).
+- **Vitória ou Morte:** Bando vence a partida (somente campanha).
 - **Rei da Colina:** Modelo esteve em todos os cinco Objetivos.
 
 ---

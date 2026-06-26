@@ -1,6 +1,6 @@
 # Trench Crusade — Glossário Oficial PT-BR
 
-Referência canônica de tradução para criação de conteúdo homebrew. Todos os termos aqui estabelecidos devem ser usados de forma consistente em warbands, cenários, relatos e lore.
+Referência canônica de tradução para criação de conteúdo homebrew. Todos os termos aqui estabelecidos devem ser usados de forma consistente em bandos, cenários, relatos e lore.
 
 ---
 
@@ -21,7 +21,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 
 | Inglês (ALL CAPS) | PT-BR (ALL CAPS) | Efeito Resumido |
 | :--- | :--- | :--- |
-| LEADER | LÍDER | Único por warband. Bônus de moral para aliados próximos. |
+| LEADER | LÍDER | Único por bando. Bônus de moral para aliados próximos. |
 | ELITE | ELITE | Ganha XP, pode ser promovido, tem Rolagem de Trauma. |
 | FOLLOWER | SEGUIDOR | Infantaria básica. Sem XP, sem Rolagem de Trauma. |
 | TOUGH | RESISTENTE | Ao receber Abatido, role novamente: em 4+ trata como Marcador de Sangue. |
@@ -72,7 +72,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Out of Action | Fora de Ação | Rolagem de Ferimento 9+, ou 6 Marcadores de Sangue. | Removido do campo. Elites rolam Trauma. |
 | On Fire | Em Chamas | Armas com FOGO ou LANÇA-CHAMAS. | Rolagem de Ferimento automática no início de cada ativação. |
 | Gassed | Gaseado | Armas com GÁS. | Penalidade em todos os testes; Marcador de Sangue extra por turno. |
-| Shaken | Abalada | Falha no Teste de Moral (metade da Warband Abatida/Fora de Ação). | Todas as Rolagens de Sucesso viram Arriscadas. Falha no próximo Teste de Moral = derrota. |
+| Shaken | Abalada | Falha no Teste de Moral (metade do Bando Abatida/Fora de Ação). | Todas as Rolagens de Sucesso viram Arriscadas. Falha no próximo Teste de Moral = derrota. |
 | Infected | Infectado | Armas com MARCADOR DE INFECÇÃO. | -1 permanente em atributo por marcador até o fim da batalha. |
 | Feared | Aterrorizado | Falha em teste de moral contra MEDO. | Não pode atacar o causador do medo neste turno. |
 
@@ -147,8 +147,8 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Quartermaster Step | Etapa do Intendente | Compra, venda e designação de equipamentos. |
 | Glorious Deed | Feito Glorioso | Ação notável que concede +1 XP e/ou +1 Ponto de Glória. |
 | Advancement Milestone | Marco de Avanço | Quantidade de XP que aciona uma Rolagem de Avanço. |
-| Field Strength | Força de Campo | Número máximo de modelos que uma warband leva por jogo. |
-| Warband Threshold | Limiar da Warband | Tabela de orçamento e Field Strength por número de jogo. |
+| Field Strength | Força de Campo | Número máximo de modelos que um bando leva por jogo. |
+| Bando Threshold | Limiar do Bando | Tabela de orçamento e Field Strength por número de jogo. |
 
 ---
 
@@ -166,7 +166,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 
 | Inglês | PT-BR | Regras |
 | :--- | :--- | :--- |
-| ELITE / LEADER | ELITE / LÍDER | Único LÍDER por warband. Ganha XP, Rolagem de Trauma, pode avançar. |
+| ELITE / LEADER | ELITE / LÍDER | Único LÍDER por bando. Ganha XP, Rolagem de Trauma, pode avançar. |
 | ELITE | ELITE | Modelo nomeado com XP e progressão. Tem Rolagem de Trauma. |
 | Follower | Seguidor | Infantaria básica. Sem XP, sem progressão, sem Rolagem de Trauma. |
 | Hired Sword / Mercenary | Mercenário | Contratado com Pontos de Glória. Sem XP, sem Rolagem de Trauma. |
