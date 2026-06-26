@@ -60,7 +60,7 @@ Algumas palavras nas regras são escritas em LETRAS MAIÚSCULAS, como AÇÃO ou 
 
 ### TESTES DE SUCESSO
 
-Durante uma partida de Trench Crusade, você frequentemente terá que fazer um Teste de Sucesso para um modelo e consultar o resultado na tabela de Teste de Sucesso para ver se o modelo realizou uma tarefa com sucesso. Por exemplo, se você quiser que um modelo faça um Ataque a Distância, deve fazer um Teste de Sucesso para o modelo para ver se o ataque acerta o alvo, e assim por diante. As regras dizem quando você precisa fazer um Teste de Sucesso e o que o resultado do Teste de Sucesso significa. Por exemplo, se o Teste de Sucesso para um Ataque a Distância for uma Falha, o ataque erra o alvo. Se for um Sucesso, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo. Se for um Sucesso Crítico, o ataque acerta e você faz uma Rolagem de Ferimento para o alvo com +1 DADO DE FERIMENTO.
+Durante uma partida de Trench Crusade, você frequentemente terá que fazer um Teste de Sucesso para um modelo e consultar o resultado na tabela de Teste de Sucesso para ver se o modelo realizou uma tarefa com sucesso. Por exemplo, se você quiser que um modelo faça um Ataque a Distância, deve fazer um Teste de Sucesso para o modelo para ver se o ataque acerta o alvo, e assim por diante. As regras dizem quando você precisa fazer um Teste de Sucesso e o que o resultado do Teste de Sucesso significa. Por exemplo, se o Teste de Sucesso para um Ataque a Distância for uma Falha, o ataque erra o alvo. Se for um Sucesso, o ataque acerta e você faz um Teste de Ferimento para o alvo. Se for um Sucesso Crítico, o ataque acerta e você faz um Teste de Ferimento para o alvo com +1 DADO DE FERIMENTO.
 
 **Procedimento do Teste de Sucesso**
 
@@ -100,11 +100,11 @@ Se tanto +DADO quanto -DADO forem adicionados a mesmo Teste de Sucesso, remova p
 
 **Dados de Ferimento**
 
-As regras às vezes se referem a +/-DADOS DE FERIMENTO. Estes funcionam da mesma forma que +/-DADOS, exceto que adicionam dados a uma Rolagem de Ferimento em vez de um Teste de Sucesso (ver Rolagens de Ferimento).
+As regras às vezes se referem a +/-DADOS DE FERIMENTO. Estes funcionam da mesma forma que +/-DADOS, exceto que adicionam dados a um Teste de Ferimento em vez de um Teste de Sucesso (ver Testes de Ferimento).
 
 **Dado e Dado de Ferimento**
 
-Note que se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica a Testes de Sucesso, não a Rolagens de Ferimento. Da mesma forma, se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Rolagens de Ferimento e não a Testes de Sucesso.
+Note que se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica a Testes de Sucesso, não a Testes de Ferimento. Da mesma forma, se um modelo ou peça de Equipamento de Batalha tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Testes de Ferimento e não a Testes de Sucesso.
 
 ---
 
@@ -130,7 +130,7 @@ Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANG
 
 Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE SANGUE, seu oponente pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione -1 DADO o Teste de Sucesso. Por exemplo, se você estivesse fazendo um Teste de Sucesso para um modelo que tivesse 3 MARCADORES DE SANGUE, então o jogador adversário poderia escolher gastar 1, 2 ou todos os 3 MARCADORES DE SANGUE para adicionar -1, -2 ou -3 DADOS o Teste de Sucesso.
 
-Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito mais provável (ver Rolagens de Ferimento).
+Alternativamente, quando seu oponente fizer um Teste de Ferimento para um modelo da seu Bando que tenha MARCADORES DE SANGUE, ele pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE SANGUE do modelo conforme são gastos. Para cada MARCADOR DE SANGUE gasto, adicione +1 DADO DE FERIMENTO o Teste de Ferimento, tornando um ferimento grave muito mais provável (ver Testes de Ferimento).
 
 ---
 
@@ -146,7 +146,7 @@ Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE B�
 
 Toda vez que você fizer um Teste de Sucesso para um modelo amigo que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione +1 DADO o Teste de Sucesso.
 
-Alternativamente, quando seu oponente fizer uma Rolagem de Ferimento para um modelo da seu Bando que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO a Rolagem de Ferimento, tornando um ferimento grave muito menos provável.
+Alternativamente, quando seu oponente fizer um Teste de Ferimento para um modelo da seu Bando que tenha MARCADORES DE BÊNÇÃO, você pode declarar que está gastando um ou mais deles, removendo os MARCADORES DE BÊNÇÃO do modelo conforme são gastos. Para cada MARCADOR DE BÊNÇÃO gasto, adicione -1 DADO DE FERIMENTO o Teste de Ferimento, tornando um ferimento grave muito menos provável.
 
 **Rastreando Marcadores de Sangue e Bênção**
 
@@ -348,7 +348,7 @@ Note que completar uma investida não permite automaticamente que você Lute: pa
 
 ### RECUO
 
-Realizar uma AÇÃO de Recuar com um modelo permite que você faça um tipo especial de movimento, chamado recuo, que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar. Antes de você fazer, ou ser forçado a fazer, um movimento de recuo com um modelo, seu oponente pode realizar uma AÇÃO de Lutar com cada modelo inimigo que esteja dentro de 1" do modelo recuando. Quando um modelo ataca um modelo inimigo recuando, ele só pode fazer 1 ataque corpo a corpo com 1 arma (não pode usar a regra de Multiplos Ataques Corpo a Corpo, mas se a arma atacante tiver a Palavra-Chave GOLPE VARRENTE(X), ela ainda se aplicara). Após realizar o(s) ataque(s), você pode mover o modelo recuando desde que ele não tenha sofrido um resultado Derrubado ou Fora de Ação (ver Rolagens de Ferimento). Um modelo recuando deve terminar seu movimento de recuo a mais de 1" de todos os modelos inimigos. Se isso for impossível, ele não pode se mover. Note que reposicionar um modelo não conta como um movimento de recuo.
+Realizar uma AÇÃO de Recuar com um modelo permite que você faça um tipo especial de movimento, chamado recuo, que é usado quando um modelo está dentro de 1" de um modelo inimigo e deseja se afastar. Antes de você fazer, ou ser forçado a fazer, um movimento de recuo com um modelo, seu oponente pode realizar uma AÇÃO de Lutar com cada modelo inimigo que esteja dentro de 1" do modelo recuando. Quando um modelo ataca um modelo inimigo recuando, ele só pode fazer 1 ataque corpo a corpo com 1 arma (não pode usar a regra de Multiplos Ataques Corpo a Corpo, mas se a arma atacante tiver a Palavra-Chave GOLPE VARRENTE(X), ela ainda se aplicara). Após realizar o(s) ataque(s), você pode mover o modelo recuando desde que ele não tenha sofrido um resultado Derrubado ou Fora de Ação (ver Testes de Ferimento). Um modelo recuando deve terminar seu movimento de recuo a mais de 1" de todos os modelos inimigos. Se isso for impossível, ele não pode se mover. Note que reposicionar um modelo não conta como um movimento de recuo.
 
 ---
 
@@ -398,13 +398,13 @@ Se a lacuna que um modelo está Saltando for mais alta no lado de onde ele está
 
 **Pulando Para Baixo**
 
-Quando você move um modelo, ele pode Pular Para Baixo como parte do movimento. Pular Para Baixo não afeta a distância que você pode mover o modelo (o Pulo Para Baixo e "gratuito"). No entanto, se um modelo Pular Para Baixo 3" ou mais, isso conta como Queda e você deve fazer uma Rolagem de Ferimento para o modelo antes de continuar com seu movimento (ver Queda).
+Quando você move um modelo, ele pode Pular Para Baixo como parte do movimento. Pular Para Baixo não afeta a distância que você pode mover o modelo (o Pulo Para Baixo e "gratuito"). No entanto, se um modelo Pular Para Baixo 3" ou mais, isso conta como Queda e você deve fazer um Teste de Ferimento para o modelo antes de continuar com seu movimento (ver Queda).
 
 ---
 
 ### QUEDA
 
-Quando um modelo Cai, ele e movido de sua posição atual para a primeira superfície plana que ele pode ocupar diretamente abaixo da posição de onde caiu. Se ele Cair 3" ou mais, você deve fazer uma Rolagem de Ferimento para o modelo para ver se foi prejudicado. Adicione +1 DADO DE FERIMENTO a rolagem para cada 3" que ele Cair (por exemplo, uma Queda de 3-5" seria rolada com +1 DADO, uma Queda de 6-8" com +2 DADOS, e assim por diante).
+Quando um modelo Cai, ele e movido de sua posição atual para a primeira superfície plana que ele pode ocupar diretamente abaixo da posição de onde caiu. Se ele Cair 3" ou mais, você deve fazer um Teste de Ferimento para o modelo para ver se foi prejudicado. Adicione +1 DADO DE FERIMENTO a rolagem para cada 3" que ele Cair (por exemplo, uma Queda de 3-5" seria rolada com +1 DADO, uma Queda de 6-8" com +2 DADOS, e assim por diante).
 
 ---
 
@@ -437,7 +437,7 @@ Quando um modelo faz um Ataque a Distância, você deve escolher um modelo inimi
 
 **Atirando para Dentro do Corpo a Corpo**
 
-Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer um de seus modelos, deve rolar um D6 para determinar quem e o alvo: em 1-3 você deve atacar um de seus próprios modelos, em 4-6 você pode atacar um modelo inimigo. Note que, a menos que declarado de outra forma, a única vez que você decide aleatoriamente qual modelo e afetado por algo e quando você faz um Ataque a Distância com um modelo e o alvo está dentro de 1" de outro modelo de seu Bando. Por exemplo, se um modelo amigo fizesse um Ataque a Distância com uma Arma que tivesse a Palavra-Chave EXPLOSÃO, e o alvo estivesse dentro de 1" de um modelo de seu Bando, então você escolheria aleatoriamente o alvo antes de fazer o Teste de Sucesso para ver se o ataque acerta, mas você não aleatorizaria as Rolagens de Ferimento para quaisquer modelos que fossem pegos no raio de explosão da Arma após o acerto ter sido marcado. Da mesma forma, se uma regra permitisse que você colocasse um MARCADOR DE SANGUE ao lado de um modelo inimigo, você não escolheria aleatoriamente ao lado de qual modelo colocar o marcador se o modelo inimigo estivesse dentro de 1" de um modelo amigo, e assim por diante.
+Se você quiser atirar em um modelo inimigo que esteja dentro de 1" de qualquer um de seus modelos, deve rolar um D6 para determinar quem e o alvo: em 1-3 você deve atacar um de seus próprios modelos, em 4-6 você pode atacar um modelo inimigo. Note que, a menos que declarado de outra forma, a única vez que você decide aleatoriamente qual modelo e afetado por algo e quando você faz um Ataque a Distância com um modelo e o alvo está dentro de 1" de outro modelo de seu Bando. Por exemplo, se um modelo amigo fizesse um Ataque a Distância com uma Arma que tivesse a Palavra-Chave EXPLOSÃO, e o alvo estivesse dentro de 1" de um modelo de seu Bando, então você escolheria aleatoriamente o alvo antes de fazer o Teste de Sucesso para ver se o ataque acerta, mas você não aleatorizaria as Testes de Ferimento para quaisquer modelos que fossem pegos no raio de explosão da Arma após o acerto ter sido marcado. Da mesma forma, se uma regra permitisse que você colocasse um MARCADOR DE SANGUE ao lado de um modelo inimigo, você não escolheria aleatoriamente ao lado de qual modelo colocar o marcador se o modelo inimigo estivesse dentro de 1" de um modelo amigo, e assim por diante.
 
 **Medindo o Alcance**
 
@@ -459,7 +459,7 @@ Em seguida, você deve determinar se há modificadores que afetarão o ataque. M
 
 **Teste de Sucesso de Ataque a Distância**
 
-Finalmente, faça um Teste de Sucesso para o modelo atacante. Se a rolagem for uma Falha, o ataque erra e nada mais acontece. Se a rolagem for um Sucesso, o alvo e acertado e você deve fazer uma Rolagem de Ferimento (ver Rolagens de Ferimento). Se a rolagem for um Sucesso Crítico, o alvo e acertado e +1 DADO e adicionado a Rolagem de Ferimento.
+Finalmente, faça um Teste de Sucesso para o modelo atacante. Se a rolagem for uma Falha, o ataque erra e nada mais acontece. Se a rolagem for um Sucesso, o alvo e acertado e você deve fazer um Teste de Ferimento (ver Testes de Ferimento). Se a rolagem for um Sucesso Crítico, o alvo e acertado e +1 DADO e adicionado o Teste de Ferimento.
 
 ---
 
@@ -494,7 +494,7 @@ Em seguida, você deve determinar se há modificadores que afetarão o ataque. M
 
 **Teste de Sucesso de Ataque Corpo a Corpo**
 
-Finalmente, faça um Teste de Sucesso para o modelo atacante. Se a rolagem for uma Falha, o ataque erra e nada mais acontece. Se a rolagem for um Sucesso, o alvo e acertado e você deve fazer uma Rolagem de Ferimento para ver que efeito o ataque teve no modelo alvo (ver Ferimentos). Se a rolagem for um Sucesso Crítico, o alvo e acertado e +1 DADO e adicionado a Rolagem de Ferimento.
+Finalmente, faça um Teste de Sucesso para o modelo atacante. Se a rolagem for uma Falha, o ataque erra e nada mais acontece. Se a rolagem for um Sucesso, o alvo e acertado e você deve fazer um Teste de Ferimento para ver que efeito o ataque teve no modelo alvo (ver Ferimentos). Se a rolagem for um Sucesso Crítico, o alvo e acertado e +1 DADO e adicionado o Teste de Ferimento.
 
 **Múltiplas Armas Corpo a Corpo**
 
@@ -504,33 +504,33 @@ Um modelo que tenha duas Armas Corpo a Corpo pode usar uma única AÇÃO de Luta
 
 ### INVESTIDA MERGULHANTE
 
-Você pode converter uma investida de um modelo amigo em uma Investida Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça um Teste de Sucesso Arriscado para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e uma Rolagem de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO o Teste de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
+Você pode converter uma investida de um modelo amigo em uma Investida Mergulhante se ele Pular Para Baixo pelo menos 3" e aterrissar dentro de 1" de um alvo. Se fizer isso, faça um Teste de Sucesso Arriscado para o modelo após ele Pular Para Baixo. Se a rolagem for uma Falha, o modelo fica Derrubado, e um Teste de Ferimento por Queda deve então ser feita para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer um Teste de Ferimento por Queda para o modelo, e pode adicionar +1 DADO o Teste de Sucesso para o próximo Ataque Corpo a Corpo que o modelo fizer.
 
 ---
 
 ## Ferimentos
 
-Durante partidas de Trench Crusade, modelos podem ser feridos por ataques, quedas de terreno elevado, ou ao tentar se mover através de Terreno Perigoso. Independentemente de como ocorra, quando um modelo inimigo sofre um ferimento, você deve fazer uma Rolagem de Ferimento para o modelo.
+Durante partidas de Trench Crusade, modelos podem ser feridos por ataques, quedas de terreno elevado, ou ao tentar se mover através de Terreno Perigoso. Independentemente de como ocorra, quando um modelo inimigo sofre um ferimento, você deve fazer um Teste de Ferimento para o modelo.
 
-### Rolagens de Ferimento
+### Testes de Ferimento
 
-Uma Rolagem de Ferimento e feita de forma semelhante a um Teste de Sucesso, pegando 2D6, adicionando dados extras a rolagem e então escolhendo os dois dados mais altos ou mais baixos e somando-os. No entanto, quando você faz uma Rolagem de Ferimento, DADOS DE FERIMENTO e MODIFICADORES DE FERIMENTO podem ser adicionados a rolagem em vez de +/-DADOS.
+Umo Teste de Ferimento e feita de forma semelhante a um Teste de Sucesso, pegando 2D6, adicionando dados extras a rolagem e então escolhendo os dois dados mais altos ou mais baixos e somando-os. No entanto, quando você faz um Teste de Ferimento, DADOS DE FERIMENTO e MODIFICADORES DE FERIMENTO podem ser adicionados a rolagem em vez de +/-DADOS.
 
-**DADO DE FERIMENTO:** +/-DADOS DE FERIMENTO são adicionados a uma Rolagem de Ferimento da mesma forma que +/-DADOS são adicionados a um Teste de Sucesso (ver Testes de Sucesso).
+**DADO DE FERIMENTO:** +/-DADOS DE FERIMENTO são adicionados a um Teste de Ferimento da mesma forma que +/-DADOS são adicionados a um Teste de Sucesso (ver Testes de Sucesso).
 
-**MODIFICADOR DE FERIMENTO:** +/-MODIFICADORES DE FERIMENTO são aplicados a Rolagem de Ferimento. Faça a Rolagem de Ferimento, adicionando quaisquer +/-DADOS DE FERIMENTO, e então adicione ou subtraia quaisquer MODIFICADORES DE FERIMENTO da rolagem. O máximo de -MODIFICADOR DE FERIMENTO não pode ser mais que -3 no total.
+**MODIFICADOR DE FERIMENTO:** +/-MODIFICADORES DE FERIMENTO são aplicados o Teste de Ferimento. Faça o Teste de Ferimento, adicionando quaisquer +/-DADOS DE FERIMENTO, e então adicione ou subtraia quaisquer MODIFICADORES DE FERIMENTO da rolagem. O máximo de -MODIFICADOR DE FERIMENTO não pode ser mais que -3 no total.
 
-Por exemplo, uma Rolagem de Ferimento tem um modificador de +1 DADO DE FERIMENTO e um -1 MODIFICADOR DE FERIMENTO. 3 dados são rolados, resultando em 2, 4 e 5. Os dois dados mais altos são usados, dando uma rolagem de 9. Então o -1 MODIFICADOR DE FERIMENTO e aplicado, subtraindo 1 da rolagem e mudando-a para 8. A rolagem e consultada na Tabela de Ferimento, que da um resultado Derrubado para a Rolagem de Ferimento.
+Por exemplo, um Teste de Ferimento tem um modificador de +1 DADO DE FERIMENTO e um -1 MODIFICADOR DE FERIMENTO. 3 dados são rolados, resultando em 2, 4 e 5. Os dois dados mais altos são usados, dando uma rolagem de 9. Então o -1 MODIFICADOR DE FERIMENTO e aplicado, subtraindo 1 da rolagem e mudando-a para 8. A rolagem e consultada na Tabela de Ferimento, que da um resultado Derrubado para o Teste de Ferimento.
 
-Note que se uma regra disser que um modelo fica Derrubado ou Fora de Ação, aplique o Resultado apropriado da Tabela de Rolagem de Ferimento por completo (o que significa que um modelo que fica Derrubado terá um MARCADOR DE SANGUE colocado ao lado dele).
+Note que se uma regra disser que um modelo fica Derrubado ou Fora de Ação, aplique o Resultado apropriado da Tabela de Teste de Ferimento por completo (o que significa que um modelo que fica Derrubado terá um MARCADOR DE SANGUE colocado ao lado dele).
 
 ### Rolagens de Banho de Sangue
 
-Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Derrubado) para converter a Rolagem de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3D6 e some todos os 3 dados. Adicione +/-DADOS DE FERIMENTO e +/-MODIFICADORES DE FERIMENTO da mesma forma que faria em uma Rolagem de Ferimento, exceto que você escolhe os 3 dados mais altos ou mais baixos na rolagem em vez dos 2 mais altos ou mais baixos. Se a Rolagem de Ferimento tiver a Palavra-Chave LETAL, em vez disso role 4D6 e some todos os 4 dados.
+Quando você fizer um Teste de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Derrubado) para converter o Teste de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3D6 e some todos os 3 dados. Adicione +/-DADOS DE FERIMENTO e +/-MODIFICADORES DE FERIMENTO da mesma forma que faria em um Teste de Ferimento, exceto que você escolhe os 3 dados mais altos ou mais baixos na rolagem em vez dos 2 mais altos ou mais baixos. Se o Teste de Ferimento tiver a Palavra-Chave LETAL, em vez disso role 4D6 e some todos os 4 dados.
 
-### Fazendo uma Rolagem de Ferimento
+### Fazendo um Teste de Ferimento
 
-Para fazer uma Rolagem de Ferimento para um modelo, siga os seguintes passos:
+Para fazer um Teste de Ferimento para um modelo, siga os seguintes passos:
 
 1. Pegue 2 D6.
 2. Adicione quaisquer +/-DADOS DE FERIMENTO (ver "Combinando +DADO e -DADO").
@@ -538,9 +538,9 @@ Para fazer uma Rolagem de Ferimento para um modelo, siga os seguintes passos:
 4. Escolha os 2 dados mais altos se algum +DADO DE FERIMENTO foi adicionado a rolagem, ou os 2 mais baixos se algum -DADO DE FERIMENTO foi adicionado a rolagem.
 5. Some os 2 dados.
 6. Adicione quaisquer +/-MODIFICADORES DE FERIMENTO a rolagem.
-7. Consulte o resultado na Tabela de Rolagem de Ferimento abaixo.
+7. Consulte o resultado na Tabela de Teste de Ferimento abaixo.
 
-**Tabela de Rolagem de Ferimento**
+**Tabela de Teste de Ferimento**
 
 | Rolagem | Resultado |
 |---------|-----------|
@@ -549,19 +549,19 @@ Para fazer uma Rolagem de Ferimento para um modelo, siga os seguintes passos:
 | 7-8 | Derrubado. Coloque 1 MARCADOR DE SANGUE ao lado do modelo e marque-o como estando Derrubado. Se o modelo já estiver Derrubado, coloque 2 MARCADORES DE SANGUE ao lado do modelo em vez de 1. |
 | 9+ | Fora de Ação. O modelo foi gravemente ferido ou morto e e removido do campo de batalha. |
 
-**Modificadores Comuns de Rolagem de Ferimento**
+**Modificadores Comuns de Teste de Ferimento**
 
-Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIMENTO adicionado a uma Rolagem de Ferimento não pode ser mais que -3 no total.
+Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIMENTO adicionado a um Teste de Ferimento não pode ser mais que -3 no total.
 
 - **Marcadores de Bênção:** Adicione -1 DADO DE FERIMENTO para cada MARCADOR DE BÊNÇÃO gasto.
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
 - **Derrubado:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
-- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou quaisquer +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento.
+- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou quaisquer +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem o Teste de Ferimento.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento de Batalha:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento de Batalha do modelo (ex: Armadura, Escudo, etc.).
 
-*Exemplo de jogo: Um Soldado Herético faz um Ataque a Distância que acerta um Castigador Peregrino das Trincheiras que tem 2 MARCADORES DE SANGUE e Armadura Padrão. O jogador Herético decide usar ambos os MARCADORES DE SANGUE para tornar o tiro mais provável de ferir. O jogador Herético pega 4D6 (2D6 +2 DADOS DE FERIMENTO dos MARCADORES DE SANGUE) e rola 2, 5, 4 e 1. Como dois +DADOS DE FERIMENTO foram adicionados a rolagem, os dois números mais altos são usados para a Rolagem de Ferimento, dando um total de 9. A armadura do Castigador adiciona -1 MODIFICADOR DE FERIMENTO, então o total é reduzido em 1, para dar uma rolagem modificada de 8. O jogador Herético consulta a Tabela de Ferimento e descobre que o Peregrino está Derrubado!*
+*Exemplo de jogo: Um Soldado Herético faz um Ataque a Distância que acerta um Castigador Peregrino das Trincheiras que tem 2 MARCADORES DE SANGUE e Armadura Padrão. O jogador Herético decide usar ambos os MARCADORES DE SANGUE para tornar o tiro mais provável de ferir. O jogador Herético pega 4D6 (2D6 +2 DADOS DE FERIMENTO dos MARCADORES DE SANGUE) e rola 2, 5, 4 e 1. Como dois +DADOS DE FERIMENTO foram adicionados a rolagem, os dois números mais altos são usados para o Teste de Ferimento, dando um total de 9. A armadura do Castigador adiciona -1 MODIFICADOR DE FERIMENTO, então o total é reduzido em 1, para dar uma rolagem modificada de 8. O jogador Herético consulta a Tabela de Ferimento e descobre que o Peregrino está Derrubado!*
 
 ---
 

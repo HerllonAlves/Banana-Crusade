@@ -26,7 +26,7 @@ Cada peça de Equipamento de Batalha tem uma Descrição de Equipamento de Batal
     - *Outro:* Se o alcance está listado como "-", o Equipamento de Batalha não pode ser usado para fazer um ataque.
   - **Palavras-Chave:** Quaisquer Palavras-Chave que se apliquem à peça de Equipamento de Batalha.
     - *Palavras-Chave de Arma:* Palavras-Chave para Armas de 1 Mão ou 2 Mãos e Granadas se aplicam a ataques feitos pelo modelo que possui a arma (ignore-as em todos os outros momentos).
-    - *Palavras-Chave de Armadura e Escudo:* Palavras-Chave para Armadura e Escudos se aplicam a Rolagens de Ferimento para o modelo que possui a Armadura e/ou Escudo (ignore-as em todos os outros momentos).
+    - *Palavras-Chave de Armadura e Escudo:* Palavras-Chave para Armadura e Escudos se aplicam a Testes de Ferimento para o modelo que possui a Armadura e/ou Escudo (ignore-as em todos os outros momentos).
     - *Outras Palavras-Chave de Equipamento de Batalha:* Palavras-Chave para outro Equipamento de Batalha são adicionadas as Palavras-Chave encontradas no Perfil do modelo. Elas se aplicam o tempo todo, a menos que declarado especificamente de outra forma.
 - **Regras Especiais:** Alguns Equipamentos de Batalha possuem regras especiais que se aplicam exclusivamente a eles. Regras especiais aparecem abaixo do Perfil de Equipamento de Batalha.
 
@@ -34,7 +34,7 @@ Cada peça de Equipamento de Batalha tem uma Descrição de Equipamento de Batal
 
 ## Dado de Arma e Dado de Ferimento
 
-Note que se uma Arma tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica os Testes de Sucesso para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Teste de Sucesso, ou a Rolagens de Ferimento. Da mesma forma, se uma Arma tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Rolagens de Ferimento para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Rolagem de Ferimento, ou a Testes de Sucesso.
+Note que se uma Arma tiver a Palavra-Chave +/-DADO, então a Palavra-Chave só se aplica os Testes de Sucesso para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Teste de Sucesso, ou a Testes de Ferimento. Da mesma forma, se uma Arma tiver a Palavra-Chave +/-DADO DE FERIMENTO, então a Palavra-Chave só se aplica a Testes de Ferimento para ataques feitos pela arma. Ela não se aplica a nenhum outro tipo de Teste de Ferimento, ou a Testes de Sucesso.
 
 ---
 
@@ -218,7 +218,7 @@ Um rifle de precisão e um rifle de alta precisão e longo alcance, amplamente u
 |------|---------|----------------|
 | 2 Mãos | 48" | +1 DADO, CRÍTICO, ARRISCADO |
 
-*Tiro Certeiro:* Se o Teste de Sucesso para um Ataque a Distância feito com um Rifle de Precisão for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
+*Tiro Certeiro:* Se o Teste de Sucesso para um Ataque a Distância feito com um Rifle de Precisão for um Sucesso Crítico, então o Teste de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Submetralhadora
 
@@ -352,7 +352,7 @@ Granadas incendiárias podem incendiar seu alvo com enxofre, fósforo ou gás in
 |------|---------|----------------|
 | Granada | 8" | ASSALTO, FOGO, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
-*Fogo Líquido:* Se o Teste de Sucesso para um Ataque a Distância feito com uma Granada Incendiária for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
+*Fogo Líquido:* Se o Teste de Sucesso para um Ataque a Distância feito com uma Granada Incendiária for um Sucesso Crítico, então o Teste de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Coquetel Molotov
 
@@ -362,7 +362,7 @@ Desenvolvido na desesperada fronteira de batalha finlandesa contra demônios de 
 |------|---------|----------------|
 | Granada | 6" | -1 DADO DE FERIMENTO, ASSALTO, FOGO, IGNORAR COBERTURA, IGNORAR LONGO ALCANCE |
 
-*Fogo Líquido:* Se o Teste de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então a Rolagem de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
+*Fogo Líquido:* Se o Teste de Sucesso para um Ataque a Distância feito com um Coquetel Molotov for um Sucesso Crítico, então o Teste de Ferimento para o ataque tem a Palavra-Chave IGNORAR ARMADURA.
 
 ### Investida Explosiva
 
@@ -378,7 +378,7 @@ Explosivos de campo projetados para destruir fortificações inimigas e romper a
 
 ## Escudos
 
-Palavras-Chave para Escudos só se aplicam a Rolagens de Ferimento para o modelo que está usando o Escudo (ignore-as em todos os outros momentos). O efeito de um Escudo pode ser combinado com o efeito de uma Armadura, a menos que anotado de outra forma. Um Escudo não bloqueia Linha de Visão para o modelo que o carrega.
+Palavras-Chave para Escudos só se aplicam a Testes de Ferimento para o modelo que está usando o Escudo (ignore-as em todos os outros momentos). O efeito de um Escudo pode ser combinado com o efeito de uma Armadura, a menos que anotado de outra forma. Um Escudo não bloqueia Linha de Visão para o modelo que o carrega.
 
 ### Escudo de Trincheira
 
@@ -392,7 +392,7 @@ Escudos usados na guerra de trincheiras são feitos de aço reforcado com oricha
 
 ## Armadura
 
-Palavras-Chave para Armadura só se aplicam a Rolagens de Ferimento para o modelo que está vestindo a Armadura (ignore-as em todos os outros momentos). Às vezes o MODIFICADOR DE FERIMENTO para Armadura ou um Escudo está listado na Tabela de Modificadores de Ferimento nas Regras Centrais e é repetido por completude no Perfil da Armadura ou Escudo também. Quando este for o caso, tenha cuidado para não aplicar o modificador mais de uma vez.
+Palavras-Chave para Armadura só se aplicam a Testes de Ferimento para o modelo que está vestindo a Armadura (ignore-as em todos os outros momentos). Às vezes o MODIFICADOR DE FERIMENTO para Armadura ou um Escudo está listado na Tabela de Modificadores de Ferimento nas Regras Centrais e é repetido por completude no Perfil da Armadura ou Escudo também. Quando este for o caso, tenha cuidado para não aplicar o modificador mais de uma vez.
 
 ### Armadura Reforçada
 
@@ -472,7 +472,7 @@ Um Santuário de Campo é representado por uma peça de terreno que tenha pelo m
 
 *Local de Adoração:* Após posicionar um modelo que possua Santuário de Campo, você também pode posicionar seu Santuário de Campo em qualquer lugar inteiramente dentro de sua zona de posicionamento. Na Fase de Moral, cada Santuário de Campo amigo no campo de batalha adiciona 3 ao número de modelos que você tem em seu Bando que não estão Derrubados ou Fora de Ação, até um bônus máximo de 9 modelos extras. Uma vez posicionado, o modelo que tinha o Santuário de Campo não é considerado como estando carregando-o pelo resto da partida.
 
-*Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Bando (nenhuma Rolagem de Ferimento é necessária).
+*Derrube-o!:* Modelos podem atacar um Santuário de Campo como se fosse um modelo inimigo. Se for acertado por um ataque ou estiver no raio de explosão de um ataque feito com uma Arma que tenha a Palavra-Chave EXPLOSÃO, ele é removido do campo de batalha e removido da Ficha de Bando (nenhum Teste de Ferimento é necessária).
 
 ### Máscara de Gás
 

@@ -72,7 +72,7 @@ O combate e dividido em Ataques a Distância e Ataques Corpo a Corpo. Ataques a 
 
 1. Escolha uma Arma a Distância e então selecione um alvo que seja visível ao seu modelo e esteja dentro do alcance da arma.
 2. Faça um Teste de Sucesso para o modelo atacante.
-3. Se a rolagem for uma Falha, o ataque erra e não tem efeito. Se a rolagem for um Sucesso, acerta, então faça uma Rolagem de Ferimento para o alvo. Adicione +1 DADO DE FERIMENTO se o ataque foi um Sucesso Crítico.
+3. Se a rolagem for uma Falha, o ataque erra e não tem efeito. Se a rolagem for um Sucesso, acerta, então faça um Teste de Ferimento para o alvo. Adicione +1 DADO DE FERIMENTO se o ataque foi um Sucesso Crítico.
 
 **Atirando para Dentro do Corpo a Corpo**
 
@@ -92,7 +92,7 @@ Os seguintes modificadores são cumulativos:
 
 1. Escolha uma Arma Corpo a Corpo e selecione um alvo a 1" do seu modelo.
 2. Faça um Teste de Sucesso para o modelo atacante.
-3. Se a rolagem for uma Falha, o ataque erra e não tem efeito. Se a rolagem for um Sucesso, acerta, então faça uma Rolagem de Ferimento para o alvo. Adicione +1 DADO DE FERIMENTO se o ataque foi um Sucesso Crítico.
+3. Se a rolagem for uma Falha, o ataque erra e não tem efeito. Se a rolagem for um Sucesso, acerta, então faça um Teste de Ferimento para o alvo. Adicione +1 DADO DE FERIMENTO se o ataque foi um Sucesso Crítico.
 
 **Modificadores de Ataque Corpo a Corpo**
 
@@ -101,17 +101,17 @@ Os seguintes modificadores são cumulativos:
 - **Múltiplas Armas Corpo a Corpo:** Se seu modelo estiver armado com duas Armas Corpo a Corpo, pode atacar com ambas, uma após a outra na ordem de sua escolha. Adicione -1 DADO para o segundo ataque.
 - **MEDO:** Adicione -1 DADO se seu oponente tiver a Palavra-Chave MEDO. Se ambos os modelos causarem MEDO, o efeito se cancela.
 - **Obstáculo Defendido:** Adicione -1 DADO se o alvo estiver em cobertura. Um modelo está em cobertura se estiver em contato com uma peça de terreno que tenha pelo menos 1/2" de altura e seja tão larga quanto sua base, e a peça de terreno esteja entre ele e o modelo atacante.
-- **Investida Mergulhante:** Um modelo pode tentar uma Investida Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça um Teste de Sucesso Arriscado para o modelo. Se a rolagem for uma Falha, o modelo fica Derrubado e uma Rolagem de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer uma Rolagem de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
+- **Investida Mergulhante:** Um modelo pode tentar uma Investida Mergulhante contra modelos inimigos que estejam pelo menos 3" abaixo dele. Faça um Teste de Sucesso Arriscado para o modelo. Se a rolagem for uma Falha, o modelo fica Derrubado e um Teste de Ferimento por Queda deve ser realizada para o modelo (ver Queda). Se a rolagem for um Sucesso, você não precisa fazer um Teste de Ferimento por Queda para o modelo, e pode adicionar +1 DADO ao próximo Ataque Corpo a Corpo que o modelo realizar.
 
 **Queda**
 
-Quando um modelo Pula, Mergulha ou Cai 3" ou mais, há uma chance de ser ferido. Para verificar, faça uma Rolagem de Ferimento para o modelo e adicione +1 DADO DE FERIMENTO para cada 3" que o modelo caiu.
+Quando um modelo Pula, Mergulha ou Cai 3" ou mais, há uma chance de ser ferido. Para verificar, faça um Teste de Ferimento para o modelo e adicione +1 DADO DE FERIMENTO para cada 3" que o modelo caiu.
 
 ---
 
-### Rolagens de Ferimento
+### Testes de Ferimento
 
-Para fazer uma Rolagem de Ferimento, role dois dados e adicione quaisquer +DADOS DE FERIMENTO ou -DADOS DE FERIMENTO a rolagem. +/-DADOS DE FERIMENTO funcionam da mesma forma que +/-DADOS, mas modificam Rolagens de Ferimento em vez de Testes de Sucesso. Escolha os dois dados mais altos (ou mais baixos se algum -DADO DE FERIMENTO foi usado). Quaisquer MODIFICADORES DE FERIMENTO que se apliquem são então adicionados a rolagem, e a rolagem modificada e consultada na tabela abaixo:
+Para fazer um Teste de Ferimento, role dois dados e adicione quaisquer +DADOS DE FERIMENTO ou -DADOS DE FERIMENTO a rolagem. +/-DADOS DE FERIMENTO funcionam da mesma forma que +/-DADOS, mas modificam Testes de Ferimento em vez de Testes de Sucesso. Escolha os dois dados mais altos (ou mais baixos se algum -DADO DE FERIMENTO foi usado). Quaisquer MODIFICADORES DE FERIMENTO que se apliquem são então adicionados a rolagem, e a rolagem modificada e consultada na tabela abaixo:
 
 **Tabela de Ferimento**
 
@@ -122,7 +122,7 @@ Para fazer uma Rolagem de Ferimento, role dois dados e adicione quaisquer +DADOS
 | 7 a 8 | Derrubado. Coloque 1 MARCADOR DE SANGUE ao lado do modelo e marque-o como estando Derrubado (ver abaixo). Se o modelo já estiver Derrubado, coloque 2 MARCADORES DE SANGUE ao lado do modelo em vez de 1. |
 | 9+ | Fora de Ação. O modelo foi gravemente ferido ou morto e e removido do jogo. |
 
-**Modificadores de Resultado da Rolagem de Ferimento**
+**Modificadores de Resultado do Teste de Ferimento**
 
 Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIMENTO não pode ser mais que -3 no total.
 
@@ -130,7 +130,7 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 - **Marcadores de Sangue:** Adicione +1 DADO DE FERIMENTO para cada MARCADOR DE SANGUE gasto.
 - **Sucesso Crítico:** Adicione +1 DADO DE FERIMENTO.
 - **Derrubado:** Adicione +1 DADO DE FERIMENTO para um Ataque Corpo a Corpo se o alvo estiver Derrubado.
-- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem a Rolagem de Ferimento.
+- **Habilidades ou Palavras-Chave:** Adicione quaisquer +/-DADOS DE FERIMENTO e/ou +/-MODIFICADORES DE FERIMENTO para habilidades ou Palavras-Chave que se apliquem o Teste de Ferimento.
 - **Característica de Armadura:** Adicione o -MODIFICADOR DE FERIMENTO da Característica de Armadura do modelo (se houver).
 - **Equipamento:** Adicione o -MODIFICADOR DE FERIMENTO do Equipamento do modelo (ex: Armadura, Escudo, etc.).
 
@@ -140,17 +140,17 @@ Os seguintes modificadores são cumulativos. O máximo de -MODIFICADOR DE FERIME
 
 Durante uma batalha, seus guerreiros podem ser feridos. Os ferimentos são rastreados com MARCADORES DE SANGUE. Um modelo não pode ter mais de 6 MARCADORES DE SANGUE ao mesmo tempo. Recomendamos usar um dado vermelho para rastrear o número de MARCADORES DE SANGUE em um modelo.
 
-Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANGUE ao lado dele. Quando você fizer um Teste de Sucesso para o modelo, seu oponente pode escolher gastar um ou mais MARCADORES DE SANGUE para adicionar -1 DADO. Além disso, cada vez que seu oponente fizer uma Rolagem de Ferimento para o modelo, ele pode escolher gastar um ou mais MARCADORES DE SANGUE para adicionar +1 DADO DE FERIMENTO, tornando um ferimento grave muito mais provável.
+Cada vez que um de seus modelos sofrer um ferimento, coloque um MARCADOR DE SANGUE ao lado dele. Quando você fizer um Teste de Sucesso para o modelo, seu oponente pode escolher gastar um ou mais MARCADORES DE SANGUE para adicionar -1 DADO. Além disso, cada vez que seu oponente fizer um Teste de Ferimento para o modelo, ele pode escolher gastar um ou mais MARCADORES DE SANGUE para adicionar +1 DADO DE FERIMENTO, tornando um ferimento grave muito mais provável.
 
 ### Rolagem de Banho de Sangue
 
-Quando você fizer uma Rolagem de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Derrubado) para converter a Rolagem de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3 dados, some todos os três e consulte o resultado na Tabela de Ferimento.
+Quando você fizer um Teste de Ferimento para um modelo inimigo, você pode gastar 6 MARCADORES DE SANGUE (ou 3 MARCADORES DE SANGUE se o alvo estiver Derrubado) para converter o Teste de Ferimento em uma Rolagem de Banho de Sangue. Para fazer uma Rolagem de Banho de Sangue, role 3 dados, some todos os três e consulte o resultado na Tabela de Ferimento.
 
 ---
 
 ## Marcadores de Bênção
 
-MARCADORES DE BÊNÇÃO são semelhantes aos MARCADORES DE SANGUE, mas especificamente auxiliam os Testes de Sucesso do modelo. Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE BÊNÇÃO ao lado dele. Quando você fizer um Teste de Sucesso para o modelo, você pode escolher gastar um ou mais MARCADORES DE BÊNÇÃO para adicionar +1 DADO, e cada vez que uma Rolagem de Ferimento for feita para o modelo, você pode gastar um ou mais MARCADORES DE BÊNÇÃO para adicionar -1 DADO DE FERIMENTO.
+MARCADORES DE BÊNÇÃO são semelhantes aos MARCADORES DE SANGUE, mas especificamente auxiliam os Testes de Sucesso do modelo. Cada vez que um de seus modelos receber uma bênção, coloque um MARCADOR DE BÊNÇÃO ao lado dele. Quando você fizer um Teste de Sucesso para o modelo, você pode escolher gastar um ou mais MARCADORES DE BÊNÇÃO para adicionar +1 DADO, e cada vez que um Teste de Ferimento for feita para o modelo, você pode gastar um ou mais MARCADORES DE BÊNÇÃO para adicionar -1 DADO DE FERIMENTO.
 
 ---
 

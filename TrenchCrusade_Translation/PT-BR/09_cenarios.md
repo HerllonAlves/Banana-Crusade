@@ -209,7 +209,7 @@ Cada cenário tem um conjunto único de Feitos Gloriosos que, quando completados
 - **Tiro na Cabeça:** Modelo que recuou coloca inimigo do qual recuou Fora de Ação.
 - **Mantenha a Posição:** Primeira Bando a passar Teste de Moral.
 - **Para as Trincheiras!:** Modelo amigo carrega inimigo em seção de trincheira e coloca Fora de Ação com Ataque Corpo a Corpo.
-- **Sobreviver para Contar:** Modelo amigo sobrevive a 2 Rolagens de Ferimento por explosoes de minas.
+- **Sobreviver para Contar:** Modelo amigo sobrevive a 2 Testes de Ferimento por explosoes de minas.
 - **Vitória ou Morte:** Bando vence a partida (somente campanha).
 
 ---
@@ -384,7 +384,7 @@ Se a Besta despertar, todos os modelos ficam Fora de Ação e a partida termina 
 
 **Posicionamento:** Defensor posiciona máximo 6, atacante posiciona 6+D3. Reforços cada Turno (D3).
 
-**Destruindo Bunkers:** Modelos ELITE atacantes tem Cargas de Demolição. AÇÕES: Colocar Carga (em contato com Bunker) e Detonar Carga (Rolagem de Ferimento IGNORAR ARMADURA para modelos dentro de 3").
+**Destruindo Bunkers:** Modelos ELITE atacantes tem Cargas de Demolição. AÇÕES: Colocar Carga (em contato com Bunker) e Detonar Carga (Teste de Ferimento IGNORAR ARMADURA para modelos dentro de 3").
 
 **Duração:** Ao final do 5o Turno, role D6: em 1-2 termina; em 3+, termina no 6o Turno.
 

@@ -72,7 +72,7 @@
 |--------|-------|
 | Success Roll | Teste de Sucesso |
 | Risky Success Roll | Teste de Sucesso Arriscado |
-| Injury Roll | Rolagem de Ferimento |
+| Injury Roll | Teste de Ferimento |
 | Bloodbath Roll | Rolagem de Banho de Sangue |
 | Trauma Roll | Rolagem de Trauma |
 | +DICE | +DADO |

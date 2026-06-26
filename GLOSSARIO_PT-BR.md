@@ -32,7 +32,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | INFILTRATOR | INFILTRADOR | Pode ser colocado em qualquer ponto do campo antes da partida. |
 | SKIRMISHER | ESCARAMUÇADOR | Move e atira sem penalidade. Recua do corpo a corpo sem ataque gratuito. |
 | ASSAULT | ASSALTO | Move e atira na mesma ativação. Pode atirar após Investida. |
-| DEADLY | LETAL | Em Crítico, adiciona +1 dado extra à Rolagem de Ferimento. |
+| DEADLY | LETAL | Em Crítico, adiciona +1 dado extra ao Teste de Ferimento. |
 | REGENERATE | REGENERAR | Remove 1 Marcador de Sangue no início de cada ativação. |
 | HEAVY | PESADO | Requer FORTE para usar sem penalidade; senão, -1 ação por turno. |
 
@@ -42,19 +42,19 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 
 | Inglês (ALL CAPS) | PT-BR (ALL CAPS) | Efeito Resumido |
 | :--- | :--- | :--- |
-| AUTOMATIC(X) | AUTOMÁTICO(X) | Em sucesso, role X Rolagens de Ferimento extras contra o mesmo alvo. |
-| BLAST(X") | EXPLOSÃO(X") | Área de efeito com raio X". Todos dentro sofrem Rolagem de Ferimento. |
+| AUTOMATIC(X) | AUTOMÁTICO(X) | Em sucesso, role X Testes de Ferimento extras contra o mesmo alvo. |
+| BLAST(X") | EXPLOSÃO(X") | Área de efeito com raio X". Todos dentro sofrem Teste de Ferimento. |
 | RELOAD | RECARREGAR | Após disparar, gasta 1 ação para recarregar antes de usar novamente. |
 | PISTOL | PISTOLA | Pode ser usada em corpo a corpo sem penalidade. Não requer 2 mãos. |
 | BAYONET LUG | SUPORTE DE BAIONETA | A arma pode receber baioneta; usada como arma corpo a corpo básica. |
 | FOCUSED FIRE | FOGO CONCENTRADO | 2+ modelos com FOGO CONCENTRADO no mesmo alvo somam dados de sucesso. |
 | SHRAPNEL | ESTILHAÇO | Em EXPLOSÃO, modelos na área recebem Marcadores de Sangue extras em falhas. |
 | FLAMETHROWER | LANÇA-CHAMAS | Área em linha. Ignora Cobertura. Aplica FOGO mesmo em "Sem Efeito". |
-| FIRE | FOGO | Alvo fica Em Chamas: Rolagem de Ferimento automática no início de cada ativação. |
+| FIRE | FOGO | Alvo fica Em Chamas: Teste de Ferimento automático no início de cada ativação. |
 | GÁS | GÁS | Aplica Gaseado: Penalidade em todos os testes; Marcador de Sangue extra por turno. |
-| IGNORE ARMOUR | IGNORAR ARMADURA | A Armadura do alvo não é aplicada à Rolagem de Ferimento. |
-| CRITICAL | CRÍTICO | Em Sucesso Crítico, role +2 dados na Rolagem de Ferimento em vez de +1. |
-| RISKY | ARRISCADO | Em falha, o atirador também sofre uma Rolagem de Ferimento. |
+| IGNORE ARMOUR | IGNORAR ARMADURA | A Armadura do alvo não é aplicada ao Teste de Ferimento. |
+| CRITICAL | CRÍTICO | Em Sucesso Crítico, role +2 dados no Teste de Ferimento em vez de +1. |
+| RISKY | ARRISCADO | Em falha, o atirador também sofre um Teste de Ferimento. |
 | DESPATCH | EXECUÇÃO | Se o alvo estiver Derrubado, ignora a Armadura automaticamente. |
 | INFECTION MARKER | MARCADOR DE INFECÇÃO | Ao ferir, coloca marcador que reduz atributos até o fim da batalha. |
 | CLEAVE(X) | GOLPE VARRENTE(X) | Se o ataque remove um modelo, X de dano excedente atinge outro adjacente. |
@@ -68,9 +68,9 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 
 | Inglês | PT-BR | Como é Adquirido | Efeito |
 | :--- | :--- | :--- | :--- |
-| Down | Derrubado | Rolagem de Ferimento 7–8. | Não pode agir. Aliados podem levantar (1 ação). Inimigos podem executar. |
-| Out of Action | Fora de Ação | Rolagem de Ferimento 9+, ou 6 Marcadores de Sangue. | Removido do campo. Elites rolam Trauma. |
-| On Fire | Em Chamas | Armas com FOGO ou LANÇA-CHAMAS. | Rolagem de Ferimento automática no início de cada ativação. |
+| Down | Derrubado | Teste de Ferimento 7–8. | Não pode agir. Aliados podem levantar (1 ação). Inimigos podem executar. |
+| Out of Action | Fora de Ação | Teste de Ferimento 9+, ou 6 Marcadores de Sangue. | Removido do campo. Elites rolam Trauma. |
+| On Fire | Em Chamas | Armas com FOGO ou LANÇA-CHAMAS. | Teste de Ferimento automático no início de cada ativação. |
 | Gassed | Gaseado | Armas com GÁS. | Penalidade em todos os testes; Marcador de Sangue extra por turno. |
 | Shaken | Abalado | Falha no Teste de Moral (metade do Bando Derrubada/Fora de Ação). | Todos os Testes de Sucesso viram Arriscados. Falha no próximo Teste de Moral = derrota. |
 | Infected | Infectado | Armas com MARCADOR DE INFECÇÃO. | -1 permanente em atributo por marcador até o fim da batalha. |
@@ -82,7 +82,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 
 | Inglês | PT-BR | Símbolo | Regras |
 | :--- | :--- | :---: | :--- |
-| Blood Marker | Marcador de Sangue | 🩸 | Máx. 6. Cada um: +1 à Rolagem de Ferimento contra o modelo. 6 = Fora de Ação automático. |
+| Blood Marker | Marcador de Sangue | 🩸 | Máx. 6. Cada um: +1 ao Teste de Ferimento contra o modelo. 6 = Fora de Ação automático. |
 | Blessing Marker | Marcador de Bênção | ✨ | Máx. 6. Gaste 1 para: +DADO em qualquer teste OU remover 1 Marcador de Sangue. |
 | Infection Marker | Marcador de Infecção | ☣ | Cada um: -1 em um atributo até o fim da batalha. Removido com Água Benta. |
 | Glory Points | Pontos de Glória | ☼ | Moeda secundária para mercenários e itens especiais de campanha. |
@@ -94,8 +94,8 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | Inglês | PT-BR | Descrição |
 | :--- | :--- | :--- |
 | Success Roll | Teste de Sucesso | 2D6: 2–6 Falha / 7–11 Sucesso / 12+ Crítico. |
-| Injury Roll | Rolagem de Ferimento | 2D6: 1 Sem Efeito / 2–6 Marcador de Sangue / 7–8 Derrubado / 9+ Fora de Ação. |
-| Bloodbath Roll | Rolagem de Banho de Sangue | 3D6 em Rolagem de Ferimento ao gastar 6 Marcadores de Sangue (ou 3 se Derrubado). |
+| Injury Roll | Teste de Ferimento | 2D6: 1 Sem Efeito / 2–6 Marcador de Sangue / 7–8 Derrubado / 9+ Fora de Ação. |
+| Bloodbath Roll | Rolagem de Banho de Sangue | 3D6 em Teste de Ferimento ao gastar 6 Marcadores de Sangue (ou 3 se Derrubado). |
 | Trauma Roll | Rolagem de Trauma | D66 pós-batalha para cada ELITE colocado Fora de Ação. |
 | Advancement Roll | Rolagem de Avanço | Rolagem 2D6 em tabela de habilidades ao atingir marco de XP. |
 | Success Dice (+DICE) | +DADO | Role dados extras; escolha os 2 melhores resultados. |
@@ -126,7 +126,7 @@ Referência canônica de tradução para criação de conteúdo homebrew. Todos 
 | :--- | :--- | :--- |
 | Open | Aberto | Sem penalidade de movimento. |
 | Difficult | Difícil | Conta como 2" por 1" movido. |
-| Dangerous | Perigoso | Ao entrar, teste de Velocidade. Falha = Rolagem de Ferimento automática. |
+| Dangerous | Perigoso | Ao entrar, teste de Velocidade. Falha = Teste de Ferimento automático. |
 | Impassable | Intransponível | Não pode ser atravessado. |
 | Light Cover | Cobertura Leve | -1 ao ataque à distância. |
 | Heavy Cover | Cobertura Pesada | -DADO (Penalidade) ao ataque à distância. |
